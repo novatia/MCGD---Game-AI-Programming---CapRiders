@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b6b8da7665fe948a7a5ac0c3da1beb, type: 3}
+  m_Name: France_Descriptor
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_FirstColor
+  - m_SecondColor
+  - m_SupportersFirstColor
+  - m_SupportersSecondColor
+  - m_DefaultLineUps
+  _serializedStateValues:
+  - '{"r":0.0,"g":0.0,"b":1.0,"a":1.0}'
+  - '{"r":1.0,"g":0.0,"b":0.0,"a":1.0}'
+  - '{"r":0.0,"g":0.0,"b":1.0,"a":1.0}'
+  - '{"r":1.0,"g":0.8000001,"b":0.0,"a":1.0}'
+  - '[["POGBA"],["POGBA","GIROUD"],["LLORIS","POGBA","GIROUD"],["LLORIS","EVRA","POGBA","GIROUD"],["LLORIS","EVRA","POGBA","KOSCIELNY","GIROUD"],["LLORIS","EVRA","KANTE","POGBA","KOSCIELNY","GIROUD"],["LLORIS","EVRA","KANTE","POGBA","KOSCIELNY","GRIEZMANN","GIROUD"],["LLORIS","EVRA","KANTE","MATUIDI","POGBA","KOSCIELNY","GRIEZMANN","GIROUD"],["LLORIS","DIGNE","EVRA","KANTE","MATUIDI","POGBA","KOSCIELNY","GRIEZMANN","GIROUD"],["LLORIS","DIGNE","EVRA","KANTE","MATUIDI","POGBA","PAYET","KOSCIELNY","GRIEZMANN","GIROUD"],["LLORIS","DIGNE","EVRA","KANTE","MATUIDI","POGBA","PAYET","GRIEZMANN","KOSCIELNY","MARTIAL","GIROUD"]]'
+  m_TeamName: FRANCE
+  m_Flag: {fileID: 21300024, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  m_Icon: {fileID: 21300006, guid: c2610db8988299e4599b648a0bea8d79, type: 3}
+  m_BaseSprite: {fileID: 21300028, guid: 32dbe4864ca3a5e4b862a85c3b215a1d, type: 3}
+  m_FirstColor: {r: 0, g: 0, b: 1, a: 1}
+  m_SecondColor: {r: 1, g: 0, b: 0, a: 1}
+  m_SupportersFirstColor: {r: 0, g: 0, b: 1, a: 1}
+  m_SupportersSecondColor: {r: 1, g: 0.8000001, b: 0, a: 1}
+  m_TeamStats: {fileID: 11400000, guid: b120f617d5e74664ba542bd74bf07f55, type: 2}
+  m_CharactersKeys:
+  - KANTE
+  - DIGNE
+  - EVRA
+  - GIROUD
+  - GRIEZMANN
+  - KOSCIELNY
+  - LLORIS
+  - MARTIAL
+  - MATUIDI
+  - POGBA
+  - PAYET

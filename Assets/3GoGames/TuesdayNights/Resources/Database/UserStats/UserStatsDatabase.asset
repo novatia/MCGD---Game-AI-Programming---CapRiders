@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdc3ea6182bebb743af53f6bc23d30be, type: 3}
+  m_Name: UserStatsDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_List
+  _serializedStateValues:
+  - '[{"m_Id":"IBRAHIMOVIC_GOALS","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Add","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"VARDY_GOALS","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Add","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"RONALDO_GOALS","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Add","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"ELSHARAAWY_GOALS","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Add","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"INIESTA_GOALS","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Add","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"GOTZE_GOALS","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Add","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"HAZARD_GOALS","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Add","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"POGBA_GOALS","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Add","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"MATCHES_PLAYED","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Add","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"MATCHES_PLAYED_WITH_REFEREE","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Add","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"MIN_SUFFERED_GOALS","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":10000,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Min","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"MAX_SCORED_GOALS","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Max","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"BIGGER_TEAM_SIZE","m_Type":"Int","m_LowLimit":true,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Max","m_BooleanCombineFunction":"Set","m_StringCombineFunction":"Set"},{"m_Id":"RESULT_71","m_Type":"Bool","m_LowLimit":false,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Set","m_BooleanCombineFunction":"Add","m_StringCombineFunction":"Set"},{"m_Id":"REAL_POOL","m_Type":"Bool","m_LowLimit":false,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Set","m_BooleanCombineFunction":"Add","m_StringCombineFunction":"Set"},{"m_Id":"ITA_BEATS_FRA","m_Type":"Bool","m_LowLimit":false,"m_HighLimit":false,"m_DefaultIntValue":0,"m_MinIntValue":0,"m_MaxIntValue":0,"m_DefaultBoolValue":false,"m_DefaultFloatValue":0.0,"m_MinFloatValue":0.0,"m_MaxFloatValue":0.0,"m_DefaultStringValue":"","m_NumericCombineFunction":"Set","m_BooleanCombineFunction":"Add","m_StringCombineFunction":"Set"}]'
+  m_List:
+  - m_Id: IBRAHIMOVIC_GOALS
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 3
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: VARDY_GOALS
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 3
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: RONALDO_GOALS
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 3
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: ELSHARAAWY_GOALS
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 3
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: INIESTA_GOALS
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 3
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: GOTZE_GOALS
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 3
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: HAZARD_GOALS
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 3
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: POGBA_GOALS
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 3
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: MATCHES_PLAYED
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 3
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: MATCHES_PLAYED_WITH_REFEREE
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 3
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: MIN_SUFFERED_GOALS
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 10000
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 1
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: MAX_SCORED_GOALS
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 2
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: BIGGER_TEAM_SIZE
+    m_Type: 1
+    m_LowLimit: 1
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 2
+    m_BooleanCombineFunction: 0
+    m_StringCombineFunction: 0
+  - m_Id: RESULT_71
+    m_Type: 2
+    m_LowLimit: 0
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 0
+    m_BooleanCombineFunction: 1
+    m_StringCombineFunction: 0
+  - m_Id: REAL_POOL
+    m_Type: 2
+    m_LowLimit: 0
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 0
+    m_BooleanCombineFunction: 1
+    m_StringCombineFunction: 0
+  - m_Id: ITA_BEATS_FRA
+    m_Type: 2
+    m_LowLimit: 0
+    m_HighLimit: 0
+    m_DefaultIntValue: 0
+    m_MinIntValue: 0
+    m_MaxIntValue: 0
+    m_DefaultBoolValue: 0
+    m_DefaultFloatValue: 0
+    m_MinFloatValue: 0
+    m_MaxFloatValue: 0
+    m_DefaultStringValue: 
+    m_NumericCombineFunction: 0
+    m_BooleanCombineFunction: 1
+    m_StringCombineFunction: 0

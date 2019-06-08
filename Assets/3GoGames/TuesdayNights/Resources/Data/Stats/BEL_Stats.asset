@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a13163900af648047b5fa3d4aa4f2389, type: 3}
+  m_Name: BEL_Stats
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_Stats
+  _serializedStateValues:
+  - '[{"m_AttributeId":"MOV_FORCE","m_BaseValue":50.0},{"m_AttributeId":"MAX_SPEED","m_BaseValue":50.0},{"m_AttributeId":"START_ENERGY","m_BaseValue":50.0},{"m_AttributeId":"ENERGY_REC_RATE","m_BaseValue":50.0},{"m_AttributeId":"DASH_FORCE","m_BaseValue":50.0},{"m_AttributeId":"DASH_LINEAR_DRAG","m_BaseValue":50.0},{"m_AttributeId":"DASH_COOLDOWN","m_BaseValue":50.0},{"m_AttributeId":"DASH_MASS","m_BaseValue":50.0},{"m_AttributeId":"DASH_DURATION","m_BaseValue":50.0},{"m_AttributeId":"DASH_ENERGY_COST","m_BaseValue":50.0},{"m_AttributeId":"KICK_ENERGY_COST","m_BaseValue":50.0},{"m_AttributeId":"KICK_RADIUS","m_BaseValue":50.0},{"m_AttributeId":"KICK_BALL_FORCE","m_BaseValue":50.0},{"m_AttributeId":"KICK_CHARACTERS_FORCE","m_BaseValue":50.0},{"m_AttributeId":"KICK_COOLDOWN","m_BaseValue":50.0},{"m_AttributeId":"DEFAULT_MASS","m_BaseValue":50.0},{"m_AttributeId":"DEFAULT_LINEAR_DRAG","m_BaseValue":50.0},{"m_AttributeId":"ATTRACT_RADIUS","m_BaseValue":50.0},{"m_AttributeId":"ATTRACT_ENERGY_COST_RATE","m_BaseValue":50.0},{"m_AttributeId":"ATTRACT_FORCE","m_BaseValue":50.0}]'
+  m_Stats:
+  - m_AttributeId: MOV_FORCE
+    m_BaseValue: 50
+  - m_AttributeId: MAX_SPEED
+    m_BaseValue: 50
+  - m_AttributeId: START_ENERGY
+    m_BaseValue: 50
+  - m_AttributeId: ENERGY_REC_RATE
+    m_BaseValue: 50
+  - m_AttributeId: DASH_FORCE
+    m_BaseValue: 50
+  - m_AttributeId: DASH_LINEAR_DRAG
+    m_BaseValue: 50
+  - m_AttributeId: DASH_COOLDOWN
+    m_BaseValue: 50
+  - m_AttributeId: DASH_MASS
+    m_BaseValue: 50
+  - m_AttributeId: DASH_DURATION
+    m_BaseValue: 50
+  - m_AttributeId: DASH_ENERGY_COST
+    m_BaseValue: 50
+  - m_AttributeId: KICK_ENERGY_COST
+    m_BaseValue: 50
+  - m_AttributeId: KICK_RADIUS
+    m_BaseValue: 50
+  - m_AttributeId: KICK_BALL_FORCE
+    m_BaseValue: 50
+  - m_AttributeId: KICK_CHARACTERS_FORCE
+    m_BaseValue: 50
+  - m_AttributeId: KICK_COOLDOWN
+    m_BaseValue: 50
+  - m_AttributeId: DEFAULT_MASS
+    m_BaseValue: 50
+  - m_AttributeId: DEFAULT_LINEAR_DRAG
+    m_BaseValue: 50
+  - m_AttributeId: ATTRACT_RADIUS
+    m_BaseValue: 50
+  - m_AttributeId: ATTRACT_ENERGY_COST_RATE
+    m_BaseValue: 50
+  - m_AttributeId: ATTRACT_FORCE
+    m_BaseValue: 50

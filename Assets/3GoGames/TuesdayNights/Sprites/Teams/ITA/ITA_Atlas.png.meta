@@ -1,0 +1,1155 @@
+fileFormatVersion: 2
+guid: fae92241ee9470542ab3dbe7aecb3831
+timeCreated: 1465892012
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BaseItaly
+    21300002: ITA_Buffon_01
+    21300004: ITA_Buffon_02
+    21300006: ITA_Buffon_03
+    21300008: ITA_ElShaarawy_01
+    21300010: ITA_ElShaarawy_02
+    21300012: ITA_ElShaarawy_03
+    21300014: ITA_Player1
+    21300016: ITA_Player2
+    21300018: ITA_Player3
+    21300020: ITA_Verratti_01
+    21300022: ITA_Verratti_02
+    21300024: ITA_Verratti_03
+    21300026: ITA_Buffon_01_Flip
+    21300028: ITA_Buffon_02_Flip
+    21300030: ITA_Buffon_03_Flip
+    21300032: ITA_ElShaarawy_01_Flip
+    21300034: ITA_ElShaarawy_02_Flip
+    21300036: ITA_ElShaarawy_03_Flip
+    21300038: ITA_Verratti_01_Flip
+    21300040: ITA_Verratti_02_Flip
+    21300042: ITA_Verratti_03_Flip
+    21300044: ITA_Barzagli_01
+    21300046: ITA_Barzagli_01_Flip
+    21300048: ITA_Barzagli_02
+    21300050: ITA_Barzagli_02_Flip
+    21300052: ITA_Barzagli_03
+    21300054: ITA_Barzagli_03_Flip
+    21300056: ITA_Bonucci_01
+    21300058: ITA_Bonucci_01_Flip
+    21300060: ITA_Bonucci_02
+    21300062: ITA_Bonucci_02_Flip
+    21300064: ITA_Bonucci_03
+    21300066: ITA_Bonucci_03_Flip
+    21300068: ITA_Chiellini_01
+    21300070: ITA_Chiellini_01_Flip
+    21300072: ITA_Chiellini_02
+    21300074: ITA_Chiellini_02_Flip
+    21300076: ITA_Chiellini_03
+    21300078: ITA_Chiellini_03_Flip
+    21300080: ITA_Darmian_01
+    21300082: ITA_Darmian_01_Flip
+    21300084: ITA_Darmian_02
+    21300086: ITA_Darmian_02_Flip
+    21300088: ITA_Darmian_03
+    21300090: ITA_Darmian_03_Flip
+    21300092: ITA_Florenzi_01
+    21300094: ITA_Florenzi_01_Flip
+    21300096: ITA_Florenzi_02
+    21300098: ITA_Florenzi_02_Flip
+    21300100: ITA_Florenzi_03
+    21300102: ITA_Florenzi_03_Flip
+    21300104: ITA_Insigne_01
+    21300106: ITA_Insigne_01_Flip
+    21300108: ITA_Insigne_02
+    21300110: ITA_Insigne_02_Flip
+    21300112: ITA_Insigne_03
+    21300114: ITA_Insigne_03_Flip
+    21300116: ITA_Marchisio_01
+    21300118: ITA_Marchisio_01_Flip
+    21300120: ITA_Marchisio_02
+    21300122: ITA_Marchisio_02_Flip
+    21300124: ITA_Marchisio_03
+    21300126: ITA_Marchisio_03_Flip
+    21300128: ITA_Zaza_01
+    21300130: ITA_Zaza_01_Flip
+    21300132: ITA_Zaza_02
+    21300134: ITA_Zaza_02_Flip
+    21300136: ITA_Zaza_03
+    21300138: ITA_Zaza_03_Flip
+    21300140: ITA_DeRossi_01
+    21300142: ITA_DeRossi_01_Flip
+    21300144: ITA_DeRossi_02
+    21300146: ITA_DeRossi_02_Flip
+    21300148: ITA_DeRossi_03
+    21300150: ITA_DeRossi_03_Flip
+    21300152: ITA_TMotta_01
+    21300154: ITA_TMotta_01_Flip
+    21300156: ITA_TMotta_02
+    21300158: ITA_TMotta_02_Flip
+    21300160: ITA_TMotta_03
+    21300162: ITA_TMotta_03_Flip
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ITA_Barzagli_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Barzagli_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Barzagli_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 438
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Barzagli_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 438
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Barzagli_03
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 442
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Barzagli_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 442
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Bonucci_01
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Bonucci_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Bonucci_02
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Bonucci_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Bonucci_03
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 446
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Bonucci_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 446
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Buffon_01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Buffon_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 364
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Buffon_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 363
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Buffon_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 363
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Buffon_03
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 367
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Buffon_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 367
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Chiellini_01
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 366
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Chiellini_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 366
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Chiellini_02
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 366
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Chiellini_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 366
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Chiellini_03
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 371
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Chiellini_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 371
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Darmian_01
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 364
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Darmian_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 364
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Darmian_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Darmian_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 288
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Darmian_03
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 292
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Darmian_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 292
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_DeRossi_01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 290
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_DeRossi_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 290
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_DeRossi_02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 290
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_DeRossi_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 290
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_DeRossi_03
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 294
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_DeRossi_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 294
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_ElShaarawy_01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 290
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_ElShaarawy_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 290
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_ElShaarawy_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 289
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_ElShaarawy_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_ElShaarawy_03
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 218
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_ElShaarawy_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 218
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Florenzi_01
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 214
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Florenzi_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 214
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Florenzi_02
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 213
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Florenzi_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 213
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Florenzi_03
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 217
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Florenzi_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 217
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Insigne_01
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 216
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Insigne_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 216
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Insigne_02
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 215
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Insigne_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 215
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Insigne_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Insigne_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 144
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Marchisio_01
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 140
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Marchisio_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 140
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Marchisio_02
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 139
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Marchisio_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 139
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Marchisio_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 143
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Marchisio_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_TMotta_01
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 139
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_TMotta_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 139
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_TMotta_02
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 139
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_TMotta_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 139
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_TMotta_03
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 143
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_TMotta_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Verratti_01
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 68
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Verratti_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 68
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Verratti_02
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 68
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Verratti_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 68
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Verratti_03
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 72
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Verratti_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 72
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Zaza_01
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 67
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Zaza_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 67
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Zaza_02
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 67
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Zaza_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 67
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Zaza_03
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 72
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Zaza_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

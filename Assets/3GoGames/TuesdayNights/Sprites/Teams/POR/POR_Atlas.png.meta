@@ -1,0 +1,1320 @@
+fileFormatVersion: 2
+guid: 00354bea01a7928409fb349295fc7a86
+timeCreated: 1465892289
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BasePortugal
+    21300002: POR_Ronaldo_01
+    21300004: POR_Ronaldo_01_Flip
+    21300006: POR_Ronaldo_02
+    21300008: POR_Ronaldo_02_Flip
+    21300010: POR_Ronaldo_03
+    21300012: POR_Ronaldo_03_Flip
+    21300014: POR_Carvalho_01
+    21300016: POR_Carvalho_01_Flip
+    21300018: POR_Carvalho_02
+    21300020: POR_Carvalho_02_Flip
+    21300022: POR_Carvalho_03
+    21300024: POR_Carvalho_03_Flip
+    21300026: POR_Cedric_01
+    21300028: POR_Cedric_01_Flip
+    21300030: POR_Cedric_02
+    21300032: POR_Cedric_02_Flip
+    21300034: POR_Cedric_03
+    21300036: POR_Cedric_03_Flip
+    21300038: POR_Coentrao_01
+    21300040: POR_Coentrao_01_Flip
+    21300042: POR_Coentrao_02
+    21300044: POR_Coentrao_02_Flip
+    21300046: POR_Coentrao_03
+    21300048: POR_Coentrao_03_Flip
+    21300050: POR_Danny_01
+    21300052: POR_Danny_01_Flip
+    21300054: POR_Danny_02
+    21300056: POR_Danny_02_Flip
+    21300058: POR_Danny_03
+    21300060: POR_Danny_03_Flip
+    21300062: POR_Moutinho_01
+    21300064: POR_Moutinho_01_Flip
+    21300066: POR_Moutinho_02
+    21300068: POR_Moutinho_02_Flip
+    21300070: POR_Moutinho_03
+    21300072: POR_Moutinho_03_Flip
+    21300074: POR_Nani_01
+    21300076: POR_Nani_01_Flip
+    21300078: POR_Nani_02
+    21300080: POR_Nani_02_Flip
+    21300082: POR_Nani_03
+    21300084: POR_Nani_03_Flip
+    21300086: POR_Patricio_01
+    21300088: POR_Patricio_01_Flip
+    21300090: POR_Patricio_02
+    21300092: POR_Patricio_02_Flip
+    21300094: POR_Patricio_03
+    21300096: POR_Patricio_03_Flip
+    21300098: POR_Pepe_01
+    21300100: POR_Pepe_01_Flip
+    21300102: POR_Pepe_02
+    21300104: POR_Pepe_02_Flip
+    21300106: POR_Pepe_03
+    21300108: POR_Pepe_03_Flip
+    21300110: POR_Pereira_01
+    21300112: POR_Pereira_01_Flip
+    21300114: POR_Pereira_02
+    21300116: POR_Pereira_02_Flip
+    21300118: POR_Pereira_03
+    21300120: POR_Pereira_03_Flip
+    21300122: POR_Tiago_01
+    21300124: POR_Tiago_01_Flip
+    21300126: POR_Tiago_02
+    21300128: POR_Tiago_02_Flip
+    21300130: POR_Tiago_03
+    21300132: POR_Tiago_03_Flip
+    21300134: POR_JoaoMario_03
+    21300136: POR_JoaoMario_03_Flip
+    21300138: POR_WilliamCarvalho_03
+    21300140: POR_WilliamCarvalho_03_Flip
+    21300142: POR_Quaresma_03
+    21300144: POR_Quaresma_03_Flip
+    21300146: POR_BrunoAlves_03
+    21300148: POR_BrunoAlves_03_Flip
+    21300150: POR_WilliamCarvalho_02_Flip
+    21300152: POR_WilliamCarvalho_02
+    21300154: POR_WilliamCarvalho_01
+    21300156: POR_JoaoMario_02_Flip
+    21300158: POR_JoaoMario_01
+    21300160: POR_JoaoMario_02
+    21300162: POR_WilliamCarvalho_01_Flip
+    21300164: POR_JoaoMario_01_Flip
+    21300166: POR_Quaresma_01_Flip
+    21300168: POR_Quaresma_01
+    21300170: POR_Quaresma_02
+    21300172: POR_Quaresma_02_Flip
+    21300174: POR_BrunoAlves_01_Flip
+    21300176: POR_BrunoAlves_02
+    21300178: POR_BrunoAlves_02_Flip
+    21300180: POR_BrunoAlves_01
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: POR_JoaoMario_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 446
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_JoaoMario_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 446
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Pereira_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 446
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Pereira_03
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 446
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_WilliamCarvalho_03
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 446
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_WilliamCarvalho_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 446
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Quaresma_03
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Nani_03
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Pepe_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Quaresma_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Nani_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Pepe_03
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Ronaldo_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 376
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Ronaldo_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 376
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Carvalho_03
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 376
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_BrunoAlves_03
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 376
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Patricio_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 376
+        width: 38
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_BrunoAlves_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 376
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Carvalho_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 376
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Tiago_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 376
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Cedric_03
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 376
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Cedric_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 376
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Tiago_03
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 376
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Moutinho_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 375
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Coentrao_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 305
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Coentrao_03
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 305
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Moutinho_03
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 305
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Danny_03
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 304
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Danny_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 304
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Patricio_03
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 304
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Nani_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 303
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Nani_01
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 303
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Pereira_01
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 303
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Carvalho_01
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 303
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_WilliamCarvalho_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 303
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Pereira_02
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 303
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Pereira_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 303
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Patricio_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 32
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_WilliamCarvalho_02
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 231
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Pereira_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 231
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Tiago_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 231
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_WilliamCarvalho_01
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 231
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_JoaoMario_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 231
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_JoaoMario_01
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 231
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_JoaoMario_02
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 231
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_WilliamCarvalho_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 231
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Carvalho_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 231
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_JoaoMario_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 231
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Tiago_01
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 231
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Tiago_02
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 230
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Ronaldo_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 230
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Ronaldo_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Quaresma_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Quaresma_01
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Quaresma_02
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Tiago_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Quaresma_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Nani_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Moutinho_01
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Cedric_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Coentrao_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Coentrao_01
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Cedric_01
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_BrunoAlves_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Carvalho_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 157
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_BrunoAlves_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Carvalho_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 84
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_BrunoAlves_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 84
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Pepe_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 84
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Patricio_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 84
+        width: 32
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_BrunoAlves_01
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 84
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Pepe_01
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 84
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Pepe_02
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 84
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Pepe_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 84
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Nani_02
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 84
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Moutinho_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 84
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Ronaldo_02
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 83
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Patricio_01
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 83
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Danny_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 83
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Cedric_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Danny_01
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 9
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Ronaldo_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 9
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Cedric_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 9
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Coentrao_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 9
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Coentrao_02
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 9
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Moutinho_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 9
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Moutinho_02
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 9
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Danny_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 8
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Danny_02
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 8
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Patricio_02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 8
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

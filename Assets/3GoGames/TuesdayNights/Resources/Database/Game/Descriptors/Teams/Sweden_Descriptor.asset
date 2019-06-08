@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b6b8da7665fe948a7a5ac0c3da1beb, type: 3}
+  m_Name: Sweden_Descriptor
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_FirstColor
+  - m_SecondColor
+  - m_SupportersFirstColor
+  - m_SupportersSecondColor
+  - m_DefaultLineUps
+  _serializedStateValues:
+  - '{"r":1.0,"g":0.8344828,"b":0.0,"a":1.0}'
+  - '{"r":0.1617647,"g":0.4450305,"b":1.0,"a":1.0}'
+  - '{"r":1.0,"g":0.8352942,"b":0.0,"a":1.0}'
+  - '{"r":0.1607843,"g":0.4431373,"b":1.0,"a":1.0}'
+  - '[["IBRAHIMOVIC"],["KALLSTROM","IBRAHIMOVIC"],["ISAKSSON","KALLSTROM","IBRAHIMOVIC"],["ISAKSSON","GRANQVIST","KALLSTROM","IBRAHIMOVIC"],["ISAKSSON","GRANQVIST","OLSSON","KALLSTROM","IBRAHIMOVIC"],["ISAKSSON","GRANQVIST","OLSSON","EKDAL","KALLSTROM","IBRAHIMOVIC"],["ISAKSSON","GRANQVIST","OLSSON","FORSBERG","EKDAL","KALLSTROM","IBRAHIMOVIC"],["ISAKSSON","GRANQVIST","OLSSON","EKDAL","FORSBERG","BERG","KALLSTROM","IBRAHIMOVIC"],["ISAKSSON","GRANQVIST","OLSSON","BERG","FORSBERG","EKDAL","DUZMAN","KALLSTROM","IBRAHIMOVIC"],["ISAKSSON","GRANQVIST","OLSSON","LUSTIG","BERG","EKDAL","FORSBERG","DUZMAN","KALLSTROM","IBRAHIMOVIC"],["ISAKSSON","GRANQVIST","OLSSON","LUSTIG","JOHANSSON","BERG","EKDAL","FORSBERG","DUZMAN","KALLSTROM","IBRAHIMOVIC"]]'
+  m_TeamName: SWEDEN
+  m_Flag: {fileID: 21300040, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  m_Icon: {fileID: 21300022, guid: c2610db8988299e4599b648a0bea8d79, type: 3}
+  m_BaseSprite: {fileID: 21300042, guid: 32dbe4864ca3a5e4b862a85c3b215a1d, type: 3}
+  m_FirstColor: {r: 1, g: 0.8344828, b: 0, a: 1}
+  m_SecondColor: {r: 0.1617647, g: 0.4450305, b: 1, a: 1}
+  m_SupportersFirstColor: {r: 1, g: 0.8352942, b: 0, a: 1}
+  m_SupportersSecondColor: {r: 0.1607843, g: 0.4431373, b: 1, a: 1}
+  m_TeamStats: {fileID: 11400000, guid: 829af76fdd6c34d49a3d88fa31bb2a43, type: 2}
+  m_CharactersKeys:
+  - BERG
+  - DUZMAN
+  - EKDAL
+  - FORSBERG
+  - GRANQVIST
+  - IBRAHIMOVIC
+  - ISAKSSON
+  - JOHANSSON
+  - KALLSTROM
+  - LUSTIG
+  - OLSSON

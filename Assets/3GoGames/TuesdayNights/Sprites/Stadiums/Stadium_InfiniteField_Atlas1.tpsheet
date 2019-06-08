@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:5bfad53881475206185ce14a519f902f:bade0fa8554b5901c6138a52e5d3c0bc:7aeb84c6e6262bfee0fb0b0bc0210e53$
+#
+:format=40000
+:texture=Stadium_InfiniteField_Atlas1.png
+:size=4096x4096
+
+PortaBig;1;3521;106;574;0.5;0.5
+PortaUnder;109;3843;104;252;0.5;0.5
+Stadium_InfiniteField_Base;215;1933;3842;2162;0.5;0.5

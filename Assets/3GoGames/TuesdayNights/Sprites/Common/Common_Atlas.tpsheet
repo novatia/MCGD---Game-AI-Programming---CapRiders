@@ -1,0 +1,37 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:fceb27a182cd31bd4608bf4effe4048d:fd70f727dc075bfb0f19d5e46f60e280:c5210f2f5b66e28b93d8a863431a79f6$
+#
+:format=40000
+:texture=Common_Atlas.png
+:size=512x512
+
+Fan_CheeringGuy1;1;459;24;52;0.5;0.5
+Fan_CheeringGuy2;27;459;24;52;0.5;0.5
+Fan_CommonShirt;53;459;24;52;0.5;0.5
+Fan_Flag1;79;459;24;52;0.5;0.5
+Fan_Flag2;105;459;24;52;0.5;0.5
+Fan_Flag3;131;459;24;52;0.5;0.5
+Fan_Hand1;157;459;24;52;0.5;0.5
+Fan_Hand2;183;459;24;52;0.5;0.5
+Fan_NumberOneFan1;209;459;24;52;0.5;0.5
+Fan_NumberOneFan2;235;459;24;52;0.5;0.5
+Fan_WavingFlag1;261;459;24;52;0.5;0.5
+Fan_WavingFlag2;287;459;24;52;0.5;0.5
+Fan_WavingFlag3;313;459;24;52;0.5;0.5
+Kick_Anim_01;339;437;74;74;0.5;0.5
+Kick_Anim_02;415;432;79;79;0.5;0.5
+Kick_Anim_03;1;347;83;83;0.5;0.5
+Kick_Anim_04;86;347;83;83;0.5;0.5
+Kick_Anim_05;171;347;83;83;0.5;0.5
+PlayerColorArrow;256;358;72;72;0.5;0.5
+Shadow;330;272;172;158;0.5;0.5
+ShadowPalla;1;112;166;158;0.5;0.5
+TAUNT;169;256;16;14;0.5;0.5
+TAUNT2;187;222;53;48;0.5;0.5
+TAUNT3;242;230;53;40;0.5;0.5
+TAUNT4;297;223;60;47;0.5;0.5

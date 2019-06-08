@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:e610860d2d42bd00f37fa78c10984d72:8f162060921edea36fd9142d941409be:93b4cf9b549b68ebedf43b847466fe20$
+#
+:format=40000
+:texture=Atlas_Credits.png
+:size=256x256
+:pivotpoints=enabled
+
+Andrea_1;0;178;38;78;0.5;0.5
+Andrea_2;0;100;38;78;0.5;0.5
+Andrea_3;0;22;38;78;0.5;0.5
+Argio_1;38;178;38;78;0.5;0.5
+Argio_2;38;100;38;78;0.5;0.5
+Argio_3;38;22;38;78;0.5;0.5
+Dally_1;76;178;38;78;0.5;0.5
+Dally_2;76;100;38;78;0.5;0.5
+Dally_3;76;22;38;78;0.5;0.5
+Damiano_1;114;178;38;78;0.5;0.5
+Damiano_2;152;178;38;78;0.5;0.5
+Damiano_3;190;178;38;78;0.5;0.5
+Devis_1;114;100;38;78;0.5;0.5
+Devis_2;114;22;38;78;0.5;0.5
+Devis_3;152;100;38;78;0.5;0.5
+Michele_1;152;22;38;78;0.5;0.5
+Michele_2;190;100;38;78;0.5;0.5
+Michele_3;190;22;38;78;0.5;0.5

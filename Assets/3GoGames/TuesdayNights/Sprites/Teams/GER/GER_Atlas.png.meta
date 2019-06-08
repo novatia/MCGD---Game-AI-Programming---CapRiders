@@ -1,0 +1,1319 @@
+fileFormatVersion: 2
+guid: 9a33451f17b69fc4b8cfad163afaffd9
+timeCreated: 1485080209
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BaseGermany
+    21300002: GER_Kramer_01
+    21300004: GER_Kramer_01_Flip
+    21300006: GER_Kramer_02
+    21300008: GER_Kramer_02_Flip
+    21300010: GER_Kramer_03
+    21300012: GER_Kramer_03_Flip
+    21300014: GER_Boateng_01
+    21300016: GER_Boateng_01_Flip
+    21300018: GER_Boateng_02
+    21300020: GER_Boateng_02_Flip
+    21300022: GER_Boateng_03
+    21300024: GER_Boateng_03_Flip
+    21300026: GER_Ginter_01
+    21300028: GER_Ginter_01_Flip
+    21300030: GER_Ginter_02
+    21300032: GER_Ginter_02_Flip
+    21300034: GER_Ginter_03
+    21300036: GER_Ginter_03_Flip
+    21300038: GER_Gotze_01
+    21300040: GER_Gotze_01_Flip
+    21300042: GER_Gotze_02
+    21300044: GER_Gotze_02_Flip
+    21300046: GER_Gotze_03
+    21300048: GER_Gotze_03_Flip
+    21300050: GER_Hector_01
+    21300052: GER_Hector_01_Flip
+    21300054: GER_Hector_02
+    21300056: GER_Hector_02_Flip
+    21300058: GER_Hector_03
+    21300060: GER_Hector_03_Flip
+    21300062: GER_Hummels_01
+    21300064: GER_Hummels_01_Flip
+    21300066: GER_Hummels_02
+    21300068: GER_Hummels_02_Flip
+    21300070: GER_Hummels_03
+    21300072: GER_Hummels_03_Flip
+    21300074: GER_Kroos_01
+    21300076: GER_Kroos_01_Flip
+    21300078: GER_Kroos_02
+    21300080: GER_Kroos_02_Flip
+    21300082: GER_Kroos_03
+    21300084: GER_Kroos_03_Flip
+    21300086: GER_Muller_01
+    21300088: GER_Muller_01_Flip
+    21300090: GER_Muller_02
+    21300092: GER_Muller_02_Flip
+    21300094: GER_Muller_03
+    21300096: GER_Muller_03_Flip
+    21300098: GER_Neuer_01
+    21300100: GER_Neuer_01_Flip
+    21300102: GER_Neuer_02
+    21300104: GER_Neuer_02_Flip
+    21300106: GER_Neuer_03
+    21300108: GER_Neuer_03_Flip
+    21300110: GER_Ozil_01
+    21300112: GER_Ozil_01_Flip
+    21300114: GER_Ozil_02
+    21300116: GER_Ozil_02_Flip
+    21300118: GER_Ozil_03
+    21300120: GER_Ozil_03_Flip
+    21300122: GER_Reus_01
+    21300124: GER_Reus_01_Flip
+    21300126: GER_Reus_02
+    21300128: GER_Reus_02_Flip
+    21300130: GER_Reus_03
+    21300132: GER_Reus_03_Flip
+    21300134: GER_Schweinsteiger_01
+    21300136: GER_Schweinsteiger_01_Flip
+    21300138: GER_Schweinsteiger_02
+    21300140: GER_Schweinsteiger_02_Flip
+    21300142: GER_Schweinsteiger_03
+    21300144: GER_Schweinsteiger_03_Flip
+    21300146: GER_Khedira_01
+    21300148: GER_Khedira_01_Flip
+    21300150: GER_Khedira_02
+    21300152: GER_Khedira_02_Flip
+    21300154: GER_Draxler_01_Flip
+    21300156: GER_Draxler_02
+    21300158: GER_Draxler_02_Flip
+    21300160: GER_Draxler_01
+    21300162: GER_Howedes_01
+    21300164: GER_Howedes_01_Flip
+    21300166: GER_Howedes_02_Flip
+    21300168: GER_Howedes_02
+    21300170: GER_Draxler_03_Flip
+    21300172: GER_Draxler_03
+    21300174: GER_Khedira_03_Flip
+    21300176: GER_Khedira_03
+    21300178: GER_Howedes_03
+    21300180: GER_Howedes_03_Flip
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GER_Kramer_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Kroos_01
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Hummels_01
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Kroos_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Kroos_02
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Muller_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Kroos_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Muller_01
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Kramer_02
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Hummels_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Hummels_02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 438
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Kramer_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Hummels_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 438
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Khedira_01
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Kramer_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 365
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Khedira_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 365
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Khedira_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 365
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Muller_02
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 365
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Reus_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 365
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Reus_02
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 364
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Muller_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 365
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Reus_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 364
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Schweinsteiger_01
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 366
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Schweinsteiger_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 365
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Schweinsteiger_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 366
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Schweinsteiger_02
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 365
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Reus_01
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 365
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Neuer_01
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 366
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Neuer_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 292
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Ozil_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Neuer_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Neuer_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Ozil_02
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Ozil_01
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Ozil_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Khedira_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Gotze_02
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Hector_02
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Gotze_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Hector_01
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 292
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Hector_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 292
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Draxler_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 292
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Draxler_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 219
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Ginter_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 218
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Gotze_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 219
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Ginter_02
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 217
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Draxler_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 219
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Gotze_01
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 219
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Ginter_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 217
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Draxler_01
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 219
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Howedes_01
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 218
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Boateng_01
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 219
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Boateng_02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 218
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Howedes_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 218
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Howedes_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 218
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Ginter_01
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 218
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Howedes_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Boateng_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 145
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Boateng_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 144
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Hector_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 144
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Neuer_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 148
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Boateng_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 149
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Reus_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 147
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Ozil_03
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 149
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Draxler_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 150
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Ozil_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 149
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Draxler_03
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 150
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Boateng_03
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 149
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Schweinsteiger_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Reus_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 74
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Ginter_03
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 74
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Neuer_03
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 75
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Schweinsteiger_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 75
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Khedira_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 76
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Khedira_03
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 76
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Hector_03
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 75
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Hector_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 75
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Howedes_03
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 76
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Hummels_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 73
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Hummels_03
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 73
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Kramer_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Kramer_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Howedes_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Muller_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Muller_03
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 4
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Ginter_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Kroos_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 4
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Gotze_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 4
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Kroos_03
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Gotze_03
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 4
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

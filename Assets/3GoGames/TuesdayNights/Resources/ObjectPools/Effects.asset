@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e98870a6514511439e6cc8d732604d6, type: 3}
+  m_Name: Effects
+  m_EditorClassIdentifier: 
+  _objectReferences:
+  - {fileID: 112870, guid: 9d719c95357e6554680e013cb07e6659, type: 2}
+  - {fileID: 157562, guid: 8494b81a3ce4cc54db0bfb6e86ab5356, type: 2}
+  - {fileID: 157562, guid: 7525d52f6cfa3744f8b9ee819924e2fc, type: 2}
+  - {fileID: 112870, guid: b5eaa9f476995c340a8bdfd79448a944, type: 2}
+  - {fileID: 150550, guid: b24380ef11ae42644abf4f23a25b814b, type: 2}
+  - {fileID: 106768, guid: 991ce846b8e28304b9a48621d4285fdb, type: 2}
+  - {fileID: 150550, guid: b55911a220d83574f9fe856b2ce664a5, type: 2}
+  - {fileID: 196270, guid: 4a28ff2193eb1ff42bd53e2502a4bcfc, type: 2}
+  - {fileID: 198616, guid: 0cdddd35a23b0ae4f87f3f1e7210beee, type: 2}
+  - {fileID: 178982, guid: e354443ae338cb846933cd673b1990a4, type: 2}
+  - {fileID: 178982, guid: 9a222de85ef179748a8043e0b5ebe570, type: 2}
+  - {fileID: 150550, guid: 4cb82b55f9a200141b1d05154e57f644, type: 2}
+  _serializedStateKeys:
+  - m_List
+  _serializedStateValues:
+  - '[{"prefab":0,"size":50,"allowRecycle":true},{"prefab":1,"size":50,"allowRecycle":true},{"prefab":2,"size":50,"allowRecycle":true},{"prefab":3,"size":50,"allowRecycle":true},{"prefab":4,"size":50,"allowRecycle":true},{"prefab":5,"size":5,"allowRecycle":true},{"prefab":6,"size":20,"allowRecycle":true},{"prefab":7,"size":20,"allowRecycle":true},{"prefab":8,"size":20,"allowRecycle":true},{"prefab":9,"size":20,"allowRecycle":true},{"prefab":10,"size":20,"allowRecycle":true},{"prefab":11,"size":100,"allowRecycle":true}]'
+  m_List:
+  - prefab: {fileID: 112870, guid: 9d719c95357e6554680e013cb07e6659, type: 2}
+    size: 50
+    allowRecycle: 1
+  - prefab: {fileID: 157562, guid: 8494b81a3ce4cc54db0bfb6e86ab5356, type: 2}
+    size: 50
+    allowRecycle: 1
+  - prefab: {fileID: 157562, guid: 7525d52f6cfa3744f8b9ee819924e2fc, type: 2}
+    size: 50
+    allowRecycle: 1
+  - prefab: {fileID: 112870, guid: b5eaa9f476995c340a8bdfd79448a944, type: 2}
+    size: 50
+    allowRecycle: 1
+  - prefab: {fileID: 150550, guid: b24380ef11ae42644abf4f23a25b814b, type: 2}
+    size: 50
+    allowRecycle: 1
+  - prefab: {fileID: 106768, guid: 991ce846b8e28304b9a48621d4285fdb, type: 2}
+    size: 5
+    allowRecycle: 1
+  - prefab: {fileID: 150550, guid: b55911a220d83574f9fe856b2ce664a5, type: 2}
+    size: 20
+    allowRecycle: 1
+  - prefab: {fileID: 196270, guid: 4a28ff2193eb1ff42bd53e2502a4bcfc, type: 2}
+    size: 20
+    allowRecycle: 1
+  - prefab: {fileID: 198616, guid: 0cdddd35a23b0ae4f87f3f1e7210beee, type: 2}
+    size: 20
+    allowRecycle: 1
+  - prefab: {fileID: 178982, guid: e354443ae338cb846933cd673b1990a4, type: 2}
+    size: 20
+    allowRecycle: 1
+  - prefab: {fileID: 178982, guid: 9a222de85ef179748a8043e0b5ebe570, type: 2}
+    size: 20
+    allowRecycle: 1
+  - prefab: {fileID: 150550, guid: 4cb82b55f9a200141b1d05154e57f644, type: 2}
+    size: 100
+    allowRecycle: 1

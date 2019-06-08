@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b6b8da7665fe948a7a5ac0c3da1beb, type: 3}
+  m_Name: Ireland_Descriptor
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_FirstColor
+  - m_SecondColor
+  - m_SupportersFirstColor
+  - m_SupportersSecondColor
+  - m_DefaultLineUps
+  _serializedStateValues:
+  - '{"r":0.0,"g":0.7647059,"b":0.1607843,"a":1.0}'
+  - '{"r":1.0,"g":0.6413793,"b":0.0,"a":1.0}'
+  - '{"r":0.0,"g":0.7647059,"b":0.1619378,"a":1.0}'
+  - '{"r":1.0,"g":0.6392157,"b":0.0,"a":1.0}'
+  - '[["KEANE"],["KEANE","OSHEA"],["RANDOLPH","KEANE","OSHEA"],["RANDOLPH","OSHEA","MCCLEAN","KEANE"],["RANDOLPH","LONG","OSHEA","MCCLEAN","KEANE"],["RANDOLPH","LONG","OSHEA","MCCLEAN","WHELAN","KEANE"],["RANDOLPH","LONG","OSHEA","WHELAN","MCCLEAN","WALTERS","KEANE"],["RANDOLPH","LONG","OSHEA","MCGEADY","WHELAN","MCCLEAN","WALTERS","KEANE"],["RANDOLPH","LONG","OSHEA","MCGEADY","WARD","MCCLEAN","WHELAN","WALTERS","KEANE"],["RANDOLPH","LONG","OSHEA","COLEMAN","MCGEADY","WARD","MCCLEAN","WHELAN","WALTERS","KEANE"],["RANDOLPH","CLARK","OSHEA","LONG","COLEMAN","MCGEADY","MCCLEAN","WARD","WHELAN","WALTERS","KEANE"]]'
+  m_TeamName: IRELAND
+  m_Flag: {fileID: 21300136, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  m_Icon: {fileID: 21300010, guid: c2610db8988299e4599b648a0bea8d79, type: 3}
+  m_BaseSprite: {fileID: 21300032, guid: 32dbe4864ca3a5e4b862a85c3b215a1d, type: 3}
+  m_FirstColor: {r: 0, g: 0.7647059, b: 0.1607843, a: 1}
+  m_SecondColor: {r: 1, g: 0.6413793, b: 0, a: 1}
+  m_SupportersFirstColor: {r: 0, g: 0.7647059, b: 0.1619378, a: 1}
+  m_SupportersSecondColor: {r: 1, g: 0.6392157, b: 0, a: 1}
+  m_TeamStats: {fileID: 11400000, guid: fb8bf5d98296cd1439f337fb62fea7e2, type: 2}
+  m_CharactersKeys:
+  - OSHEA
+  - RANDOLPH
+  - CLARK
+  - COLEMAN
+  - LONG
+  - KEANE
+  - MCCLEAN
+  - MCGEADY
+  - WALTERS
+  - WARD
+  - WHELAN

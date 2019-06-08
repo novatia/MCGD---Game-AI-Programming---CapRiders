@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: 1cb764b79ec8b954996379569beccea2
+timeCreated: 1461180826
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BaseSweden
+    21300002: SWE_Ibahimovich_01
+    21300004: SWE_Ibahimovich_01_Flip
+    21300006: SWE_Ibahimovich_02
+    21300008: SWE_Ibahimovich_02_Flip
+    21300010: SWE_Ibahimovich_03
+    21300012: SWE_Ibahimovich_03_Flip
+    21300014: SWE_Berg_01
+    21300016: SWE_Berg_01_Flip
+    21300018: SWE_Berg_02
+    21300020: SWE_Berg_02_Flip
+    21300022: SWE_Berg_03
+    21300024: SWE_Berg_03_Flip
+    21300026: SWE_Durmaz_01
+    21300028: SWE_Durmaz_01_Flip
+    21300030: SWE_Durmaz_02
+    21300032: SWE_Durmaz_02_Flip
+    21300034: SWE_Durmaz_03
+    21300036: SWE_Durmaz_03_Flip
+    21300038: SWE_Ekdal_01
+    21300040: SWE_Ekdal_01_Flip
+    21300042: SWE_Ekdal_02
+    21300044: SWE_Ekdal_02_Flip
+    21300046: SWE_Ekdal_03
+    21300048: SWE_Ekdal_03_Flip
+    21300050: SWE_Forsberg_01
+    21300052: SWE_Forsberg_01_Flip
+    21300054: SWE_Forsberg_02
+    21300056: SWE_Forsberg_02_Flip
+    21300058: SWE_Forsberg_03
+    21300060: SWE_Forsberg_03_Flip
+    21300062: SWE_Granqvist_01
+    21300064: SWE_Granqvist_01_Flip
+    21300066: SWE_Granqvist_02
+    21300068: SWE_Granqvist_02_Flip
+    21300070: SWE_Granqvist_03
+    21300072: SWE_Granqvist_03_Flip
+    21300074: SWE_Isaksson_01
+    21300076: SWE_Isaksson_01_Flip
+    21300078: SWE_Isaksson_02
+    21300080: SWE_Isaksson_02_Flip
+    21300082: SWE_Isaksson_03
+    21300084: SWE_Isaksson_03_Flip
+    21300086: SWE_Johansson_01
+    21300088: SWE_Johansson_01_Flip
+    21300090: SWE_Johansson_02
+    21300092: SWE_Johansson_02_Flip
+    21300094: SWE_Johansson_03
+    21300096: SWE_Johansson_03_Flip
+    21300098: SWE_Kallstrom_01
+    21300100: SWE_Kallstrom_01_Flip
+    21300102: SWE_Kallstrom_02
+    21300104: SWE_Kallstrom_02_Flip
+    21300106: SWE_Kallstrom_03
+    21300108: SWE_Kallstrom_03_Flip
+    21300110: SWE_Lustig_01
+    21300112: SWE_Lustig_01_Flip
+    21300114: SWE_Lustig_02
+    21300116: SWE_Lustig_02_Flip
+    21300118: SWE_Lustig_03
+    21300120: SWE_Lustig_03_Flip
+    21300122: SWE_Olsson_01
+    21300124: SWE_Olsson_01_Flip
+    21300126: SWE_Olsson_02
+    21300128: SWE_Olsson_02_Flip
+    21300130: SWE_Olsson_03
+    21300132: SWE_Olsson_03_Flip
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BaseSweden
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 446
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Berg_01
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Berg_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Berg_02
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Berg_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Berg_03
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 444
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Berg_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 444
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Durmaz_01
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Durmaz_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Durmaz_02
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Durmaz_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Durmaz_03
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 443
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Durmaz_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Ekdal_01
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Ekdal_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Ekdal_02
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Ekdal_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Ekdal_03
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 370
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Ekdal_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 370
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Forsberg_01
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Forsberg_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Forsberg_02
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Forsberg_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Forsberg_03
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 370
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Forsberg_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 370
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Granqvist_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Granqvist_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Granqvist_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 292
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Granqvist_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 292
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Granqvist_03
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 296
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Granqvist_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 296
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Ibahimovich_01
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Ibahimovich_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Ibahimovich_02
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Ibahimovich_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Ibahimovich_03
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 296
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Ibahimovich_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 296
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Isaksson_01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 294
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Isaksson_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Isaksson_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 219
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Isaksson_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 219
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Isaksson_03
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 223
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Isaksson_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 223
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Johansson_01
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 219
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Johansson_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 219
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Johansson_02
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 218
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Johansson_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 218
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Johansson_03
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 222
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Johansson_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 222
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Kallstrom_01
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 220
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Kallstrom_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 220
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Kallstrom_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Kallstrom_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 145
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Kallstrom_03
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 149
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Kallstrom_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 149
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Lustig_01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 146
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Lustig_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 146
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Lustig_02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 145
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Lustig_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 145
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Lustig_03
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 149
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Lustig_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 149
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Olsson_01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 146
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Olsson_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 146
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Olsson_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 145
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Olsson_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Olsson_03
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 77
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Olsson_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 77
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

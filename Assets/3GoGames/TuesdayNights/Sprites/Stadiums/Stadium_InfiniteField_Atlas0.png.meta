@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 463ff22a32717324c889dd51ed00cbb5
+timeCreated: 1461868925
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AD_Infinite_01
+    21300002: AD_Infinite_02
+    21300004: AD_Infinite_03
+    21300006: AD_Infinite_04
+    21300008: AD_Infinite_05
+    21300010: AD_Infinite_06
+    21300012: AD_Infinite_07
+    21300014: AD_Infinite_08
+    21300016: AD_Infinite_09
+    21300018: AD_Infinite_10
+    21300020: AD_Infinite_11
+    21300022: AD_Infinite_12
+    21300024: AD_Infinite_13
+    21300026: AD_Infinite_14
+    21300028: AD_Infinite_15
+    21300030: AD_Infinite_16
+    21300032: AD_Infinite_17
+    21300034: AD_Infinite_18
+    21300036: AD_Infinite_19
+    21300038: AD_Infinite_20
+    21300040: AD_Infinite_21
+    21300042: AD_Infinite_22loop
+    21300044: AD_Infinite_23loop
+    21300046: AD_Infinite_24loop
+    21300048: AD_Infinite_25loop
+    21300050: AD_Infinite_26
+    21300052: AD_Infinite_27
+    21300054: AD_Infinite_28
+    21300056: HugeLights
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AD_Infinite_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3959
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3821
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3683
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3545
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3407
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3269
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3131
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2993
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_09
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2855
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2717
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2579
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2441
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2303
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2165
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2027
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1889
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1751
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1613
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1475
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1337
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1199
+        width: 3536
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_22loop
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1061
+        width: 3539
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_23loop
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 923
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_24loop
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 785
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_25loop
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 647
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 509
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 371
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Infinite_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 233
+        width: 3550
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HugeLights
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 278
+        width: 270
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

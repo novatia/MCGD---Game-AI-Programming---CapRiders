@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: 1c1a5b16abf18f0488a778b822107571
+timeCreated: 1465839575
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RUS_ABerezutski_01
+    21300002: RUS_ABerezutski_01_Flip
+    21300004: RUS_ABerezutski_02
+    21300006: RUS_ABerezutski_02_Flip
+    21300008: RUS_ABerezutski_03
+    21300010: RUS_ABerezutski_03_Flip
+    21300012: RUS_Akinfeev_01
+    21300014: RUS_Akinfeev_01_Flip
+    21300016: RUS_Akinfeev_02
+    21300018: RUS_Akinfeev_02_Flip
+    21300020: RUS_Akinfeev_03
+    21300022: RUS_Akinfeev_03_Flip
+    21300024: RUS_Dzyuba_01
+    21300026: RUS_Dzyuba_01_Flip
+    21300028: RUS_Dzyuba_02
+    21300030: RUS_Dzyuba_02_Flip
+    21300032: RUS_Dzyuba_03
+    21300034: RUS_Dzyuba_03_Flip
+    21300036: RUS_Glushakov_01
+    21300038: RUS_Glushakov_01_Flip
+    21300040: RUS_Glushakov_02
+    21300042: RUS_Glushakov_02_Flip
+    21300044: RUS_Glushakov_03
+    21300046: RUS_Glushakov_03_Flip
+    21300048: RUS_Ignashevich_01
+    21300050: RUS_Ignashevich_01_Flip
+    21300052: RUS_Ignashevich_02
+    21300054: RUS_Ignashevich_02_Flip
+    21300056: RUS_Ignashevich_03
+    21300058: RUS_Ignashevich_03_Flip
+    21300060: RUS_Ivanov_01
+    21300062: RUS_Ivanov_01_Flip
+    21300064: RUS_Ivanov_02
+    21300066: RUS_Ivanov_02_Flip
+    21300068: RUS_Ivanov_03
+    21300070: RUS_Ivanov_03_Flip
+    21300072: RUS_Kokorin_01
+    21300074: RUS_Kokorin_01_Flip
+    21300076: RUS_Kokorin_02
+    21300078: RUS_Kokorin_02_Flip
+    21300080: RUS_Kokorin_03
+    21300082: RUS_Kokorin_03_Flip
+    21300084: RUS_Samedov_01
+    21300086: RUS_Samedov_01_Flip
+    21300088: RUS_Samedov_02
+    21300090: RUS_Samedov_02_Flip
+    21300092: RUS_Samedov_03
+    21300094: RUS_Samedov_03_Flip
+    21300096: RUS_Shirokov_01
+    21300098: RUS_Shirokov_01_Flip
+    21300100: RUS_Shirokov_02
+    21300102: RUS_Shirokov_02_Flip
+    21300104: RUS_Shirokov_03
+    21300106: RUS_Shirokov_03_Flip
+    21300108: RUS_Torbinski_01
+    21300110: RUS_Torbinski_01_Flip
+    21300112: RUS_Torbinski_02
+    21300114: RUS_Torbinski_02_Flip
+    21300116: RUS_Torbinski_03
+    21300118: RUS_Torbinski_03_Flip
+    21300120: RUS_VBerezutski_01
+    21300122: RUS_VBerezutski_01_Flip
+    21300124: RUS_VBerezutski_02
+    21300126: RUS_VBerezutski_02_Flip
+    21300128: RUS_VBerezutski_03
+    21300130: RUS_VBerezutski_03_Flip
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RUS_ABerezutski_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_ABerezutski_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_ABerezutski_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_ABerezutski_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_ABerezutski_03
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_ABerezutski_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Akinfeev_01
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Akinfeev_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Akinfeev_02
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Akinfeev_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Akinfeev_03
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Akinfeev_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Dzyuba_01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Dzyuba_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 368
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Dzyuba_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 367
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Dzyuba_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 367
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Dzyuba_03
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 371
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Dzyuba_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 371
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Glushakov_01
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 367
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Glushakov_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 367
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Glushakov_02
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 367
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Glushakov_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 367
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Glushakov_03
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 371
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Glushakov_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 371
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Ignashevich_01
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 368
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Ignashevich_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 368
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Ignashevich_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Ignashevich_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 295
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Ignashevich_03
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 300
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Ignashevich_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 300
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Ivanov_01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 295
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Ivanov_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 295
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Ivanov_02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 294
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Ivanov_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 294
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Ivanov_03
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 299
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Ivanov_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 299
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Kokorin_01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 295
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Kokorin_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 295
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Kokorin_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 294
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Kokorin_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 221
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Kokorin_03
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 225
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Kokorin_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 225
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Samedov_01
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 221
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Samedov_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 221
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Samedov_02
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 221
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Samedov_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 221
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Samedov_03
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 226
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Samedov_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 226
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Shirokov_01
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 222
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Shirokov_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 222
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Shirokov_02
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 221
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Shirokov_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 221
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Shirokov_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Shirokov_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 153
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Torbinski_01
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 149
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Torbinski_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 149
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Torbinski_02
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 149
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Torbinski_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 149
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Torbinski_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 154
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Torbinski_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 154
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_VBerezutski_01
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 149
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_VBerezutski_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 149
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_VBerezutski_02
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 149
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_VBerezutski_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 149
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_VBerezutski_03
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 154
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_VBerezutski_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 42938266, guid: de72a6d2da64d114d95e3c5a01cfaec5, type: 3}
+  m_Name: PlayMakerGlobals
+  m_EditorClassIdentifier: 
+  variables:
+    floatVariables: []
+    intVariables: []
+    boolVariables:
+    - useVariable: 1
+      name: Bootstrapped
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: CommonResourcesLoaded
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: CoreInitialized
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: DatabaseLoaded
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: GameInitialized
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    stringVariables: []
+    vector2Variables: []
+    vector3Variables: []
+    colorVariables: []
+    rectVariables: []
+    quaternionVariables: []
+    gameObjectVariables: []
+    objectVariables: []
+    materialVariables: []
+    textureVariables: []
+  events:
+  - APPLICATION / INIT CORE FAILED
+  - APPLICATION / INIT CORE SUCCEEDED
+  - APPLICATION / INIT GAME FAILED
+  - APPLICATION / INIT GAME SUCCEEDED
+  - UIVIEW / PANEL / INIT
+  - GAME / END
+  - GAME / START
+  - GAME / UNPAUSE
+  - GAME / PAUSE
+  - GAME / EXIT
+  - GAME / RESTART
+  - GAME / COUNTDOWN / READY
+  - GAME / COUNTDOWN / GO
+  - UICONTROLLER / INIT
+  - CONTROLLER / PAUSE / EXIT
+  - CONTROLLER / PAUSE / RESTART
+  - CONTROLLER / PAUSE / RESUME
+  - CONTROLLER / PREMATCH / START
+  - CELEBRATION / START
+  - CELEBRATION / END
+  - CONTROLLER / MAIN MENU / CREDITS
+  - CONTROLLER / MAIN MENU / OPTIONS
+  - CONTROLLER / MAIN MENU / PLAY
+  - CONTROLLER / MAIN MENU / QUIT
+  - MAIN MENU / OPTIONS
+  - MAIN MENU / PLAY
+  - MAIN MENU / QUIT
+  - MAIN MENU / CREDITS
+  - CONTROLLER / OPTIONS / CANCEL
+  - CONTROLLER / CREDITS / CANCEL
+  - OPTIONS / CANCEL
+  - CREDITS / CANCEL
+  - SIDE SELECTION / CANCEL
+  - SIDE SELECTION / PROCEED
+  - TEAM SELECTION / CANCEL
+  - TEAM SELECTION / PROCEED
+  - CHARACTER SELECTION / CANCEL
+  - CHARACTER SELECTION / PROCEED
+  - MATCH SETTINGS / CANCEL
+  - MATCH SETTINGS / PROCEED
+  - CONTROLLER / MATCH SETTINGS / PROCEED
+  - CONTROLLER / MATCH SETTINGS / CANCEL
+  - CONTROLLER / SIDE SELECTION / CANCEL
+  - CONTROLLER / SIDE SELECTION / PROCEED
+  - CONTROLLER / TEAM SELECTION / CANCEL
+  - CONTROLLER / TEAM SELECTION / PROCEED
+  - CONTROLLER / CHARACTER SELECTION / CANCEL
+  - CONTROLLER / CHARACTER SELECTION / PROCEED
+  - CONTROLLER / PAUSE / OPTIONS
+  - CONTROLLER / END GAME / RESTART
+  - CONTROLLER / END GAME / EXIT
+  - CONTROLLER / OPTIONS / SET MUSIC VOLUME
+  - CONTROLLER / OPTIONS / SET SFX VOLUME
+  - GAME / COUNTDOWN / ONE
+  - GAME / COUNTDOWN / THREE
+  - GAME / COUNTDOWN / TWO
+  - GAME / OPTIONS
+  - GAME / FINISH
+  - MENU FLOW / MAIN MENU
+  - MENU FLOW / MATCH SETTINGS
+  - MENU FLOW / OPTIONS
+  - MENU FLOW / TEAM SELECTION
+  - MENU FLOW / SIDE SELECTION
+  - MENU FLOW / CREDITS
+  - MENU FLOW / CHARACTER SELECTION
+  - UIVIEW / ANIMATION / PLAY
+  - UIVIEW / ANIMATION / REVERSE PLAY
+  - MAIN MENU / MULTIPLAYER
+  - MULTIPLAYER / CANCEL
+  - CONTROLLER / MAIN MENU / MULTIPLAYER
+  - MENU FLOW / ONLINE PARTY
+  - MENU FLOW / LOCAL [ARTY
+  - MENU FLOW / LOBBY
+  - MENU / FLOW / CREATING ROOM
+  - MENU FLOW / CREATING ROOM
+  - MENU FLOW / LOCAL PARTY
+  - MENU FLOW / ONLINE SIDE SELECTION

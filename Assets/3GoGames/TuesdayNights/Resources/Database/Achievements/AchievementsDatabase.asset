@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e539a49f0588884c806b1c6cc3a4369, type: 3}
+  m_Name: AchievementsDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_Achievements
+  _serializedStateValues:
+  - '{"ACH_NO_SUFFERED_GOALS":{"m_SteamId":"ACH_NO_SUFFERED_GOALS"},"ACH_10_SCORED_GOALS":{"m_SteamId":"ACH_10_SCORED_GOALS"},"ACH_MATCH_WITH_REFEREE":{"m_SteamId":"ACH_MATCH_WITH_REFEREE"},"ACH_BIGGER_MATCH_10":{"m_SteamId":"ACH_BIGGER_MATCH_10"},"ACH_BIGGER_MATCH_16":{"m_SteamId":"ACH_BIGGER_MATCH_16"},"ACH_BIGGER_MATCH_22":{"m_SteamId":"ACH_BIGGER_MATCH_22"},"ACH_7-1":{"m_SteamId":"ACH_7-1"},"ACH_REAL_POOL":{"m_SteamId":"ACH_REAL_POOL"},"ACH_ITA_BEATS_FRA":{"m_SteamId":"ACH_ITA_BEATS_FRA"},"ACH_FIRST_MATCH":{"m_SteamId":"ACH_FIRST_MATCH"}}'

@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cb6ee88515df7d4480051e94295ed2b, type: 3}
+  m_Name: PlayersDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences:
+  - {fileID: 11400000, guid: 14c7bf88965d26a4086e1035fc58648e, type: 2}
+  - {fileID: 11400000, guid: a9cfa44a02c92b3418be992e1690cf40, type: 2}
+  - {fileID: 11400000, guid: 9312031b54106ff4aa3e7d5842db6d43, type: 2}
+  - {fileID: 11400000, guid: 74d41f171ac5a9d4eb9fa6b20979052f, type: 2}
+  - {fileID: 11400000, guid: b72fa449848a6a14fba225ec96adbf5e, type: 2}
+  - {fileID: 11400000, guid: 980755e163d837a41a9c28404b16030b, type: 2}
+  - {fileID: 11400000, guid: 3e2c66a5513cc7441aca73846778069a, type: 2}
+  - {fileID: 11400000, guid: e010e7185a1b9c14babbceb079ca8296, type: 2}
+  - {fileID: 11400000, guid: ce79a9b2d0b90fb44ac2a05678db7134, type: 2}
+  - {fileID: 11400000, guid: 91df31c8cb74e494489da0a6f6b4870e, type: 2}
+  - {fileID: 11400000, guid: ac22d8961ed38f245a0d676a26e0007a, type: 2}
+  - {fileID: 11400000, guid: 342dfef88e001eb42821b45f16c1660b, type: 2}
+  - {fileID: 11400000, guid: cedda6413f837444c833c87452ea8e68, type: 2}
+  - {fileID: 11400000, guid: 57ce9507ee2d8c54c9a8504d8d57b00e, type: 2}
+  - {fileID: 11400000, guid: 4a3755d2545b1e943998b93425f1e46a, type: 2}
+  - {fileID: 11400000, guid: 12122adc714a22b41915ee9827057587, type: 2}
+  - {fileID: 11400000, guid: f9d8c552b141b63468ca39e3d8c89644, type: 2}
+  - {fileID: 11400000, guid: 2fc0c23e2a4a9824c92a6c885cefc2f6, type: 2}
+  - {fileID: 11400000, guid: 523b485a5d9ae2c45a5879fafb50ccb3, type: 2}
+  - {fileID: 11400000, guid: f09f60684c30d364e957caf3f69b0288, type: 2}
+  - {fileID: 11400000, guid: 632e5b42785ba954c95df26dbe454395, type: 2}
+  - {fileID: 11400000, guid: 433fdf23cf4cbff418f3cc57ec594387, type: 2}
+  - {fileID: 11400000, guid: 9dcca2aa17748364994f5d9d1afbe0c1, type: 2}
+  - {fileID: 11400000, guid: e5da0e9161efafc4e8091169683a2753, type: 2}
+  - {fileID: 11400000, guid: 60219b5914a0a0e47a5b49cc8835f5a6, type: 2}
+  - {fileID: 11400000, guid: d74998ced01a5d34dbd5b702dc302ee3, type: 2}
+  - {fileID: 11400000, guid: 0c1968bb03e40cb47bdd95e0e429ee82, type: 2}
+  - {fileID: 11400000, guid: 39acbe8dbf1355a44b465d470668aee3, type: 2}
+  - {fileID: 11400000, guid: 004198688b86c2a4693e0207b20c6198, type: 2}
+  - {fileID: 11400000, guid: ff6e7445a4ed74546b78ed42b5be73c0, type: 2}
+  - {fileID: 11400000, guid: ca108bbef3a20824ba42e4626706a356, type: 2}
+  - {fileID: 11400000, guid: a8eaeae0d047da94e8a0eb0ef5622b01, type: 2}
+  _serializedStateKeys:
+  - m_Players
+  _serializedStateValues:
+  - '[{"m_Id":"Player0","m_Descriptor":0},{"m_Id":"Player1","m_Descriptor":1},{"m_Id":"Player2","m_Descriptor":2},{"m_Id":"Player3","m_Descriptor":3},{"m_Id":"Player4","m_Descriptor":4},{"m_Id":"Player5","m_Descriptor":5},{"m_Id":"Player6","m_Descriptor":6},{"m_Id":"Player7","m_Descriptor":7},{"m_Id":"Player8","m_Descriptor":8},{"m_Id":"Player9","m_Descriptor":9},{"m_Id":"Player10","m_Descriptor":10},{"m_Id":"Player11","m_Descriptor":11},{"m_Id":"Player12","m_Descriptor":12},{"m_Id":"Player13","m_Descriptor":13},{"m_Id":"Player14","m_Descriptor":14},{"m_Id":"Player15","m_Descriptor":15},{"m_Id":"Player16","m_Descriptor":16},{"m_Id":"Player17","m_Descriptor":17},{"m_Id":"Player18","m_Descriptor":18},{"m_Id":"Player19","m_Descriptor":19},{"m_Id":"Player20","m_Descriptor":20},{"m_Id":"Player21","m_Descriptor":21},{"m_Id":"Player22","m_Descriptor":22},{"m_Id":"Player23","m_Descriptor":23},{"m_Id":"Player24","m_Descriptor":24},{"m_Id":"Player25","m_Descriptor":25},{"m_Id":"Player26","m_Descriptor":26},{"m_Id":"Player27","m_Descriptor":27},{"m_Id":"Player28","m_Descriptor":28},{"m_Id":"Player29","m_Descriptor":29},{"m_Id":"Player30","m_Descriptor":30},{"m_Id":"Player31","m_Descriptor":31}]'
+  m_Players:
+  - m_Id: Player0
+    m_Descriptor: {fileID: 11400000, guid: 14c7bf88965d26a4086e1035fc58648e, type: 2}
+  - m_Id: Player1
+    m_Descriptor: {fileID: 11400000, guid: a9cfa44a02c92b3418be992e1690cf40, type: 2}
+  - m_Id: Player2
+    m_Descriptor: {fileID: 11400000, guid: 9312031b54106ff4aa3e7d5842db6d43, type: 2}
+  - m_Id: Player3
+    m_Descriptor: {fileID: 11400000, guid: 74d41f171ac5a9d4eb9fa6b20979052f, type: 2}
+  - m_Id: Player4
+    m_Descriptor: {fileID: 11400000, guid: b72fa449848a6a14fba225ec96adbf5e, type: 2}
+  - m_Id: Player5
+    m_Descriptor: {fileID: 11400000, guid: 980755e163d837a41a9c28404b16030b, type: 2}
+  - m_Id: Player6
+    m_Descriptor: {fileID: 11400000, guid: 3e2c66a5513cc7441aca73846778069a, type: 2}
+  - m_Id: Player7
+    m_Descriptor: {fileID: 11400000, guid: e010e7185a1b9c14babbceb079ca8296, type: 2}
+  - m_Id: Player8
+    m_Descriptor: {fileID: 11400000, guid: ce79a9b2d0b90fb44ac2a05678db7134, type: 2}
+  - m_Id: Player9
+    m_Descriptor: {fileID: 11400000, guid: 91df31c8cb74e494489da0a6f6b4870e, type: 2}
+  - m_Id: Player10
+    m_Descriptor: {fileID: 11400000, guid: ac22d8961ed38f245a0d676a26e0007a, type: 2}
+  - m_Id: Player11
+    m_Descriptor: {fileID: 11400000, guid: 342dfef88e001eb42821b45f16c1660b, type: 2}
+  - m_Id: Player12
+    m_Descriptor: {fileID: 11400000, guid: cedda6413f837444c833c87452ea8e68, type: 2}
+  - m_Id: Player13
+    m_Descriptor: {fileID: 11400000, guid: 57ce9507ee2d8c54c9a8504d8d57b00e, type: 2}
+  - m_Id: Player14
+    m_Descriptor: {fileID: 11400000, guid: 4a3755d2545b1e943998b93425f1e46a, type: 2}
+  - m_Id: Player15
+    m_Descriptor: {fileID: 11400000, guid: 12122adc714a22b41915ee9827057587, type: 2}
+  - m_Id: Player16
+    m_Descriptor: {fileID: 11400000, guid: f9d8c552b141b63468ca39e3d8c89644, type: 2}
+  - m_Id: Player17
+    m_Descriptor: {fileID: 11400000, guid: 2fc0c23e2a4a9824c92a6c885cefc2f6, type: 2}
+  - m_Id: Player18
+    m_Descriptor: {fileID: 11400000, guid: 523b485a5d9ae2c45a5879fafb50ccb3, type: 2}
+  - m_Id: Player19
+    m_Descriptor: {fileID: 11400000, guid: f09f60684c30d364e957caf3f69b0288, type: 2}
+  - m_Id: Player20
+    m_Descriptor: {fileID: 11400000, guid: 632e5b42785ba954c95df26dbe454395, type: 2}
+  - m_Id: Player21
+    m_Descriptor: {fileID: 11400000, guid: 433fdf23cf4cbff418f3cc57ec594387, type: 2}
+  - m_Id: Player22
+    m_Descriptor: {fileID: 11400000, guid: 9dcca2aa17748364994f5d9d1afbe0c1, type: 2}
+  - m_Id: Player23
+    m_Descriptor: {fileID: 11400000, guid: e5da0e9161efafc4e8091169683a2753, type: 2}
+  - m_Id: Player24
+    m_Descriptor: {fileID: 11400000, guid: 60219b5914a0a0e47a5b49cc8835f5a6, type: 2}
+  - m_Id: Player25
+    m_Descriptor: {fileID: 11400000, guid: d74998ced01a5d34dbd5b702dc302ee3, type: 2}
+  - m_Id: Player26
+    m_Descriptor: {fileID: 11400000, guid: 0c1968bb03e40cb47bdd95e0e429ee82, type: 2}
+  - m_Id: Player27
+    m_Descriptor: {fileID: 11400000, guid: 39acbe8dbf1355a44b465d470668aee3, type: 2}
+  - m_Id: Player28
+    m_Descriptor: {fileID: 11400000, guid: 004198688b86c2a4693e0207b20c6198, type: 2}
+  - m_Id: Player29
+    m_Descriptor: {fileID: 11400000, guid: ff6e7445a4ed74546b78ed42b5be73c0, type: 2}
+  - m_Id: Player30
+    m_Descriptor: {fileID: 11400000, guid: ca108bbef3a20824ba42e4626706a356, type: 2}
+  - m_Id: Player31
+    m_Descriptor: {fileID: 11400000, guid: a8eaeae0d047da94e8a0eb0ef5622b01, type: 2}

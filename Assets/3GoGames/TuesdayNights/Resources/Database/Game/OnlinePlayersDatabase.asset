@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dce43b6dadd4d34aacd5696cfa07712, type: 3}
+  m_Name: OnlinePlayersDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences:
+  - {fileID: 11400000, guid: 58b536f955c7f324fbbc419fc4e3a93b, type: 2}
+  - {fileID: 11400000, guid: 9747e155718292a4590863d10c594900, type: 2}
+  - {fileID: 11400000, guid: 7f40f19da0f80c642b3b367ace567a6e, type: 2}
+  - {fileID: 11400000, guid: c39c7251de1e35b49b9b72b26f45c1c7, type: 2}
+  - {fileID: 11400000, guid: a19288c03f47ecf469e8bcad763b9f23, type: 2}
+  - {fileID: 11400000, guid: 6dbbbaa82fb66e84c8422d62791a00eb, type: 2}
+  - {fileID: 11400000, guid: 2251135e5ef5c7d4595d7bb61ef30b8f, type: 2}
+  - {fileID: 11400000, guid: da66f39c27bc745449902feb994827aa, type: 2}
+  _serializedStateKeys:
+  - m_Players
+  _serializedStateValues:
+  - '[{"m_Id":"MP_PLAYER_0","m_Descriptor":0},{"m_Id":"MP_PLAYER_1","m_Descriptor":1},{"m_Id":"MP_PLAYER_2","m_Descriptor":2},{"m_Id":"MP_PLAYER_3","m_Descriptor":3},{"m_Id":"MP_PLAYER_4","m_Descriptor":4},{"m_Id":"MP_PLAYER_5","m_Descriptor":5},{"m_Id":"MP_PLAYER_6","m_Descriptor":6},{"m_Id":"MP_PLAYER_7","m_Descriptor":7}]'
+  m_Players:
+  - m_Id: MP_PLAYER_0
+    m_Descriptor: {fileID: 11400000, guid: 58b536f955c7f324fbbc419fc4e3a93b, type: 2}
+  - m_Id: MP_PLAYER_1
+    m_Descriptor: {fileID: 11400000, guid: 9747e155718292a4590863d10c594900, type: 2}
+  - m_Id: MP_PLAYER_2
+    m_Descriptor: {fileID: 11400000, guid: 7f40f19da0f80c642b3b367ace567a6e, type: 2}
+  - m_Id: MP_PLAYER_3
+    m_Descriptor: {fileID: 11400000, guid: c39c7251de1e35b49b9b72b26f45c1c7, type: 2}
+  - m_Id: MP_PLAYER_4
+    m_Descriptor: {fileID: 11400000, guid: a19288c03f47ecf469e8bcad763b9f23, type: 2}
+  - m_Id: MP_PLAYER_5
+    m_Descriptor: {fileID: 11400000, guid: 6dbbbaa82fb66e84c8422d62791a00eb, type: 2}
+  - m_Id: MP_PLAYER_6
+    m_Descriptor: {fileID: 11400000, guid: 2251135e5ef5c7d4595d7bb61ef30b8f, type: 2}
+  - m_Id: MP_PLAYER_7
+    m_Descriptor: {fileID: 11400000, guid: da66f39c27bc745449902feb994827aa, type: 2}

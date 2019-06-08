@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: ffa35ae8803ec44499a271701c946740
+timeCreated: 1465911182
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: POL_Blaszczykowski_01
+    21300002: POL_Blaszczykowski_01_Flip
+    21300004: POL_Blaszczykowski_02
+    21300006: POL_Blaszczykowski_02_Flip
+    21300008: POL_Blaszczykowski_03
+    21300010: POL_Blaszczykowski_03_Flip
+    21300012: POL_Glik_01
+    21300014: POL_Glik_01_Flip
+    21300016: POL_Glik_02
+    21300018: POL_Glik_02_Flip
+    21300020: POL_Glik_03
+    21300022: POL_Glik_03_Flip
+    21300024: POL_Jedrzejczyk_01
+    21300026: POL_Jedrzejczyk_01_Flip
+    21300028: POL_Jedrzejczyk_02
+    21300030: POL_Jedrzejczyk_02_Flip
+    21300032: POL_Jedrzejczyk_03
+    21300034: POL_Jedrzejczyk_03_Flip
+    21300036: POL_Kapustka_01
+    21300038: POL_Kapustka_01_Flip
+    21300040: POL_Kapustka_02
+    21300042: POL_Kapustka_02_Flip
+    21300044: POL_Kapustka_03
+    21300046: POL_Kapustka_03_Flip
+    21300048: POL_Krychowiak_01
+    21300050: POL_Krychowiak_01_Flip
+    21300052: POL_Krychowiak_02
+    21300054: POL_Krychowiak_02_Flip
+    21300056: POL_Krychowiak_03
+    21300058: POL_Krychowiak_03_Flip
+    21300060: POL_Lewandowski_01
+    21300062: POL_Lewandowski_01_Flip
+    21300064: POL_Lewandowski_02
+    21300066: POL_Lewandowski_02_Flip
+    21300068: POL_Lewandowski_03
+    21300070: POL_Lewandowski_03_Flip
+    21300072: POL_Maczynski_01
+    21300074: POL_Maczynski_01_Flip
+    21300076: POL_Maczynski_02
+    21300078: POL_Maczynski_02_Flip
+    21300080: POL_Maczynski_03
+    21300082: POL_Maczynski_03_Flip
+    21300084: POL_Milik_01
+    21300086: POL_Milik_01_Flip
+    21300088: POL_Milik_02
+    21300090: POL_Milik_02_Flip
+    21300092: POL_Milik_03
+    21300094: POL_Milik_03_Flip
+    21300096: POL_Pazdan_01
+    21300098: POL_Pazdan_01_Flip
+    21300100: POL_Pazdan_02
+    21300102: POL_Pazdan_02_Flip
+    21300104: POL_Pazdan_03
+    21300106: POL_Pazdan_03_Flip
+    21300108: POL_Piszczek_01
+    21300110: POL_Piszczek_01_Flip
+    21300112: POL_Piszczek_02
+    21300114: POL_Piszczek_02_Flip
+    21300116: POL_Piszczek_03
+    21300118: POL_Piszczek_03_Flip
+    21300120: POL_Szczesny_01
+    21300122: POL_Szczesny_01_Flip
+    21300124: POL_Szczesny_02
+    21300126: POL_Szczesny_02_Flip
+    21300128: POL_Szczesny_03
+    21300130: POL_Szczesny_03_Flip
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: POL_Blaszczykowski_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Blaszczykowski_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Blaszczykowski_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Blaszczykowski_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Blaszczykowski_03
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 444
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Blaszczykowski_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 444
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Glik_01
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Glik_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Glik_02
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Glik_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Glik_03
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Glik_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Jedrzejczyk_01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Jedrzejczyk_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 368
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Jedrzejczyk_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 368
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Jedrzejczyk_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 368
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Jedrzejczyk_03
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 372
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Jedrzejczyk_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 372
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Kapustka_01
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 367
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Kapustka_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 367
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Kapustka_02
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 366
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Kapustka_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 366
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Kapustka_03
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 371
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Kapustka_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 371
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Krychowiak_01
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 367
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Krychowiak_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 367
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Krychowiak_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Krychowiak_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Krychowiak_03
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 297
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Krychowiak_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 297
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Lewandowski_01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Lewandowski_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Lewandowski_02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Lewandowski_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Lewandowski_03
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 297
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Lewandowski_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 297
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Maczynski_01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 292
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Maczynski_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 292
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Maczynski_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 292
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Maczynski_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Maczynski_03
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 222
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Maczynski_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 222
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Milik_01
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 220
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Milik_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 220
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Milik_02
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 220
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Milik_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 220
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Milik_03
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 224
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Milik_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 224
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Pazdan_01
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 220
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Pazdan_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 220
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Pazdan_02
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 220
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Pazdan_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 220
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Pazdan_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Pazdan_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 151
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Piszczek_01
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 144
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Piszczek_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 144
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Piszczek_02
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Piszczek_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 144
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Piszczek_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 148
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Piszczek_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 148
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Szczesny_01
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 144
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Szczesny_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 144
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Szczesny_02
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 144
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Szczesny_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 144
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Szczesny_03
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 148
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Szczesny_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 74
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

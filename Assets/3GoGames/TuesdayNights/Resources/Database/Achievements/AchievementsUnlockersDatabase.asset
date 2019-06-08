@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5543f1b02a439b448bc2520b2d6a22a2, type: 3}
+  m_Name: AchievementsUnlockersDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_AchievementsUnlockersDescriptors
+  _serializedStateValues:
+  - '[{"m_AchievementId":"ACH_NO_SUFFERED_GOALS","m_CheckOnEvent":false,"m_EventName":"","m_ConditionsDescriptor":[{"m_ConditionType":"Int","m_FirstCondition":null,"m_SecondCondition":null,"m_Condition":null,"m_StatId":"MIN_SUFFERED_GOALS","m_NumericConditionType":"Equal","m_BooleanConditionType":"isTrue","m_StringConditionType":"Equal","m_IntValue":0,"m_FloatValue":0.0,"m_StringValue":""}]},{"m_AchievementId":"ACH_10_SCORED_GOALS","m_CheckOnEvent":false,"m_EventName":"","m_ConditionsDescriptor":[{"m_ConditionType":"Int","m_FirstCondition":null,"m_SecondCondition":null,"m_Condition":null,"m_StatId":"MAX_SCORED_GOALS","m_NumericConditionType":"GreaterOrEqual","m_BooleanConditionType":"isTrue","m_StringConditionType":"Equal","m_IntValue":10,"m_FloatValue":0.0,"m_StringValue":""}]},{"m_AchievementId":"ACH_MATCH_WITH_REFEREE","m_CheckOnEvent":false,"m_EventName":"","m_ConditionsDescriptor":[{"m_ConditionType":"Int","m_FirstCondition":null,"m_SecondCondition":null,"m_Condition":null,"m_StatId":"MATCHES_PLAYED_WITH_REFEREE","m_NumericConditionType":"GreaterOrEqual","m_BooleanConditionType":"isTrue","m_StringConditionType":"Equal","m_IntValue":1,"m_FloatValue":0.0,"m_StringValue":""}]},{"m_AchievementId":"ACH_BIGGER_MATCH_10","m_CheckOnEvent":false,"m_EventName":"","m_ConditionsDescriptor":[{"m_ConditionType":"Int","m_FirstCondition":null,"m_SecondCondition":null,"m_Condition":null,"m_StatId":"BIGGER_TEAM_SIZE","m_NumericConditionType":"GreaterOrEqual","m_BooleanConditionType":"isTrue","m_StringConditionType":"Equal","m_IntValue":10,"m_FloatValue":0.0,"m_StringValue":""}]},{"m_AchievementId":"ACH_BIGGER_MATCH_16","m_CheckOnEvent":false,"m_EventName":"","m_ConditionsDescriptor":[{"m_ConditionType":"Int","m_FirstCondition":null,"m_SecondCondition":null,"m_Condition":null,"m_StatId":"BIGGER_TEAM_SIZE","m_NumericConditionType":"GreaterOrEqual","m_BooleanConditionType":"isTrue","m_StringConditionType":"Equal","m_IntValue":16,"m_FloatValue":0.0,"m_StringValue":""}]},{"m_AchievementId":"ACH_BIGGER_MATCH_22","m_CheckOnEvent":false,"m_EventName":"","m_ConditionsDescriptor":[{"m_ConditionType":"Int","m_FirstCondition":null,"m_SecondCondition":null,"m_Condition":null,"m_StatId":"BIGGER_TEAM_SIZE","m_NumericConditionType":"GreaterOrEqual","m_BooleanConditionType":"isTrue","m_StringConditionType":"Equal","m_IntValue":22,"m_FloatValue":0.0,"m_StringValue":""}]},{"m_AchievementId":"ACH_7-1","m_CheckOnEvent":false,"m_EventName":"","m_ConditionsDescriptor":[{"m_ConditionType":"Bool","m_FirstCondition":null,"m_SecondCondition":null,"m_Condition":null,"m_StatId":"RESULT_71","m_NumericConditionType":"Equal","m_BooleanConditionType":"isTrue","m_StringConditionType":"Equal","m_IntValue":0,"m_FloatValue":0.0,"m_StringValue":""}]},{"m_AchievementId":"ACH_REAL_POOL","m_CheckOnEvent":false,"m_EventName":"","m_ConditionsDescriptor":[{"m_ConditionType":"Bool","m_FirstCondition":null,"m_SecondCondition":null,"m_Condition":null,"m_StatId":"REAL_POOL","m_NumericConditionType":"Equal","m_BooleanConditionType":"isTrue","m_StringConditionType":"Equal","m_IntValue":0,"m_FloatValue":0.0,"m_StringValue":""}]},{"m_AchievementId":"ACH_ITA_BEATS_FRA","m_CheckOnEvent":false,"m_EventName":"","m_ConditionsDescriptor":[{"m_ConditionType":"Bool","m_FirstCondition":null,"m_SecondCondition":null,"m_Condition":null,"m_StatId":"ITA_BEATS_FRA","m_NumericConditionType":"Equal","m_BooleanConditionType":"isTrue","m_StringConditionType":"Equal","m_IntValue":0,"m_FloatValue":0.0,"m_StringValue":""}]},{"m_AchievementId":"ACH_FIRST_MATCH","m_CheckOnEvent":false,"m_EventName":"","m_ConditionsDescriptor":[{"m_ConditionType":"Int","m_FirstCondition":null,"m_SecondCondition":null,"m_Condition":null,"m_StatId":"MATCHES_PLAYED","m_NumericConditionType":"Equal","m_BooleanConditionType":"isTrue","m_StringConditionType":"Equal","m_IntValue":1,"m_FloatValue":0.0,"m_StringValue":""}]}]'
+  m_AchievementsUnlockersDescriptors:
+  - m_AchievementId: ACH_NO_SUFFERED_GOALS
+    m_CheckOnEvent: 0
+    m_EventName: 
+    m_ConditionsDescriptor:
+    - m_ConditionType: 0
+      m_StatId: MIN_SUFFERED_GOALS
+      m_NumericConditionType: 0
+      m_BooleanConditionType: 0
+      m_StringConditionType: 0
+      m_IntValue: 0
+      m_FloatValue: 0
+      m_StringValue: 
+  - m_AchievementId: ACH_10_SCORED_GOALS
+    m_CheckOnEvent: 0
+    m_EventName: 
+    m_ConditionsDescriptor:
+    - m_ConditionType: 0
+      m_StatId: MAX_SCORED_GOALS
+      m_NumericConditionType: 3
+      m_BooleanConditionType: 0
+      m_StringConditionType: 0
+      m_IntValue: 10
+      m_FloatValue: 0
+      m_StringValue: 
+  - m_AchievementId: ACH_MATCH_WITH_REFEREE
+    m_CheckOnEvent: 0
+    m_EventName: 
+    m_ConditionsDescriptor:
+    - m_ConditionType: 0
+      m_StatId: MATCHES_PLAYED_WITH_REFEREE
+      m_NumericConditionType: 3
+      m_BooleanConditionType: 0
+      m_StringConditionType: 0
+      m_IntValue: 1
+      m_FloatValue: 0
+      m_StringValue: 
+  - m_AchievementId: ACH_BIGGER_MATCH_10
+    m_CheckOnEvent: 0
+    m_EventName: 
+    m_ConditionsDescriptor:
+    - m_ConditionType: 0
+      m_StatId: BIGGER_TEAM_SIZE
+      m_NumericConditionType: 3
+      m_BooleanConditionType: 0
+      m_StringConditionType: 0
+      m_IntValue: 10
+      m_FloatValue: 0
+      m_StringValue: 
+  - m_AchievementId: ACH_BIGGER_MATCH_16
+    m_CheckOnEvent: 0
+    m_EventName: 
+    m_ConditionsDescriptor:
+    - m_ConditionType: 0
+      m_StatId: BIGGER_TEAM_SIZE
+      m_NumericConditionType: 3
+      m_BooleanConditionType: 0
+      m_StringConditionType: 0
+      m_IntValue: 16
+      m_FloatValue: 0
+      m_StringValue: 
+  - m_AchievementId: ACH_BIGGER_MATCH_22
+    m_CheckOnEvent: 0
+    m_EventName: 
+    m_ConditionsDescriptor:
+    - m_ConditionType: 0
+      m_StatId: BIGGER_TEAM_SIZE
+      m_NumericConditionType: 3
+      m_BooleanConditionType: 0
+      m_StringConditionType: 0
+      m_IntValue: 22
+      m_FloatValue: 0
+      m_StringValue: 
+  - m_AchievementId: ACH_7-1
+    m_CheckOnEvent: 0
+    m_EventName: 
+    m_ConditionsDescriptor:
+    - m_ConditionType: 1
+      m_StatId: RESULT_71
+      m_NumericConditionType: 0
+      m_BooleanConditionType: 0
+      m_StringConditionType: 0
+      m_IntValue: 0
+      m_FloatValue: 0
+      m_StringValue: 
+  - m_AchievementId: ACH_REAL_POOL
+    m_CheckOnEvent: 0
+    m_EventName: 
+    m_ConditionsDescriptor:
+    - m_ConditionType: 1
+      m_StatId: REAL_POOL
+      m_NumericConditionType: 0
+      m_BooleanConditionType: 0
+      m_StringConditionType: 0
+      m_IntValue: 0
+      m_FloatValue: 0
+      m_StringValue: 
+  - m_AchievementId: ACH_ITA_BEATS_FRA
+    m_CheckOnEvent: 0
+    m_EventName: 
+    m_ConditionsDescriptor:
+    - m_ConditionType: 1
+      m_StatId: ITA_BEATS_FRA
+      m_NumericConditionType: 0
+      m_BooleanConditionType: 0
+      m_StringConditionType: 0
+      m_IntValue: 0
+      m_FloatValue: 0
+      m_StringValue: 
+  - m_AchievementId: ACH_FIRST_MATCH
+    m_CheckOnEvent: 0
+    m_EventName: 
+    m_ConditionsDescriptor:
+    - m_ConditionType: 0
+      m_StatId: MATCHES_PLAYED
+      m_NumericConditionType: 0
+      m_BooleanConditionType: 0
+      m_StringConditionType: 0
+      m_IntValue: 1
+      m_FloatValue: 0
+      m_StringValue: 

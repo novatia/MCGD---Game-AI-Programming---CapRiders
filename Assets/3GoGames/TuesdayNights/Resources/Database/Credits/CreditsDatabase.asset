@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e74e3260e8a9ede4eb55bdca93cd5dc1, type: 3}
+  m_Name: CreditsDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences:
+  - {fileID: 11400000, guid: 8b41f4b4cd3e45445950ffef5977e48e, type: 2}
+  - {fileID: 11400000, guid: 48d608c2652a33b4c91fc7daa1710b7f, type: 2}
+  - {fileID: 11400000, guid: f41d88eee066bd1438cffc81a655188a, type: 2}
+  - {fileID: 11400000, guid: 438ad6bd315854b4f83502ed454a39f3, type: 2}
+  - {fileID: 11400000, guid: cd8ba8039c49d96439fb9960f7fc3535, type: 2}
+  - {fileID: 11400000, guid: bd9d2f478d6d324449a86320baa93206, type: 2}
+  _serializedStateKeys:
+  - m_Entries
+  - m_TextsEntries
+  _serializedStateValues:
+  - '[0,1,2,3,4,5]'
+  - '[{"m_Label":"SPECIAL THANKS TO","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"MASSIMILIANO
+    ANTONIOLI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"MATTIA
+    BEDUSCHI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"SALVATORE
+    BELLANZA","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"GIACOMO
+    BERTONI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"ENRICO
+    CASTELLARI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"MATTEO
+    CORDIOLI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"DANIELE
+    GALEAZZI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"ANDREA
+    GANDELLINI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"MARCO
+    GENNARI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"MATTEO
+    GIALDI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"DIEGO
+    LUCCHINI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"FABRIZIO
+    LUCINI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"FABIO
+    MERLO","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"ANDREA
+    MONDINI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"PIETRO
+    MOTTA","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"ENRICO
+    CASTELLARI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"SIMONE
+    REMELLI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"MARCO
+    SBRAVATI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"GIACOMO
+    SCANAVINI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16},{"m_Label":"LUCA
+    TOMASSETTI","m_OverrideProperties":false,"m_Color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"m_Font":null,"m_FontSize":16}]'
+  m_Entries:
+  - {fileID: 11400000, guid: 8b41f4b4cd3e45445950ffef5977e48e, type: 2}
+  - {fileID: 11400000, guid: 48d608c2652a33b4c91fc7daa1710b7f, type: 2}
+  - {fileID: 11400000, guid: f41d88eee066bd1438cffc81a655188a, type: 2}
+  - {fileID: 11400000, guid: 438ad6bd315854b4f83502ed454a39f3, type: 2}
+  - {fileID: 11400000, guid: cd8ba8039c49d96439fb9960f7fc3535, type: 2}
+  - {fileID: 11400000, guid: bd9d2f478d6d324449a86320baa93206, type: 2}
+  m_TextsEntries:
+  - m_Label: SPECIAL THANKS TO
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: 
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: MASSIMILIANO ANTONIOLI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: MATTIA BEDUSCHI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: SALVATORE BELLANZA
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: GIACOMO BERTONI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: ENRICO CASTELLARI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: MATTEO CORDIOLI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: DANIELE GALEAZZI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: ANDREA GANDELLINI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: MARCO GENNARI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: MATTEO GIALDI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: DIEGO LUCCHINI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: FABRIZIO LUCINI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: FABIO MERLO
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: ANDREA MONDINI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: PIETRO MOTTA
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: ENRICO CASTELLARI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: SIMONE REMELLI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: MARCO SBRAVATI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: GIACOMO SCANAVINI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16
+  - m_Label: LUCA TOMASSETTI
+    m_OverrideProperties: 0
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Font: {fileID: 0}
+    m_FontSize: 16

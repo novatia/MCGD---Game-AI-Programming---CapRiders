@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:746122778b206a67d44c599be5477111:a1677f909d45db46fbad2743a61894be:0312dbcf1e3a5b97d7aa4dc8dbd19250$
+#
+:format=40000
+:texture=Stadium_Competitive_Atlas.png
+:size=4096x4096
+
+AD_Pro_01;1;4071;146;24;0.5;0.5
+AD_Pro_02;149;4071;146;24;0.5;0.5
+AD_Pro_03;297;4071;146;24;0.5;0.5
+AD_Pro_04;445;4071;146;24;0.5;0.5
+AD_Pro_05;593;4071;146;24;0.5;0.5
+AD_Pro_06;741;4071;146;24;0.5;0.5
+AD_Pro_07;889;4071;146;24;0.5;0.5
+AD_Pro_08;1037;4071;146;24;0.5;0.5
+AD_Pro_09;1185;4071;146;24;0.5;0.5
+AD_Pro_10;1333;4071;146;24;0.5;0.5
+AD_Pro_10_dx;1481;4071;146;24;0.5;0.5
+AD_Pro_11;1629;4071;146;24;0.5;0.5
+AD_Pro_11_dx;1777;4071;146;24;0.5;0.5
+AD_Pro_12;1925;4071;146;24;0.5;0.5
+AD_Pro_12_dx;2073;4071;146;24;0.5;0.5
+CompetitiveBumpers;1;3033;2312;1036;0.5;0.5
+Porta;2315;3749;151;320;0.5;0.5
+Stadium_Competitive_Arena;1;1679;2402;1352;0.5;0.5

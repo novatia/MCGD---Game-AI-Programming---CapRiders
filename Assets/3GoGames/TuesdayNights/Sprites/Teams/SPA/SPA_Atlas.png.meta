@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: 6fbe9fbea75ae524d8850279620e026a
+timeCreated: 1465892117
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BaseSpain
+    21300002: SPA_8_Casillas_01
+    21300004: SPA_8_Casillas_02
+    21300006: SPA_8_Casillas_03
+    21300008: SPA_8_Iniesta_01
+    21300010: SPA_8_Iniesta_02
+    21300012: SPA_8_Iniesta_03
+    21300014: SPA_8_Pique_01
+    21300016: SPA_8_Pique_02
+    21300018: SPA_8_Pique_03
+    21300020: SPA_8_Casillas_01_Flip
+    21300022: SPA_8_Casillas_02_Flip
+    21300024: SPA_8_Casillas_03_Flip
+    21300026: SPA_8_Iniesta_01_Flip
+    21300028: SPA_8_Iniesta_02_Flip
+    21300030: SPA_8_Iniesta_03_Flip
+    21300032: SPA_8_Pique_01_Flip
+    21300034: SPA_8_Pique_02_Flip
+    21300036: SPA_8_Pique_03_Flip
+    21300038: SPA_Alba_01
+    21300040: SPA_Alba_01_Flip
+    21300042: SPA_Alba_02
+    21300044: SPA_Alba_02_Flip
+    21300046: SPA_Alba_03
+    21300048: SPA_Alba_03_Flip
+    21300050: SPA_Busquets_01
+    21300052: SPA_Busquets_01_Flip
+    21300054: SPA_Busquets_02
+    21300056: SPA_Busquets_02_Flip
+    21300058: SPA_Busquets_03
+    21300060: SPA_Busquets_03_Flip
+    21300062: SPA_Casillas_01
+    21300064: SPA_Casillas_01_Flip
+    21300066: SPA_Casillas_02
+    21300068: SPA_Casillas_02_Flip
+    21300070: SPA_Casillas_03
+    21300072: SPA_Casillas_03_Flip
+    21300074: SPA_Costa_01
+    21300076: SPA_Costa_01_Flip
+    21300078: SPA_Costa_02
+    21300080: SPA_Costa_02_Flip
+    21300082: SPA_Costa_03
+    21300084: SPA_Costa_03_Flip
+    21300086: SPA_Fabregas_01
+    21300088: SPA_Fabregas_01_Flip
+    21300090: SPA_Fabregas_02
+    21300092: SPA_Fabregas_02_Flip
+    21300094: SPA_Fabregas_03
+    21300096: SPA_Fabregas_03_Flip
+    21300098: SPA_Iniesta_01
+    21300100: SPA_Iniesta_01_Flip
+    21300102: SPA_Iniesta_02
+    21300104: SPA_Iniesta_02_Flip
+    21300106: SPA_Iniesta_03
+    21300108: SPA_Iniesta_03_Flip
+    21300110: SPA_Juanfran_01
+    21300112: SPA_Juanfran_01_Flip
+    21300114: SPA_Juanfran_02
+    21300116: SPA_Juanfran_02_Flip
+    21300118: SPA_Juanfran_03
+    21300120: SPA_Juanfran_03_Flip
+    21300122: SPA_Pedro_01
+    21300124: SPA_Pedro_01_Flip
+    21300126: SPA_Pedro_02
+    21300128: SPA_Pedro_02_Flip
+    21300130: SPA_Pedro_03
+    21300132: SPA_Pedro_03_Flip
+    21300134: SPA_Pique_01
+    21300136: SPA_Pique_01_Flip
+    21300138: SPA_Pique_02
+    21300140: SPA_Pique_02_Flip
+    21300142: SPA_Pique_03
+    21300144: SPA_Pique_03_Flip
+    21300146: SPA_Ramos_01
+    21300148: SPA_Ramos_01_Flip
+    21300150: SPA_Ramos_02
+    21300152: SPA_Ramos_02_Flip
+    21300154: SPA_Ramos_03
+    21300156: SPA_Ramos_03_Flip
+    21300158: SPA_Silva_01
+    21300160: SPA_Silva_01_Flip
+    21300162: SPA_Silva_02
+    21300164: SPA_Silva_02_Flip
+    21300166: SPA_Silva_03
+    21300168: SPA_Silva_03_Flip
+    21300170: SPA_Morata_01
+    21300172: SPA_Morata_01_Flip
+    21300174: SPA_Morata_02
+    21300176: SPA_Morata_02_Flip
+    21300178: SPA_Morata_03
+    21300180: SPA_Morata_03_Flip
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPA_Alba_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Alba_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Alba_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Alba_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Alba_03
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 443
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Alba_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 443
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Busquets_01
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Busquets_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Busquets_02
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 438
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Busquets_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 438
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Busquets_03
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 442
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Busquets_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 442
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Casillas_01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Casillas_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 366
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Casillas_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 365
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Casillas_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 365
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Casillas_03
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 369
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Casillas_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 369
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Costa_01
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 364
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Costa_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 364
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Costa_02
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 363
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Costa_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 363
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Costa_03
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 367
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Costa_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 367
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Fabregas_01
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 364
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Fabregas_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 364
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Fabregas_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Fabregas_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 288
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Fabregas_03
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 292
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Fabregas_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 292
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Iniesta_01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 291
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Iniesta_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 291
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Iniesta_02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 290
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Iniesta_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 290
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Iniesta_03
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 294
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Iniesta_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 294
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Juanfran_01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 291
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Juanfran_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 291
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Juanfran_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 290
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Juanfran_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Juanfran_03
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 219
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Juanfran_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 219
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Morata_01
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 216
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Morata_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 216
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Morata_02
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 215
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Morata_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 215
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Morata_03
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 219
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Morata_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 219
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Pedro_01
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 216
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Pedro_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 216
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Pedro_02
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 215
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Pedro_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 215
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Pedro_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Pedro_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 146
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Pique_01
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 142
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Pique_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 142
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Pique_02
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 142
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Pique_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 142
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Pique_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 144
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Pique_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 144
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Ramos_01
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 143
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Ramos_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 143
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Ramos_02
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 142
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Ramos_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 142
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Ramos_03
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 146
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Ramos_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Silva_01
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 69
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Silva_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 69
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Silva_02
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 68
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Silva_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 68
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Silva_03
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 72
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Silva_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 72
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

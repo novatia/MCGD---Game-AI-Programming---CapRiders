@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f9822858bc8457459d380e61c4edc2b, type: 3}
+  m_Name: TeamsDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences:
+  - {fileID: 11400000, guid: a22cb3c84c0a53d4e8747bd3f5ada53b, type: 2}
+  - {fileID: 11400000, guid: f3d4add7f6220f6468f2a62b89c92e34, type: 2}
+  - {fileID: 11400000, guid: 8a89434dfc6da1944beba3c87144a5c1, type: 2}
+  - {fileID: 11400000, guid: 27db73561322b0644be03c8b1c8c8c5d, type: 2}
+  - {fileID: 11400000, guid: f97d63787b7791346a54a932ae486433, type: 2}
+  - {fileID: 11400000, guid: 937ea134af0923543a6d247935446eea, type: 2}
+  - {fileID: 11400000, guid: e0f2c6724f34b804b975d13d37b26ea8, type: 2}
+  - {fileID: 11400000, guid: c26fdac1a28df6647b6ffe4e89d61f3a, type: 2}
+  - {fileID: 11400000, guid: 25818ef1d610afd47afc95cb0e0cfb82, type: 2}
+  - {fileID: 11400000, guid: 46c6b58f68330fc478e75fa09a07ec8a, type: 2}
+  - {fileID: 11400000, guid: 70b459bdfe2ee654d9592fa6a7c07806, type: 2}
+  - {fileID: 11400000, guid: 9d577facee5eae34cbcb9ac0841a7d9a, type: 2}
+  _serializedStateKeys:
+  - m_Teams
+  _serializedStateValues:
+  - '[{"m_Id":"ITA","m_Descriptor":0},{"m_Id":"SPA","m_Descriptor":1},{"m_Id":"FRA","m_Descriptor":2},{"m_Id":"ENG","m_Descriptor":3},{"m_Id":"GER","m_Descriptor":4},{"m_Id":"POR","m_Descriptor":5},{"m_Id":"SWE","m_Descriptor":6},{"m_Id":"BEL","m_Descriptor":7},{"m_Id":"RUS","m_Descriptor":8},{"m_Id":"CRO","m_Descriptor":9},{"m_Id":"POL","m_Descriptor":10},{"m_Id":"IRE","m_Descriptor":11}]'
+  m_Teams:
+  - m_Id: ITA
+    m_Descriptor: {fileID: 11400000, guid: a22cb3c84c0a53d4e8747bd3f5ada53b, type: 2}
+  - m_Id: SPA
+    m_Descriptor: {fileID: 11400000, guid: f3d4add7f6220f6468f2a62b89c92e34, type: 2}
+  - m_Id: FRA
+    m_Descriptor: {fileID: 11400000, guid: 8a89434dfc6da1944beba3c87144a5c1, type: 2}
+  - m_Id: ENG
+    m_Descriptor: {fileID: 11400000, guid: 27db73561322b0644be03c8b1c8c8c5d, type: 2}
+  - m_Id: GER
+    m_Descriptor: {fileID: 11400000, guid: f97d63787b7791346a54a932ae486433, type: 2}
+  - m_Id: POR
+    m_Descriptor: {fileID: 11400000, guid: 937ea134af0923543a6d247935446eea, type: 2}
+  - m_Id: SWE
+    m_Descriptor: {fileID: 11400000, guid: e0f2c6724f34b804b975d13d37b26ea8, type: 2}
+  - m_Id: BEL
+    m_Descriptor: {fileID: 11400000, guid: c26fdac1a28df6647b6ffe4e89d61f3a, type: 2}
+  - m_Id: RUS
+    m_Descriptor: {fileID: 11400000, guid: 25818ef1d610afd47afc95cb0e0cfb82, type: 2}
+  - m_Id: CRO
+    m_Descriptor: {fileID: 11400000, guid: 46c6b58f68330fc478e75fa09a07ec8a, type: 2}
+  - m_Id: POL
+    m_Descriptor: {fileID: 11400000, guid: 70b459bdfe2ee654d9592fa6a7c07806, type: 2}
+  - m_Id: IRE
+    m_Descriptor: {fileID: 11400000, guid: 9d577facee5eae34cbcb9ac0841a7d9a, type: 2}

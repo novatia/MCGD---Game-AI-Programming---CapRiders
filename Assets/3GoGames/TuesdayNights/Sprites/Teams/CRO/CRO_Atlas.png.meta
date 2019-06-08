@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: e7689c829ac86fc439ee4acb2962b906
+timeCreated: 1465912401
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CRO_Brozovic_01
+    21300002: CRO_Brozovic_01_Flip
+    21300004: CRO_Brozovic_02
+    21300006: CRO_Brozovic_02_Flip
+    21300008: CRO_Brozovic_03
+    21300010: CRO_Brozovic_03_Flip
+    21300012: CRO_Corluka_01
+    21300014: CRO_Corluka_01_Flip
+    21300016: CRO_Corluka_02
+    21300018: CRO_Corluka_02_Flip
+    21300020: CRO_Corluka_03
+    21300022: CRO_Corluka_03_Flip
+    21300024: CRO_Kalinic_01
+    21300026: CRO_Kalinic_01_Flip
+    21300028: CRO_Kalinic_02
+    21300030: CRO_Kalinic_02_Flip
+    21300032: CRO_Kalinic_03
+    21300034: CRO_Kalinic_03_Flip
+    21300036: CRO_Kovacic_01
+    21300038: CRO_Kovacic_01_Flip
+    21300040: CRO_Kovacic_02
+    21300042: CRO_Kovacic_02_Flip
+    21300044: CRO_Kovacic_03
+    21300046: CRO_Kovacic_03_Flip
+    21300048: CRO_Mandzukic_01
+    21300050: CRO_Mandzukic_01_Flip
+    21300052: CRO_Mandzukic_02
+    21300054: CRO_Mandzukic_02_Flip
+    21300056: CRO_Mandzukic_03
+    21300058: CRO_Mandzukic_03_Flip
+    21300060: CRO_Modric_01
+    21300062: CRO_Modric_01_Flip
+    21300064: CRO_Modric_02
+    21300066: CRO_Modric_02_Flip
+    21300068: CRO_Modric_03
+    21300070: CRO_Modric_03_Flip
+    21300072: CRO_Perisic_01
+    21300074: CRO_Perisic_01_Flip
+    21300076: CRO_Perisic_02
+    21300078: CRO_Perisic_02_Flip
+    21300080: CRO_Perisic_03
+    21300082: CRO_Perisic_03_Flip
+    21300084: CRO_Rakitic_01
+    21300086: CRO_Rakitic_01_Flip
+    21300088: CRO_Rakitic_02
+    21300090: CRO_Rakitic_02_Flip
+    21300092: CRO_Rakitic_03
+    21300094: CRO_Rakitic_03_Flip
+    21300096: CRO_Srna_01
+    21300098: CRO_Srna_01_Flip
+    21300100: CRO_Srna_02
+    21300102: CRO_Srna_02_Flip
+    21300104: CRO_Srna_03
+    21300106: CRO_Srna_03_Flip
+    21300108: CRO_Vargic_01
+    21300110: CRO_Vargic_01_Flip
+    21300112: CRO_Vargic_02
+    21300114: CRO_Vargic_02_Flip
+    21300116: CRO_Vargic_03
+    21300118: CRO_Vargic_03_Flip
+    21300120: CRO_Vrsaljko_01
+    21300122: CRO_Vrsaljko_01_Flip
+    21300124: CRO_Vrsaljko_02
+    21300126: CRO_Vrsaljko_02_Flip
+    21300128: CRO_Vrsaljko_03
+    21300130: CRO_Vrsaljko_03_Flip
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CRO_Brozovic_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Brozovic_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Brozovic_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Brozovic_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Brozovic_03
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 446
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Brozovic_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 446
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Corluka_01
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Corluka_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Corluka_02
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Corluka_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Corluka_03
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 444
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Corluka_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 444
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Kalinic_01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Kalinic_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 365
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Kalinic_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 364
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Kalinic_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 364
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Kalinic_03
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 369
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Kalinic_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 369
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Kovacic_01
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Kovacic_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Kovacic_02
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Kovacic_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Kovacic_03
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 372
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Kovacic_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 372
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Mandzukic_01
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Mandzukic_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Mandzukic_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Mandzukic_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 290
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Mandzukic_03
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 295
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Mandzukic_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 295
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Modric_01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Modric_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Modric_02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Modric_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Modric_03
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 296
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Modric_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 296
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Perisic_01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Perisic_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Perisic_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Perisic_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Perisic_03
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 222
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Perisic_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 222
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Rakitic_01
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 216
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Rakitic_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 216
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Rakitic_02
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 216
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Rakitic_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 216
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Rakitic_03
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 219
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Rakitic_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 219
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Srna_01
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 218
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Srna_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 218
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Srna_02
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Srna_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Srna_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 147
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Srna_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 147
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Vargic_01
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 144
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Vargic_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 144
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Vargic_02
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Vargic_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 144
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Vargic_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 149
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Vargic_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 149
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Vrsaljko_01
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 144
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Vrsaljko_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 144
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Vrsaljko_02
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 143
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Vrsaljko_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 143
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Vrsaljko_03
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 147
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Vrsaljko_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 74
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

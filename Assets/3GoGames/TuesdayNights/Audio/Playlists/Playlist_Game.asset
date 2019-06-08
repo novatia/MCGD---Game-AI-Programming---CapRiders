@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59b3d191cd4275345a8646329e60880b, type: 3}
+  m_Name: Playlist_Game
+  m_EditorClassIdentifier: 
+  _objectReferences:
+  - {fileID: 8300000, guid: ef49876e84a79f8428cb6fa4de8f37d1, type: 3}
+  - {fileID: 8300000, guid: 37fba9014b9c14341ad5c705ee2745d0, type: 3}
+  - {fileID: 8300000, guid: f9bdd9cd5359fbc43815609dc458d596, type: 3}
+  - {fileID: 8300000, guid: af5be1db3eee28041ae2296eb31c3302, type: 3}
+  _serializedStateKeys:
+  - m_Tracks
+  _serializedStateValues:
+  - '[0,1,2,3]'
+  m_Tracks:
+  - {fileID: 8300000, guid: ef49876e84a79f8428cb6fa4de8f37d1, type: 3}
+  - {fileID: 8300000, guid: 37fba9014b9c14341ad5c705ee2745d0, type: 3}
+  - {fileID: 8300000, guid: f9bdd9cd5359fbc43815609dc458d596, type: 3}
+  - {fileID: 8300000, guid: af5be1db3eee28041ae2296eb31c3302, type: 3}

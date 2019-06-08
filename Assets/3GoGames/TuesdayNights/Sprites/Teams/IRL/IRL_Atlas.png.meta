@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: e6a06370912cd0a469e782cf438e2f39
+timeCreated: 1465911377
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IRL_Clark_01
+    21300002: IRL_Clark_01_Flip
+    21300004: IRL_Clark_02
+    21300006: IRL_Clark_02_Flip
+    21300008: IRL_Clark_03
+    21300010: IRL_Clark_03_Flip
+    21300012: IRL_Coleman_01
+    21300014: IRL_Coleman_01_Flip
+    21300016: IRL_Coleman_02
+    21300018: IRL_Coleman_02_Flip
+    21300020: IRL_Coleman_03
+    21300022: IRL_Coleman_03_Flip
+    21300024: IRL_Keane_01
+    21300026: IRL_Keane_01_Flip
+    21300028: IRL_Keane_02
+    21300030: IRL_Keane_02_Flip
+    21300032: IRL_Keane_03
+    21300034: IRL_Keane_03_Flip
+    21300036: IRL_Long_01
+    21300038: IRL_Long_01_Flip
+    21300040: IRL_Long_02
+    21300042: IRL_Long_02_Flip
+    21300044: IRL_Long_03
+    21300046: IRL_Long_03_Flip
+    21300048: IRL_McClean_01
+    21300050: IRL_McClean_01_Flip
+    21300052: IRL_McClean_02
+    21300054: IRL_McClean_02_Flip
+    21300056: IRL_McClean_03
+    21300058: IRL_McClean_03_Flip
+    21300060: IRL_McGeady_01
+    21300062: IRL_McGeady_01_Flip
+    21300064: IRL_McGeady_02
+    21300066: IRL_McGeady_02_Flip
+    21300068: IRL_McGeady_03
+    21300070: IRL_McGeady_03_Flip
+    21300072: IRL_OShea_01
+    21300074: IRL_OShea_01_Flip
+    21300076: IRL_OShea_02
+    21300078: IRL_OShea_02_Flip
+    21300080: IRL_OShea_03
+    21300082: IRL_OShea_03_Flip
+    21300084: IRL_Randolph_01
+    21300086: IRL_Randolph_01_Flip
+    21300088: IRL_Randolph_02
+    21300090: IRL_Randolph_02_Flip
+    21300092: IRL_Randolph_03
+    21300094: IRL_Randolph_03_Flip
+    21300096: IRL_Walters_01
+    21300098: IRL_Walters_01_Flip
+    21300100: IRL_Walters_02
+    21300102: IRL_Walters_02_Flip
+    21300104: IRL_Walters_03
+    21300106: IRL_Walters_03_Flip
+    21300108: IRL_Ward_01
+    21300110: IRL_Ward_01_Flip
+    21300112: IRL_Ward_02
+    21300114: IRL_Ward_02_Flip
+    21300116: IRL_Ward_03
+    21300118: IRL_Ward_03_Flip
+    21300120: IRL_Whelan_01
+    21300122: IRL_Whelan_01_Flip
+    21300124: IRL_Whelan_02
+    21300126: IRL_Whelan_02_Flip
+    21300128: IRL_Whelan_03
+    21300130: IRL_Whelan_03_Flip
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IRL_Clark_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Clark_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Clark_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Clark_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Clark_03
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 443
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Clark_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 443
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Coleman_01
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Coleman_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Coleman_02
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Coleman_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Coleman_03
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 443
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Coleman_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 443
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Keane_01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Keane_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 365
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Keane_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 365
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Keane_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 365
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Keane_03
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 369
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Keane_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 369
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Long_01
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 365
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Long_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 365
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Long_02
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 365
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Long_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 365
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Long_03
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 369
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Long_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 369
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_McClean_01
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 365
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_McClean_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 365
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_McClean_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_McClean_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 291
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_McClean_03
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 295
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_McClean_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 295
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_McGeady_01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 290
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_McGeady_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 290
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_McGeady_02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 290
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_McGeady_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 290
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_McGeady_03
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 294
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_McGeady_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 294
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_OShea_01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 292
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_OShea_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 292
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_OShea_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 292
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_OShea_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_OShea_03
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 221
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_OShea_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 221
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Randolph_01
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Randolph_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Randolph_02
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Randolph_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Randolph_03
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 222
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Randolph_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 222
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Walters_01
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Walters_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Walters_02
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Walters_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Walters_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 148
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Walters_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 148
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Ward_01
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 143
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Ward_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 143
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Ward_02
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 143
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Ward_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 143
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Ward_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 147
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Ward_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 147
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Whelan_01
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 143
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Whelan_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 143
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Whelan_02
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 143
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Whelan_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 143
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Whelan_03
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 147
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Whelan_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

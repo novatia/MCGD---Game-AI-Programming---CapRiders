@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b6ee614548b6e64e802cb4c8c69311b, type: 3}
+  m_Name: Nani_Descriptor
+  m_EditorClassIdentifier: 
+  m_FirstName: "Lu\xEDs Carlos"
+  m_LastName: Almeida da Cunha
+  m_DisplayName: Nina
+  m_Role: 2
+  m_Number: 17
+  m_SpecifyPrefab: 0
+  m_PrefabPath:
+    m_Path: 
+  m_Left:
+  - {fileID: 21300076, guid: 00354bea01a7928409fb349295fc7a86, type: 3}
+  - {fileID: 21300080, guid: 00354bea01a7928409fb349295fc7a86, type: 3}
+  - {fileID: 21300084, guid: 00354bea01a7928409fb349295fc7a86, type: 3}
+  m_Right:
+  - {fileID: 21300074, guid: 00354bea01a7928409fb349295fc7a86, type: 3}
+  - {fileID: 21300078, guid: 00354bea01a7928409fb349295fc7a86, type: 3}
+  - {fileID: 21300082, guid: 00354bea01a7928409fb349295fc7a86, type: 3}
+  m_AnimatorController: {fileID: 9100000, guid: 144d035d9b135214e98d745ac497e4cc,
+    type: 2}
+  m_UIIconFacingRight: {fileID: 21300074, guid: 00354bea01a7928409fb349295fc7a86,
+    type: 3}
+  m_UIIconFacingLeft: {fileID: 21300076, guid: 00354bea01a7928409fb349295fc7a86, type: 3}

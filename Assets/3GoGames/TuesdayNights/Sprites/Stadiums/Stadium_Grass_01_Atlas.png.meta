@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 7c58bc63ee9ad8448880eaa401f46287
+timeCreated: 1463992930
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Porta
+    21300002: Stadium_Base
+    21300004: Stadium_KonigPark_Base
+    21300006: Konig_AD_10
+    21300008: Konig_AD_11_key
+    21300010: Konig_AD_12
+    21300012: Konig_AD_13
+    21300014: Konig_AD_14
+    21300016: Konig_AD_15
+    21300018: Konig_AD_16
+    21300020: Konig_AD_17
+    21300022: Konig_AD_18
+    21300024: Konig_AD_19
+    21300026: Konig_AD_1_key
+    21300028: Konig_AD_2
+    21300030: Konig_AD_20
+    21300032: Konig_AD_3
+    21300034: Konig_AD_4
+    21300036: Konig_AD_5
+    21300038: Konig_AD_6
+    21300040: Konig_AD_7
+    21300042: Konig_AD_8
+    21300044: Konig_AD_9
+    21300046: Lights
+    21300048: PortaUnder
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Konig_AD_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3950
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_11_key
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 3950
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3803
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_13
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 3803
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3656
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_15
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 3656
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3509
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_17
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 3509
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3362
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_19
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 3362
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_1_key
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3215
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_2
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 3215
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3068
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_3
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 3068
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2921
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_5
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 2921
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2774
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_7
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 2774
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2627
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Konig_AD_9
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 2627
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lights
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 2681
+        width: 270
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Porta
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 2520
+        width: 104
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PortaUnder
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 2520
+        width: 104
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Stadium_KonigPark_Base
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1436
+        width: 1922
+        height: 1082
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

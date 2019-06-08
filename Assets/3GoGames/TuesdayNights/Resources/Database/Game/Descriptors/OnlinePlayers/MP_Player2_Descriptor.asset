@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d05df8ccda284af49bf7fd15b433a8a0, type: 3}
+  m_Name: MP_Player2_Descriptor
+  m_EditorClassIdentifier: 
+  m_Color: {r: 0.078431375, g: 0.9529412, b: 0.25490198, a: 1}

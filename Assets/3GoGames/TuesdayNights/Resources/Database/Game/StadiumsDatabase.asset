@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 706dc463db35625439a219c1725e2d02, type: 3}
+  m_Name: StadiumsDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences:
+  - {fileID: 11400000, guid: 15a2c8a3934b12c4abe445f94dfee703, type: 2}
+  - {fileID: 11400000, guid: f51dd09261206654fb871adffd53e99d, type: 2}
+  - {fileID: 11400000, guid: cfdcf56e805a0014bac0b36324d1b793, type: 2}
+  - {fileID: 11400000, guid: 1b50c9dfe330b8f43b677e866927855e, type: 2}
+  - {fileID: 11400000, guid: 1ea5ff8f23f71434fb7bb21d4e24e9b4, type: 2}
+  - {fileID: 11400000, guid: da45ee311f58a8b4ba99e600d2a6b011, type: 2}
+  - {fileID: 11400000, guid: c852ee86652da1f40ac7929064698705, type: 2}
+  _serializedStateKeys:
+  - m_Stadiums
+  _serializedStateValues:
+  - '[{"m_Id":"competitive_arena","m_Descriptor":0},{"m_Id":"konig_park","m_Descriptor":1},{"m_Id":"clay_stade","m_Descriptor":2},{"m_Id":"flipper_arena","m_Descriptor":3},{"m_Id":"pool_palace","m_Descriptor":4},{"m_Id":"circle_garden","m_Descriptor":5},{"m_Id":"infinite_stadium","m_Descriptor":6}]'
+  m_Stadiums:
+  - m_Id: competitive_arena
+    m_Descriptor: {fileID: 11400000, guid: 15a2c8a3934b12c4abe445f94dfee703, type: 2}
+  - m_Id: konig_park
+    m_Descriptor: {fileID: 11400000, guid: f51dd09261206654fb871adffd53e99d, type: 2}
+  - m_Id: clay_stade
+    m_Descriptor: {fileID: 11400000, guid: cfdcf56e805a0014bac0b36324d1b793, type: 2}
+  - m_Id: flipper_arena
+    m_Descriptor: {fileID: 11400000, guid: 1b50c9dfe330b8f43b677e866927855e, type: 2}
+  - m_Id: pool_palace
+    m_Descriptor: {fileID: 11400000, guid: 1ea5ff8f23f71434fb7bb21d4e24e9b4, type: 2}
+  - m_Id: circle_garden
+    m_Descriptor: {fileID: 11400000, guid: da45ee311f58a8b4ba99e600d2a6b011, type: 2}
+  - m_Id: infinite_stadium
+    m_Descriptor: {fileID: 11400000, guid: c852ee86652da1f40ac7929064698705, type: 2}

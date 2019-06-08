@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: ea2b3f3a39efd1e45af7d7eb4b7da62e
+timeCreated: 1458829332
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shadow
+    21300002: ShadowPalla
+    21300004: TAUNT
+    21300006: TAUNT2
+    21300008: TAUNT3
+    21300010: TAUNT4
+    21300012: BaseRefree
+    21300014: Refree_Black_1
+    21300016: Refree_Black_2
+    21300018: Refree_Black_3
+    21300020: Fan_CheeringGuy1
+    21300022: Fan_CheeringGuy2
+    21300024: Fan_CommonShirt
+    21300026: Fan_Flag1
+    21300028: Fan_Flag2
+    21300030: Fan_Flag3
+    21300032: Fan_Hand1
+    21300034: Fan_Hand2
+    21300036: Fan_NumberOneFan1
+    21300038: Fan_NumberOneFan2
+    21300040: Fan_WavingFlag1
+    21300042: Fan_WavingFlag2
+    21300044: Fan_WavingFlag3
+    21300046: Kick_Anim_01
+    21300048: Kick_Anim_02
+    21300050: Kick_Anim_03
+    21300052: Kick_Anim_04
+    21300054: Kick_Anim_05
+    21300056: PlayerColorArrow
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fan_CheeringGuy1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fan_CheeringGuy2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fan_CommonShirt
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fan_Flag1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fan_Flag2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fan_Flag3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fan_Hand1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fan_Hand2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fan_NumberOneFan1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fan_NumberOneFan2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fan_WavingFlag1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fan_WavingFlag2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fan_WavingFlag3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 459
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Kick_Anim_01
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 437
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Kick_Anim_02
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 432
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Kick_Anim_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 347
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Kick_Anim_04
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 347
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Kick_Anim_05
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 347
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PlayerColorArrow
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 358
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Shadow
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 272
+        width: 172
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ShadowPalla
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 166
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: TAUNT
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 256
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: TAUNT2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 222
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: TAUNT3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 230
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: TAUNT4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 223
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

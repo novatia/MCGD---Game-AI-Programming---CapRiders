@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b6b8da7665fe948a7a5ac0c3da1beb, type: 3}
+  m_Name: Italy_Descriptor
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_FirstColor
+  - m_SecondColor
+  - m_SupportersFirstColor
+  - m_SupportersSecondColor
+  - m_DefaultLineUps
+  _serializedStateValues:
+  - '{"r":0.1029412,"g":0.5545641,"b":1.0,"a":1.0}'
+  - '{"r":1.0,"g":1.0,"b":1.0,"a":1.0}'
+  - '{"r":0.1019608,"g":0.5529412,"b":1.0,"a":1.0}'
+  - '{"r":1.0,"g":1.0,"b":1.0,"a":1.0}'
+  - '[["ELSHARAAWY"],["DEROSSI","ELSHARAAWY"],["BUFFON","DEROSSI","ELSHARAAWY"],["BUFFON","BARZAGLI","DEROSSI","ELSHARAAWY"],["BUFFON","BARZAGLI","FLORENZI","DEROSSI","ELSHARAAWY"],["BUFFON","BARZAGLI","BONUCCI","DEROSSI","ZAZA","ELSHARAAWY"],["BUFFON","BARZAGLI","BONUCCI","FLORENZI","DEROSSI","ZAZA","ELSHARAAWY"],["BUFFON","BARZAGLI","BONUCCI","FLORENZI","THIAGOMOTTA","DEROSSI","ZAZA","ELSHARAAWY"],["BUFFON","BARZAGLI","BONUCCI","THIAGOMOTTA","FLORENZI","DEROSSI","INSIGNE","ZAZA","ELSHARAAWY"],["BUFFON","BARZAGLI","BONUCCI","DARMIAN","FLORENZI","THIAGOMOTTA","DEROSSI","INSIGNE","ZAZA","ELSHARAAWY"],["BUFFON","BARZAGLI","BONUCCI","CHIELLINI","DARMIAN","FLORENZI","THIAGOMOTTA","DEROSSI","INSIGNE","ZAZA","ELSHARAAWY"]]'
+  m_TeamName: ITALY
+  m_Flag: {fileID: 21300028, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  m_Icon: {fileID: 21300012, guid: c2610db8988299e4599b648a0bea8d79, type: 3}
+  m_BaseSprite: {fileID: 21300034, guid: 32dbe4864ca3a5e4b862a85c3b215a1d, type: 3}
+  m_FirstColor: {r: 0.1029412, g: 0.5545641, b: 1, a: 1}
+  m_SecondColor: {r: 1, g: 1, b: 1, a: 1}
+  m_SupportersFirstColor: {r: 0.1019608, g: 0.5529412, b: 1, a: 1}
+  m_SupportersSecondColor: {r: 1, g: 1, b: 1, a: 1}
+  m_TeamStats: {fileID: 11400000, guid: 41933918e99530e44ab3b8cf42ada40b, type: 2}
+  m_CharactersKeys:
+  - BARZAGLI
+  - BONUCCI
+  - BUFFON
+  - CHIELLINI
+  - DARMIAN
+  - ELSHARAAWY
+  - FLORENZI
+  - INSIGNE
+  - THIAGOMOTTA
+  - DEROSSI
+  - ZAZA

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67f42180e6b3036449aaf594848ae77a, type: 3}
+  m_Name: RemoteStatsMap
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_StatsMap
+  _serializedStateValues:
+  - '{"IBRAHIMOVIC_GOALS":{"m_SteamId":"IBRAHIMOVIC_GOALS"},"VARDY_GOALS":{"m_SteamId":"VARDY_GOALS"},"RONALDO_GOALS":{"m_SteamId":"RONALDO_GOALS"},"ELSHARAAWY_GOALS":{"m_SteamId":"ELSHARAAWY_GOALS"},"INIESTA_GOALS":{"m_SteamId":"INIESTA_GOALS"},"GOTZE_GOALS":{"m_SteamId":"GOTZE_GOALS"},"HAZARD_GOALS":{"m_SteamId":"HAZARD_GOALS"},"POGBA_GOALS":{"m_SteamId":"POGBA_GOALS"},"MATCHES_PLAYED":{"m_SteamId":"MATCHES_PLAYED"},"MATCHES_PLAYED_WITH_REFEREE":{"m_SteamId":"MATCHES_PLAYED_WITH_REFEREE"},"MIN_SUFFERED_GOALS":{"m_SteamId":"MIN_SUFFERED_GOALS"},"MAX_SCORED_GOALS":{"m_SteamId":"MAX_SCORED_GOALS"},"BIGGER_TEAM_SIZE":{"m_SteamId":"BIGGER_TEAM_SIZE"}}'

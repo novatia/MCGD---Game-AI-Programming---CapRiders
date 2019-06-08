@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baeef384ed2b51f458f97a35928866d4, type: 3}
+  m_Name: InputModuleConfig
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys: []
+  _serializedStateValues: []
+  m_DefaultPlayers: []
+  m_DefaultWifiPlayers: []
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_WifiHorizontalAxis: Horizontal
+  m_WifiVerticalAxis: Vertical
+  m_WifiSubmitButton: Submit
+  m_WifiCancelButton: Cancel
+  m_InputActionsPerSecond: 4
+  m_MoveOneElementPerAxisPress: 1
+  m_RepeatDelay: 0
+  m_AxisDeadzone: 0
+  m_AllowMouseInput: 0
+  m_AllowMouseInputIfTouchSupported: 0
+  m_AllowActivationOnMobileDevice: 0

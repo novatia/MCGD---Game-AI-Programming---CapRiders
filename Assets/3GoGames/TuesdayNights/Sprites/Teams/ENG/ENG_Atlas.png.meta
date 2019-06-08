@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: 5d7918d7f46155f40a8438f0f7adb020
+timeCreated: 1465892523
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BaseEngland
+    21300002: ENG_Vardy_01
+    21300004: ENG_Vardy_01_Flip
+    21300006: ENG_Vardy_02
+    21300008: ENG_Vardy_02_Flip
+    21300010: ENG_Vardy_03
+    21300012: ENG_Vardy_03_Flip
+    21300014: ENG_Barkley_01
+    21300016: ENG_Barkley_01_Flip
+    21300018: ENG_Barkley_02
+    21300020: ENG_Barkley_02_Flip
+    21300022: ENG_Barkley_03
+    21300024: ENG_Barkley_03_Flip
+    21300026: ENG_Clyne_01
+    21300028: ENG_Clyne_01_Flip
+    21300030: ENG_Clyne_02
+    21300032: ENG_Clyne_02_Flip
+    21300034: ENG_Clyne_03
+    21300036: ENG_Clyne_03_Flip
+    21300038: ENG_Hart_01
+    21300040: ENG_Hart_01_Flip
+    21300042: ENG_Hart_02
+    21300044: ENG_Hart_02_Flip
+    21300046: ENG_Hart_03
+    21300048: ENG_Hart_03_Flip
+    21300050: ENG_Henderson_01
+    21300052: ENG_Henderson_01_Flip
+    21300054: ENG_Henderson_02
+    21300056: ENG_Henderson_02_Flip
+    21300058: ENG_Henderson_03
+    21300060: ENG_Henderson_03_Flip
+    21300062: ENG_Rooney_01
+    21300064: ENG_Rooney_01_Flip
+    21300066: ENG_Rooney_02
+    21300068: ENG_Rooney_02_Flip
+    21300070: ENG_Rooney_03
+    21300072: ENG_Rooney_03_Flip
+    21300074: ENG_Shaw_01
+    21300076: ENG_Shaw_01_Flip
+    21300078: ENG_Shaw_02
+    21300080: ENG_Shaw_02_Flip
+    21300082: ENG_Shaw_03
+    21300084: ENG_Shaw_03_Flip
+    21300086: ENG_Smalling_01
+    21300088: ENG_Smalling_01_Flip
+    21300090: ENG_Smalling_02
+    21300092: ENG_Smalling_02_Flip
+    21300094: ENG_Smalling_03
+    21300096: ENG_Smalling_03_Flip
+    21300098: ENG_Sterling_01
+    21300100: ENG_Sterling_01_Flip
+    21300102: ENG_Sterling_02
+    21300104: ENG_Sterling_02_Flip
+    21300106: ENG_Sterling_03
+    21300108: ENG_Sterling_03_Flip
+    21300110: ENG_Stones_01
+    21300112: ENG_Stones_01_Flip
+    21300114: ENG_Stones_02
+    21300116: ENG_Stones_02_Flip
+    21300118: ENG_Stones_03
+    21300120: ENG_Stones_03_Flip
+    21300122: ENG_Walcott_01
+    21300124: ENG_Walcott_01_Flip
+    21300126: ENG_Walcott_02
+    21300128: ENG_Walcott_02_Flip
+    21300130: ENG_Walcott_03
+    21300132: ENG_Walcott_03_Flip
+    21300134: ENG_Wilshere_01
+    21300136: ENG_Wilshere_01_Flip
+    21300138: ENG_Wilshere_02
+    21300140: ENG_Wilshere_02_Flip
+    21300142: ENG_Wilshere_03
+    21300144: ENG_Wilshere_03_Flip
+    21300146: ENG_Walker_02
+    21300148: ENG_Walker_02_Flip
+    21300150: ENG_Walker_01_Flip
+    21300152: ENG_Walker_01
+    21300154: ENG_Kane_02
+    21300156: ENG_Kane_01_Flip
+    21300158: ENG_Kane_01
+    21300160: ENG_Kane_02_Flip
+    21300162: ENG_Kane_03_Flip
+    21300164: ENG_Kane_03
+    21300166: ENG_Walker_03
+    21300168: ENG_Walker_03_Flip
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ENG_Sterling_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Sterling_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Rooney_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Sterling_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Stones_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Stones_02
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Stones_01
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Sterling_01
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Shaw_01
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Shaw_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Smalling_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Shaw_02
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Smalling_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Smalling_02
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Shaw_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Stones_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 365
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Walker_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Walker_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Vardy_01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Wilshere_01
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Wilshere_02
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Wilshere_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Wilshere_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Walker_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Vardy_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Vardy_02
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Walker_01
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Vardy_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Walcott_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 293
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Walcott_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 292
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Walcott_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 293
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Walcott_02
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 292
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Smalling_01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 293
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Hart_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 293
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Hart_02
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 292
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Henderson_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 290
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Hart_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 292
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Henderson_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 292
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Henderson_02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 290
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Henderson_01
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 292
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Hart_01
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 293
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Barkley_01
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 293
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Barkley_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Clyne_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Barkley_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Barkley_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Clyne_02
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 217
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Clyne_01
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 218
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Clyne_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 218
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Rooney_02
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 218
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Kane_02
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 218
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Kane_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 218
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Rooney_01
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 219
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Kane_01
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 218
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Kane_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 218
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Rooney_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 219
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Walcott_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 148
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Kane_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 150
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Walcott_03
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 148
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Kane_03
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 150
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Barkley_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 148
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Wilshere_03
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 148
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Rooney_03
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 149
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Shaw_03
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 148
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Rooney_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 149
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Walker_03
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 150
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Barkley_03
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 148
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Walker_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 150
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Clyne_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Hart_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 79
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Smalling_03
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 79
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Henderson_03
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 78
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Sterling_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 79
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Smalling_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 79
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Henderson_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 78
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Sterling_03
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 79
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Hart_03
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 79
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Clyne_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 80
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Vardy_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 79
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Stones_03
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 78
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Vardy_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Wilshere_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Stones_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 8
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Shaw_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 9
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

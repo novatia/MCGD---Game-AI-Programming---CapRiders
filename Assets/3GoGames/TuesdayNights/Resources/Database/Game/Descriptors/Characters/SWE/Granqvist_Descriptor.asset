@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b6ee614548b6e64e802cb4c8c69311b, type: 3}
+  m_Name: Granqvist_Descriptor
+  m_EditorClassIdentifier: 
+  m_FirstName: Andreas
+  m_LastName: Granqvist
+  m_DisplayName: Granbisk
+  m_Role: 1
+  m_Number: 4
+  m_SpecifyPrefab: 0
+  m_PrefabPath:
+    m_Path: 
+  m_Left:
+  - {fileID: 21300064, guid: 1cb764b79ec8b954996379569beccea2, type: 3}
+  - {fileID: 21300068, guid: 1cb764b79ec8b954996379569beccea2, type: 3}
+  - {fileID: 21300072, guid: 1cb764b79ec8b954996379569beccea2, type: 3}
+  m_Right:
+  - {fileID: 21300062, guid: 1cb764b79ec8b954996379569beccea2, type: 3}
+  - {fileID: 21300066, guid: 1cb764b79ec8b954996379569beccea2, type: 3}
+  - {fileID: 21300070, guid: 1cb764b79ec8b954996379569beccea2, type: 3}
+  m_AnimatorController: {fileID: 9100000, guid: fd81b0da0874cb34d92dc3026e8c1d52,
+    type: 2}
+  m_UIIconFacingRight: {fileID: 21300062, guid: 1cb764b79ec8b954996379569beccea2,
+    type: 3}
+  m_UIIconFacingLeft: {fileID: 21300064, guid: 1cb764b79ec8b954996379569beccea2, type: 3}

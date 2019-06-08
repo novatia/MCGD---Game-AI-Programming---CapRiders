@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac24d4b4b1a8df14f8452548dea353c1, type: 3}
+  m_Name: GameModeConfigsDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences:
+  - {fileID: 11400000, guid: 56717da9e8033754d8a32c5d01661416, type: 2}
+  - {fileID: 11400000, guid: 2db3a7ec941a2de4d9e590ba5ee72367, type: 2}
+  - {fileID: 11400000, guid: 6c2e514d4bc61774987d88b3a7cc32aa, type: 2}
+  _serializedStateKeys:
+  - m_Configs
+  _serializedStateValues:
+  - '{"OPT_STANDARD":0,"OPT_MENU":1,"OPT_SUBBUTEO":2}'

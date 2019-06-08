@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b6ee614548b6e64e802cb4c8c69311b, type: 3}
+  m_Name: Morata_Descriptor
+  m_EditorClassIdentifier: 
+  m_FirstName: Alvaro
+  m_LastName: Morata
+  m_DisplayName: Dorata
+  m_Role: 3
+  m_Number: 0
+  m_SpecifyPrefab: 0
+  m_PrefabPath:
+    m_Path: 
+  m_Left:
+  - {fileID: 21300172, guid: 6fbe9fbea75ae524d8850279620e026a, type: 3}
+  - {fileID: 21300176, guid: 6fbe9fbea75ae524d8850279620e026a, type: 3}
+  - {fileID: 21300180, guid: 6fbe9fbea75ae524d8850279620e026a, type: 3}
+  m_Right:
+  - {fileID: 21300170, guid: 6fbe9fbea75ae524d8850279620e026a, type: 3}
+  - {fileID: 21300174, guid: 6fbe9fbea75ae524d8850279620e026a, type: 3}
+  - {fileID: 21300178, guid: 6fbe9fbea75ae524d8850279620e026a, type: 3}
+  m_AnimatorController: {fileID: 9100000, guid: ea0be0511de0f9d4da590ab50f65e503,
+    type: 2}
+  m_UIIconFacingRight: {fileID: 21300170, guid: 6fbe9fbea75ae524d8850279620e026a,
+    type: 3}
+  m_UIIconFacingLeft: {fileID: 21300172, guid: 6fbe9fbea75ae524d8850279620e026a, type: 3}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff49a3d523b64b046b50058be88e9b46, type: 3}
+  m_Name: InfiniteStadium_Descriptor
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_GoalPrefab
+  - m_ScorePanelsPrefabsPaths
+  _serializedStateValues:
+  - '{"m_Path":"Game/Goals/p_Goal_InfiniteStadium"}'
+  - '{"GM_STANDARD":{"m_Path":"UI/Game/InfiniteStadium/p_ScorePanel_InfiniteStadium_Standard"},"GM_SUBBUTEO":{"m_Path":"UI/Game/InfiniteStadium/p_ScorePanel_InfiniteStadium_Subbuteo"}}'
+  m_StadiumName: INFINITE STADIUM
+  m_Description: "\u2022Best suited for 5 vs 5\n\u2022Huge!\n\u2022Feels like real
+    soccer"
+  m_SceneName: InfiniteStadium
+  m_CameraId: CAMERA_INFINITE
+  m_GoalPrefab:
+    m_Path: Game/Goals/p_Goal_InfiniteStadium
+  m_Icon: {fileID: 21300194, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  m_MinTeamSize: 5
+  m_MaxTeamSize: 11
+  m_HiddenOnline: 1
+  m_MinOnlineTeamSize: 4
+  m_MaxOnlineTeamSize: 4
+  m_Tags: []

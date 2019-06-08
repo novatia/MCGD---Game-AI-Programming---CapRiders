@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130058626e9d27142958a006762aa836, type: 3}
+  m_Name: WiFiActionsDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_ActionsMap
+  _serializedStateValues:
+  - '{"Horizontal":"HorizontalAxis","Vertical":"VerticalAxis","Submit":"ButtonA","Cancel":"ButtonB","Start":"ButtonStart","Action1":"ButtonX","Action2":"ButtonY","MoveHorizontal":"HorizontalAxis","MoveVertical":"VerticalAxis","Pass":"ButtonA","Shot":"ButtonB","Pause":"ButtonStart","Taunt":"ButtonY","Attract":"ButtonX"}'

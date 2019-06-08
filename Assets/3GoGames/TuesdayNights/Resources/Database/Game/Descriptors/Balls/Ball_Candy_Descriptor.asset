@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c9b35208fccaa4fbcf732238945230, type: 3}
+  m_Name: Ball_Candy_Descriptor
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys: []
+  _serializedStateValues: []
+  m_BallName: CANDY
+  m_Texture: {fileID: 2800000, guid: 1b2d6321a4c54504db37bf9c4fda7fbb, type: 3}
+  m_TrailMaterial: {fileID: 2100000, guid: 20768da6559aadb45ae701e659610263, type: 2}
+  m_ParticleEffect: {fileID: 0}
+  m_Icon: {fileID: 21300152, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}

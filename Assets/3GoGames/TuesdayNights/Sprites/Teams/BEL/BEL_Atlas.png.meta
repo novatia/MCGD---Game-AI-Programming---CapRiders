@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: 27d882183651da24d87abd668f2f2acf
+timeCreated: 1465892589
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BEL_Hazard_01
+    21300002: BEL_Hazard_01_Flip
+    21300004: BEL_Hazard_02
+    21300006: BEL_Hazard_02_Flip
+    21300008: BEL_Hazard_03
+    21300010: BEL_Hazard_03_Flip
+    21300012: BaseBelgium
+    21300014: BEL_Alderweireld_01
+    21300016: BEL_Alderweireld_01_Flip
+    21300018: BEL_Alderweireld_02
+    21300020: BEL_Alderweireld_02_Flip
+    21300022: BEL_Alderweireld_03
+    21300024: BEL_Alderweireld_03_Flip
+    21300026: BEL_Curtois_01
+    21300028: BEL_Curtois_01_Flip
+    21300030: BEL_Curtois_02
+    21300032: BEL_Curtois_02_Flip
+    21300034: BEL_Curtois_03
+    21300036: BEL_Curtois_03_Flip
+    21300038: BEL_DeBruyne_01
+    21300040: BEL_DeBruyne_01_Flip
+    21300042: BEL_DeBruyne_02
+    21300044: BEL_DeBruyne_02_Flip
+    21300046: BEL_DeBruyne_03
+    21300048: BEL_DeBruyne_03_Flip
+    21300050: BEL_Fellaini_01
+    21300052: BEL_Fellaini_01_Flip
+    21300054: BEL_Fellaini_02
+    21300056: BEL_Fellaini_02_Flip
+    21300058: BEL_Fellaini_03
+    21300060: BEL_Fellaini_03_Flip
+    21300062: BEL_Kompany_01
+    21300064: BEL_Kompany_01_Flip
+    21300066: BEL_Kompany_02
+    21300068: BEL_Kompany_02_Flip
+    21300070: BEL_Kompany_03
+    21300072: BEL_Kompany_03_Flip
+    21300074: BEL_Lombaerts_01
+    21300076: BEL_Lombaerts_01_Flip
+    21300078: BEL_Lombaerts_02
+    21300080: BEL_Lombaerts_02_Flip
+    21300082: BEL_Lombaerts_03
+    21300084: BEL_Lombaerts_03_Flip
+    21300086: BEL_Lukaku_01
+    21300088: BEL_Lukaku_01_Flip
+    21300090: BEL_Lukaku_02
+    21300092: BEL_Lukaku_02_Flip
+    21300094: BEL_Lukaku_03
+    21300096: BEL_Lukaku_03_Flip
+    21300098: BEL_Nainggolan_01
+    21300100: BEL_Nainggolan_01_Flip
+    21300102: BEL_Nainggolan_02
+    21300104: BEL_Nainggolan_02_Flip
+    21300106: BEL_Nainggolan_03
+    21300108: BEL_Nainggolan_03_Flip
+    21300110: BEL_Vertonghen_01
+    21300112: BEL_Vertonghen_01_Flip
+    21300114: BEL_Vertonghen_02
+    21300116: BEL_Vertonghen_02_Flip
+    21300118: BEL_Vertonghen_03
+    21300120: BEL_Vertonghen_03_Flip
+    21300122: BEL_Witsel_01
+    21300124: BEL_Witsel_01_Flip
+    21300126: BEL_Witsel_02
+    21300128: BEL_Witsel_02_Flip
+    21300130: BEL_Witsel_03
+    21300132: BEL_Witsel_03_Flip
+    21300134: BEL_Denayer_01
+    21300136: BEL_Denayer_01_Flip
+    21300138: BEL_Denayer_02
+    21300140: BEL_Denayer_02_Flip
+    21300142: BEL_Denayer_03
+    21300144: BEL_Denayer_03_Flip
+    21300146: BEL_Vermaelen_01
+    21300148: BEL_Vermaelen_01_Flip
+    21300150: BEL_Vermaelen_02
+    21300152: BEL_Vermaelen_02_Flip
+    21300154: BEL_Vermaelen_03
+    21300156: BEL_Vermaelen_03_Flip
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BEL_Alderweireld_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Alderweireld_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Alderweireld_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Alderweireld_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Alderweireld_03
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 444
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Alderweireld_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 444
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Curtois_01
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Curtois_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Curtois_02
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Curtois_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Curtois_03
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 444
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Curtois_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 444
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_DeBruyne_01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_DeBruyne_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 367
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_DeBruyne_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 366
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_DeBruyne_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 366
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_DeBruyne_03
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 371
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_DeBruyne_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 371
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Denayer_01
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 368
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Denayer_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 368
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Denayer_02
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 369
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Denayer_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 369
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Denayer_03
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 373
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Denayer_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 373
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Fellaini_01
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 364
+        width: 34
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Fellaini_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 364
+        width: 34
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Fellaini_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 34
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Fellaini_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 287
+        width: 34
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Fellaini_03
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 291
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Fellaini_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 291
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Hazard_01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 292
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Hazard_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 292
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Hazard_02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Hazard_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Hazard_03
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 295
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Hazard_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 295
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Kompany_01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Kompany_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Kompany_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 291
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Kompany_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Kompany_03
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 219
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Kompany_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 219
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Lombaerts_01
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 215
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Lombaerts_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 215
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Lombaerts_02
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 213
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Lombaerts_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 213
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Lombaerts_03
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 217
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Lombaerts_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 217
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Lukaku_01
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 215
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Lukaku_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 215
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Lukaku_02
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 214
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Lukaku_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 214
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Lukaku_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Lukaku_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 144
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Nainggolan_01
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 138
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Nainggolan_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 138
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Nainggolan_02
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 137
+        width: 34
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Nainggolan_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 137
+        width: 34
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Nainggolan_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 141
+        width: 40
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Nainggolan_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 141
+        width: 40
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Vermaelen_01
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 141
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Vermaelen_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 141
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Vermaelen_02
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 141
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Vermaelen_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 141
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Vermaelen_03
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 145
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Vermaelen_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Vertonghen_01
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 65
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Vertonghen_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 65
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Vertonghen_02
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 64
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Vertonghen_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 64
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Vertonghen_03
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 68
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Vertonghen_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 68
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Witsel_01
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 61
+        width: 34
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Witsel_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 61
+        width: 34
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Witsel_02
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 60
+        width: 34
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Witsel_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 60
+        width: 34
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Witsel_03
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 64
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Witsel_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 64
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

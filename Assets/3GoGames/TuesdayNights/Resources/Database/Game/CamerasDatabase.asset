@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 648dba301d3551843953f29c953f5aea, type: 3}
+  m_Name: CamerasDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences:
+  - {fileID: 174816, guid: 29ca473b888433c409b64e5928152cd0, type: 2}
+  - {fileID: 149524, guid: 042fc7a8fd25fab4ab6c102a9f96aa49, type: 2}
+  - {fileID: 147808, guid: 183aa4097950f374cbf1aebbeb71b333, type: 2}
+  - {fileID: 174816, guid: 84a31b7c6e0467d40ae2aed94f0d4d45, type: 2}
+  - {fileID: 174816, guid: 84a31b7c6e0467d40ae2aed94f0d4d45, type: 2}
+  - {fileID: 174816, guid: 84a31b7c6e0467d40ae2aed94f0d4d45, type: 2}
+  - {fileID: 174816, guid: 84a31b7c6e0467d40ae2aed94f0d4d45, type: 2}
+  - {fileID: 174816, guid: 7314e5636bdec4b41a12e64025709f1a, type: 2}
+  - {fileID: 149524, guid: addbdebc67886c84fbc8295ced9b94b2, type: 2}
+  - {fileID: 147808, guid: 04ff21a146dbc05469581a774c797e2b, type: 2}
+  - {fileID: 174816, guid: fbdc527045093c74eb79bb8287b557c7, type: 2}
+  - {fileID: 174816, guid: c9a6f42b56e34b6419b0c9059075835e, type: 2}
+  - {fileID: 174816, guid: a4ce1b2bf6ba14b49a7587d13af09153, type: 2}
+  - {fileID: 174816, guid: db1771664c3b5f241a1aa0ef1f8373e5, type: 2}
+  _serializedStateKeys:
+  - m_CamerasSets
+  _serializedStateValues:
+  - '{"CAMERAS_MENU":{"m_Cameras":{"CAMERA_COMPETITIVE":0,"CAMERA_CIRCLE":1,"CAMERA_INFINITE":2,"CAMERA_CLAY":3,"CAMERA_FLIPPER":4,"CAMERA_KONIG":5,"CAMERA_POOL":6}},"CAMERAS_GAME":{"m_Cameras":{"CAMERA_COMPETITIVE":7,"CAMERA_CIRCLE":8,"CAMERA_INFINITE":9,"CAMERA_CLAY":10,"CAMERA_FLIPPER":11,"CAMERA_KONIG":12,"CAMERA_POOL":13}}}'

@@ -1,0 +1,32 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:bc2227deab67410c3ab731de063f8c45:8a4ecbeda1fd140d9f0d52672c0aec10:c93a1811f3a260187d62dfd73b28f5ad$
+#
+:format=40000
+:texture=Stadium_FlipperArena_Atlas.png
+:size=2048x4096
+
+BouncingPlatform1;1923;3524;62;63;0.5;0.5
+BouncingPlatform2;1923;3459;62;63;0.5;0.5
+Flipper_AD_10;1;2868;1510;145;0.5;0.5
+Flipper_AD_11;1;2721;1510;145;0.5;0.5
+Flipper_AD_12;1;2574;1510;145;0.5;0.5
+Flipper_AD_13;1;2427;1510;145;0.5;0.5
+Flipper_AD_14;1;2280;1510;145;0.5;0.5
+Flipper_AD_15;1;2133;1510;145;0.5;0.5
+Flipper_AD_1_key;1;1986;1510;145;0.5;0.5
+Flipper_AD_2;1;1839;1510;145;0.5;0.5
+Flipper_AD_3;1;1692;1510;145;0.5;0.5
+Flipper_AD_4;1;1545;1510;145;0.5;0.5
+Flipper_AD_5;1;1398;1510;145;0.5;0.5
+Flipper_AD_6;1;1251;1510;145;0.5;0.5
+Flipper_AD_7;1;1104;1510;145;0.5;0.5
+Flipper_AD_8_key;1;957;1510;145;0.5;0.5
+Flipper_AD_9;1;810;1510;145;0.5;0.5
+Porta;1923;3843;104;252;0.5;0.5
+PortaUnder;1923;3589;104;252;0.5;0.5
+Stadium_Flipper_Arena_Base;1;3015;1920;1080;0.5;0.5

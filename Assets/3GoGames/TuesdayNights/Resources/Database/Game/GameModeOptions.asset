@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c25c024aa95de3b489d2d485e9842889, type: 3}
+  m_Name: GameModeOptions
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys: []
+  _serializedStateValues: []
+  m_MatchDurationOption: {fileID: 11400000, guid: be3ca37e95e08ec49a4e1962692eeaaf,
+    type: 2}
+  m_RefereeOption: {fileID: 11400000, guid: 6bcf00963db18f24bb098552ca4d72b7, type: 2}
+  m_GoldenGoalOption: {fileID: 11400000, guid: 48dc320e1ed87d74e87016d296b7960d, type: 2}

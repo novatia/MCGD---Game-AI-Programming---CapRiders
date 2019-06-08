@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: cbe0aa1ed93793a4ea3e2bfb4b2ffcef
+timeCreated: 1465892452
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BaseFrance
+    21300002: FRA_Pogba_01
+    21300004: FRA_Pogba_01_Flip
+    21300006: FRA_Pogba_02
+    21300008: FRA_Pogba_02_Flip
+    21300010: FRA_Pogba_03
+    21300012: FRA_Pogba_03_Flip
+    21300014: FRA_Diarra_01
+    21300016: FRA_Diarra_01_Flip
+    21300018: FRA_Diarra_02
+    21300020: FRA_Diarra_02_Flip
+    21300022: FRA_Diarra_03
+    21300024: FRA_Diarra_03_Flip
+    21300026: FRA_Digne_01
+    21300028: FRA_Digne_01_Flip
+    21300030: FRA_Digne_02
+    21300032: FRA_Digne_02_Flip
+    21300034: FRA_Digne_03
+    21300036: FRA_Digne_03_Flip
+    21300038: FRA_Evra_01
+    21300040: FRA_Evra_01_Flip
+    21300042: FRA_Evra_02
+    21300044: FRA_Evra_02_Flip
+    21300046: FRA_Evra_03
+    21300048: FRA_Evra_03_Flip
+    21300050: FRA_Giroud_01
+    21300052: FRA_Giroud_01_Flip
+    21300054: FRA_Giroud_02
+    21300056: FRA_Giroud_02_Flip
+    21300058: FRA_Giroud_03
+    21300060: FRA_Giroud_03_Flip
+    21300062: FRA_Griezmann_01
+    21300064: FRA_Griezmann_01_Flip
+    21300066: FRA_Griezmann_02
+    21300068: FRA_Griezmann_02_Flip
+    21300070: FRA_Griezmann_03
+    21300072: FRA_Griezmann_03_Flip
+    21300074: FRA_Koscielny_01
+    21300076: FRA_Koscielny_01_Flip
+    21300078: FRA_Koscielny_02
+    21300080: FRA_Koscielny_02_Flip
+    21300082: FRA_Koscielny_03
+    21300084: FRA_Koscielny_03_Flip
+    21300086: FRA_Lloris_01
+    21300088: FRA_Lloris_01_Flip
+    21300090: FRA_Lloris_02
+    21300092: FRA_Lloris_02_Flip
+    21300094: FRA_Lloris_03
+    21300096: FRA_Lloris_03_Flip
+    21300098: FRA_Martial_01
+    21300100: FRA_Martial_01_Flip
+    21300102: FRA_Martial_02
+    21300104: FRA_Martial_02_Flip
+    21300106: FRA_Martial_03
+    21300108: FRA_Martial_03_Flip
+    21300110: FRA_Matuidi_01
+    21300112: FRA_Matuidi_01_Flip
+    21300114: FRA_Matuidi_02
+    21300116: FRA_Matuidi_02_Flip
+    21300118: FRA_Matuidi_03
+    21300120: FRA_Matuidi_03_Flip
+    21300122: FRA_Varane_01
+    21300124: FRA_Varane_01_Flip
+    21300126: FRA_Varane_02
+    21300128: FRA_Varane_02_Flip
+    21300130: FRA_Varane_03
+    21300132: FRA_Varane_03_Flip
+    21300134: FRA_Kante_01
+    21300136: FRA_Kante_01_Flip
+    21300138: FRA_Kante_02
+    21300140: FRA_Kante_02_Flip
+    21300142: FRA_Kante_03
+    21300144: FRA_Kante_03_Flip
+    21300146: FRA_Payet_01
+    21300148: FRA_Payet_01_Flip
+    21300150: FRA_Payet_02
+    21300152: FRA_Payet_02_Flip
+    21300154: FRA_Payet_03
+    21300156: FRA_Payet_03_Flip
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FRA_Diarra_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Diarra_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Diarra_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Diarra_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Diarra_03
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Diarra_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 445
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Digne_01
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Digne_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 440
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Digne_02
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Digne_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 439
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Digne_03
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 443
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Digne_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 443
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Evra_01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 441
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Evra_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Evra_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Evra_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Evra_03
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 370
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Evra_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 370
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Giroud_01
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Giroud_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 367
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Giroud_02
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Giroud_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Giroud_03
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 370
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Giroud_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 370
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Griezmann_01
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Griezmann_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 366
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Griezmann_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 292
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Griezmann_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 292
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Griezmann_03
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 296
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Griezmann_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 296
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Kante_01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 294
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Kante_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 294
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Kante_02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 294
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Kante_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 294
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Kante_03
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 299
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Kante_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 299
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Koscielny_01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Koscielny_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 293
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Koscielny_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 292
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Koscielny_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Koscielny_03
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 222
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Koscielny_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 222
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Lloris_01
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 218
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Lloris_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 218
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Lloris_02
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 217
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Lloris_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 217
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Lloris_03
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 221
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Lloris_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 221
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Martial_01
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 219
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Martial_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 219
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Martial_02
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 218
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Martial_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 218
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Martial_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 147
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Martial_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 147
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Matuidi_01
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 145
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Matuidi_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 145
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Matuidi_02
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Matuidi_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 144
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Matuidi_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 149
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Matuidi_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 149
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Payet_01
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 144
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Payet_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 144
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Payet_02
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 144
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Payet_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 144
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Payet_03
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 149
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Payet_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Pogba_01
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 69
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Pogba_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 69
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Pogba_02
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 68
+        width: 34
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Pogba_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 68
+        width: 34
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Pogba_03
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 72
+        width: 40
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Pogba_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 72
+        width: 40
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Varane_01
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 72
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Varane_01_Flip
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 72
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Varane_02
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 71
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Varane_02_Flip
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 71
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Varane_03
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 75
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Varane_03_Flip
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 75
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e82bae21061222042a091ab9b291b423, type: 3}
+  m_Name: BallsDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences:
+  - {fileID: 11400000, guid: 302fbba832bd0a0499c7a664dfb9c7d6, type: 2}
+  - {fileID: 11400000, guid: f72b93358a209c3469480095bf607148, type: 2}
+  - {fileID: 11400000, guid: 875d37a8e4779a14a8754f95063a10b1, type: 2}
+  - {fileID: 11400000, guid: d4753fba6032a514a83339f2f77af0ac, type: 2}
+  - {fileID: 11400000, guid: 46d42905ef4062c46808bb0f3e395470, type: 2}
+  - {fileID: 11400000, guid: 0674d4c03b2bee445a568eceda132d11, type: 2}
+  - {fileID: 11400000, guid: 5b582008523ee9a43839ecd3901698cd, type: 2}
+  - {fileID: 11400000, guid: 142100ff01643994ab510221760b4bb0, type: 2}
+  - {fileID: 11400000, guid: d098f2b406afe584b899a62c4a4a06ac, type: 2}
+  - {fileID: 11400000, guid: 18f787c8f0b40664c92b517a7db3713f, type: 2}
+  - {fileID: 11400000, guid: 7df0bd613f7f52444ac064dfd3386f56, type: 2}
+  - {fileID: 11400000, guid: ecd147455ef08604985871cdb57cccb4, type: 2}
+  - {fileID: 11400000, guid: e2654954d418a4d4592efb1c83a8682f, type: 2}
+  _serializedStateKeys:
+  - m_BallPrefabPath
+  - m_Balls
+  _serializedStateValues:
+  - '{"m_Path":"Game/Ball/p_Ball"}'
+  - '[{"m_Id":"royale","m_Descriptor":0},{"m_Id":"gireiro","m_Descriptor":1},{"m_Id":"standard","m_Descriptor":2},{"m_Id":"luxury","m_Descriptor":3},{"m_Id":"8ball","m_Descriptor":4},{"m_Id":"armadillo","m_Descriptor":5},{"m_Id":"beach","m_Descriptor":6},{"m_Id":"blossom","m_Descriptor":7},{"m_Id":"candy","m_Descriptor":8},{"m_Id":"brazuca","m_Descriptor":9},{"m_Id":"tennis","m_Descriptor":10},{"m_Id":"basketball","m_Descriptor":11},{"m_Id":"pinball","m_Descriptor":12}]'
+  m_BallPrefabPath:
+    m_Path: Game/Ball/p_Ball
+  m_Balls:
+  - m_Id: royale
+    m_Descriptor: {fileID: 11400000, guid: 302fbba832bd0a0499c7a664dfb9c7d6, type: 2}
+  - m_Id: gireiro
+    m_Descriptor: {fileID: 11400000, guid: f72b93358a209c3469480095bf607148, type: 2}
+  - m_Id: standard
+    m_Descriptor: {fileID: 11400000, guid: 875d37a8e4779a14a8754f95063a10b1, type: 2}
+  - m_Id: luxury
+    m_Descriptor: {fileID: 11400000, guid: d4753fba6032a514a83339f2f77af0ac, type: 2}
+  - m_Id: 8ball
+    m_Descriptor: {fileID: 11400000, guid: 46d42905ef4062c46808bb0f3e395470, type: 2}
+  - m_Id: armadillo
+    m_Descriptor: {fileID: 11400000, guid: 0674d4c03b2bee445a568eceda132d11, type: 2}
+  - m_Id: beach
+    m_Descriptor: {fileID: 11400000, guid: 5b582008523ee9a43839ecd3901698cd, type: 2}
+  - m_Id: blossom
+    m_Descriptor: {fileID: 11400000, guid: 142100ff01643994ab510221760b4bb0, type: 2}
+  - m_Id: candy
+    m_Descriptor: {fileID: 11400000, guid: d098f2b406afe584b899a62c4a4a06ac, type: 2}
+  - m_Id: brazuca
+    m_Descriptor: {fileID: 11400000, guid: 18f787c8f0b40664c92b517a7db3713f, type: 2}
+  - m_Id: tennis
+    m_Descriptor: {fileID: 11400000, guid: 7df0bd613f7f52444ac064dfd3386f56, type: 2}
+  - m_Id: basketball
+    m_Descriptor: {fileID: 11400000, guid: ecd147455ef08604985871cdb57cccb4, type: 2}
+  - m_Id: pinball
+    m_Descriptor: {fileID: 11400000, guid: e2654954d418a4d4592efb1c83a8682f, type: 2}

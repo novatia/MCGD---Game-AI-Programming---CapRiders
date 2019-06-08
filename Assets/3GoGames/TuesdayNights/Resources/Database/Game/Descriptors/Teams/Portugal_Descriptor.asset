@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b6b8da7665fe948a7a5ac0c3da1beb, type: 3}
+  m_Name: Portugal_Descriptor
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_FirstColor
+  - m_SecondColor
+  - m_SupportersFirstColor
+  - m_SupportersSecondColor
+  - m_DefaultLineUps
+  _serializedStateValues:
+  - '{"r":0.0,"g":0.7647059,"b":0.1607843,"a":1.0}'
+  - '{"r":1.0,"g":0.0,"b":0.0,"a":1.0}'
+  - '{"r":0.0,"g":0.7647059,"b":0.1607843,"a":1.0}'
+  - '{"r":1.0,"g":0.0,"b":0.0,"a":1.0}'
+  - '[["CRISTIANORONALDO"],["RUIPATRICIO","CRISTIANORONALDO"],["RUIPATRICIO","NANI","CRISTIANORONALDO"],["RUIPATRICIO","PEPE","NANI","CRISTIANORONALDO"],["RUIPATRICIO","PEPE","QUARESMA","NANI","CRISTIANORONALDO"],["RUIPATRICIO","PEPE","RCARVALHO","QUARESMA","NANI","CRISTIANORONALDO"],["RUIPATRICIO","PEPE","RCARVALHO","WCARVALHO","QUARESMA","NANI","CRISTIANORONALDO"],["RUIPATRICIO","PEPE","RCARVALHO","WCARVALHO","QUARESMA","MOUTINHO","NANI","CRISTIANORONALDO"],["RUIPATRICIO","PEPE","RCARVALHO","WCARVALHO","MOUTINHO","QUARESMA","JOAOMARIO","NANI","CRISTIANORONALDO"],["RUIPATRICIO","PEPE","RCARVALHO","WCARVALHO","JOAOMARIO","QUARESMA","MOUTINHO","BRUNOALVES","NANI","CRISTIANORONALDO"],["RUIPATRICIO","PEPE","RCARVALHO","WCARVALHO","JOAOMARIO","CEDRICSOARES","QUARESMA","MOUTINHO","BRUNOALVES","NANI","CRISTIANORONALDO"]]'
+  m_TeamName: PORTUGAL
+  m_Flag: {fileID: 21300032, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  m_Icon: {fileID: 21300016, guid: c2610db8988299e4599b648a0bea8d79, type: 3}
+  m_BaseSprite: {fileID: 21300038, guid: 32dbe4864ca3a5e4b862a85c3b215a1d, type: 3}
+  m_FirstColor: {r: 0, g: 0.7647059, b: 0.1607843, a: 1}
+  m_SecondColor: {r: 1, g: 0, b: 0, a: 1}
+  m_SupportersFirstColor: {r: 0, g: 0.7647059, b: 0.1607843, a: 1}
+  m_SupportersSecondColor: {r: 1, g: 0, b: 0, a: 1}
+  m_TeamStats: {fileID: 11400000, guid: 14fb27f6c2a8cad45b298c57dd78eb3d, type: 2}
+  m_CharactersKeys:
+  - RCARVALHO
+  - CEDRICSOARES
+  - WCARVALHO
+  - CRISTIANORONALDO
+  - BRUNOALVES
+  - JOAOMARIO
+  - MOUTINHO
+  - NANI
+  - PEPE
+  - RUIPATRICIO
+  - QUARESMA

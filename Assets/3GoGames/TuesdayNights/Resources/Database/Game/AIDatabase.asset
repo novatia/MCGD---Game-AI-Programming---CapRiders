@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32e2260ce1ddd74b8e8fb76593f8d90, type: 3}
+  m_Name: AIDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_AILevels
+  _serializedStateValues:
+  - '[{"m_Label":"EASY","m_InputDelay":6},{"m_Label":"NORMAL","m_InputDelay":2},{"m_Label":"HARD","m_InputDelay":0}]'
+  m_AILevels:
+  - m_Label: EASY
+    m_InputDelay: 6
+  - m_Label: NORMAL
+    m_InputDelay: 2
+  - m_Label: HARD
+    m_InputDelay: 0

@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 9ad944d2c685bb54a8303f35b861c949
+timeCreated: 1462383092
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BouncingPlatform1
+    21300002: BouncingPlatform2
+    21300004: Porta
+    21300006: Stadium_Flipper_Arena_Base
+    21300008: Flipper_AD_10
+    21300010: Flipper_AD_11
+    21300012: Flipper_AD_12
+    21300014: Flipper_AD_13
+    21300016: Flipper_AD_14
+    21300018: Flipper_AD_15
+    21300020: Flipper_AD_16
+    21300022: Flipper_AD_1_key
+    21300024: Flipper_AD_2
+    21300026: Flipper_AD_3
+    21300028: Flipper_AD_4
+    21300030: Flipper_AD_5
+    21300032: Flipper_AD_6
+    21300034: Flipper_AD_7
+    21300036: Flipper_AD_8_key
+    21300038: Flipper_AD_9
+    21300040: PortaUnder
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BouncingPlatform1
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 3524
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BouncingPlatform2
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 3459
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2868
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2721
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2574
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2427
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2280
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2133
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_1_key
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1986
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1839
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1692
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1545
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1398
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1251
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1104
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_8_key
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 957
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flipper_AD_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 810
+        width: 1510
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Porta
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 3843
+        width: 104
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PortaUnder
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 3589
+        width: 104
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Stadium_Flipper_Arena_Base
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3015
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MainCanvas
+  - Database
+  - Loading
+  - Focus
+  - Ball
+  - Character
+  - Field
+  - Watermark
+  - GameCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Characters
+  - Ball
+  - Goals
+  - Field
+  - PlayerWalls
+  - Slowmo
+  - 
+  - 
+  - 
+  - Referee
+  - 
+  - Charging
+  - Holes
+  - Effector_0
+  - Effector_1
+  - Effector_2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

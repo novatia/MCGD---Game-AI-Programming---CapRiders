@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000013003215112}
+  m_IsPrefabParent: 1
+--- !u!1 &1000013003215112
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012003698172}
+  - 114: {fileID: 114000013480142972}
+  m_Layer: 0
+  m_Name: p_AssetTuner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000012003698172
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013003215112}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &114000013480142972
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013003215112}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73334c200243c24429ba572a2fc2d2a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_OnlineConfig: {fileID: 11400000, guid: 8166cbf591f69444ebf6f52d88571002, type: 2}
+  m_OfflineConfig: {fileID: 11400000, guid: 293a5d5f940d1ee499863a26cc0a05da, type: 2}
+  m_CharacterStandardPrefab: {fileID: 130766, guid: 4f81eede89244374094071c90daa4aa8,
+    type: 2}
+  m_AIDatabase: {fileID: 11400000, guid: 439f7d897a7da854a90a92cd9a12b775, type: 2}
+  m_StandardMatchController: {fileID: 114000010168898540, guid: 2cdf6e4f592af8947a49abb428e4c888,
+    type: 2}
+  m_SubbuteoMatchController: {fileID: 114000012423329778, guid: d8fdd6ff0117d4e4bab77aefe6591ab4,
+    type: 2}
+  m_KickComponent: {fileID: 0}
+  m_CharacterControllerComponent: {fileID: 0}
+  m_CanChangeValue: 1
+  m_OnGui: 0

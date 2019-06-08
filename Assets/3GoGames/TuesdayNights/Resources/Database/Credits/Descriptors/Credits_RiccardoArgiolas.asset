@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b7803548801cd6418b779457fc23150, type: 3}
+  m_Name: Credits_RiccardoArgiolas
+  m_EditorClassIdentifier: 
+  m_FirstName: Riccardo
+  m_LastName: Argiolas
+  m_Nickname: CAPTAIN TUNA
+  m_Role: Game Design / Music / SFX
+  m_AnimatorController: {fileID: 9100000, guid: d8c815dd8a9ec0c4bb7b1a73819e8dca,
+    type: 2}
+  m_BaseSprite: {fileID: 21300000, guid: 32dbe4864ca3a5e4b862a85c3b215a1d, type: 3}
+  m_CharacterSprite: {fileID: 21300006, guid: 09324c73117917e4c8ce3ba934bbdaec, type: 3}

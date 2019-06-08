@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f1d82718c0663d4e84388d5ab7e613b, type: 3}
+  m_Name: IconsDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences:
+  - {fileID: 21300176, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  - {fileID: 21300170, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  - {fileID: 21300044, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  - {fileID: 21300046, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  - {fileID: 21300178, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  - {fileID: 21300010, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  - {fileID: 21300014, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  - {fileID: 21300044, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  - {fileID: 21300046, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  - {fileID: 21300002, guid: eaa9f6487dc160d408dcfa886e656124, type: 3}
+  _serializedStateKeys:
+  - m_Groups
+  _serializedStateValues:
+  - '{"GROUP_KEYBOARD":{"m_Icons":{"icon_submit":0,"icon_cancel":1,"icon_action1":2,"icon_action2":3,"icon_start":4}},"GROUP_PAD":{"m_Icons":{"icon_submit":5,"icon_cancel":6,"icon_action1":7,"icon_action2":8,"icon_start":9}}}'

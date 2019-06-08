@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cadc86facb075a6499afdf3f552a62bd, type: 3}
+  m_Name: SubbuteoMatch_Descriptor
+  m_EditorClassIdentifier: 
+  _objectReferences: []
+  _serializedStateKeys:
+  - m_CharacterPrefabPath
+  - m_TeamsRange
+  - m_PlayersPerTeamRange
+  - m_OnlinePlayersPerTeamRange
+  _serializedStateValues:
+  - '{"m_Path":"Characters/Common/p_Character_Subbuteo"}'
+  - '{"m_Min":2,"m_Max":2}'
+  - '{"m_Min":1,"m_Max":11}'
+  - '{"m_Min":1,"m_Max":8}'
+  m_GameModeName: Chargers
+  m_Description: 
+  m_CharacterPrefabPath:
+    m_Path: Characters/Common/p_Character_Subbuteo
+  m_MatchController: {fileID: 114000012423329778, guid: d8fdd6ff0117d4e4bab77aefe6591ab4,
+    type: 2}
+  m_TeamsRange:
+    m_Min: 2
+    m_Max: 2
+  m_PlayersPerTeamRange:
+    m_Min: 1
+    m_Max: 11
+  m_OnlinePlayersPerTeamRange:
+    m_Min: 1
+    m_Max: 8
+  m_OptionsConfigId: OPT_SUBBUTEO
+  m_CamerasSetId: CAMERAS_GAME
+  m_FieldsExcludersTags: []
+  m_Hidden: 0

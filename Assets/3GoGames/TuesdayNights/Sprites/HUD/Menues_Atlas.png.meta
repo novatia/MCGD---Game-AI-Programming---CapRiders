@@ -1,0 +1,1210 @@
+fileFormatVersion: 2
+guid: eaa9f6487dc160d408dcfa886e656124
+timeCreated: 1457627983
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Button
+    21300002: Button2
+    21300004: GoalAnim_01
+    21300006: GoalAnim_02
+    21300008: GoalAnim_03
+    21300010: AButton
+    21300012: Arrow
+    21300014: BButton
+    21300016: BEL_Flag
+    21300018: Black_Texture
+    21300020: CheckBox
+    21300022: ENG_Flag
+    21300024: FRA_Flag
+    21300026: GER_Flag
+    21300028: ITA_Flag
+    21300030: Keyboard
+    21300032: POR_Flag
+    21300034: Pad
+    21300036: Phone
+    21300038: SPA_Flag
+    21300040: SWE_Flag
+    21300042: White_Texture
+    21300044: XButton
+    21300046: YButton
+    21300048: Balls-Ball_Gireiro_Thumbnail
+    21300050: Balls-Ball_Luxury_Thumbnail
+    21300052: Balls-Ball_Royale_Thumbnail
+    21300054: Stadiums-Stadium_KonigPark_Thumbnail
+    21300056: 1
+    21300058: 2
+    21300060: 3
+    21300062: Keyboard-K_AButton
+    21300064: Keyboard-K_BButton
+    21300066: Keyboard-K_DownArrow
+    21300068: Keyboard-K_ESCButton
+    21300070: Keyboard-K_LeftArrow
+    21300072: Keyboard-K_RightArrow
+    21300074: Keyboard-K_UpArrow
+    21300076: Bot
+    21300078: CharacterSelectionField
+    21300080: HighlightBasetta
+    21300082: PlayerColor
+    21300084: Keyboard-K_SpaceButton
+    21300086: PadButton
+    21300088: PadButton_Base
+    21300090: AButton_Pressed
+    21300092: Stadiums-Stadium_CircleGarden_Thumbnail
+    21300094: Balls-Ball_Blossom_Thumbnail
+    21300096: Balls-Ball_Brocade_Thumbnail
+    21300098: Balls-Ball_8Ball_Thumbnail
+    21300100: Stadiums-Stadium_InfiniteArena_Thumbnail
+    21300102: Stadiums-Stadium_ClayStade_Thumbnail
+    21300104: Arrow_White
+    21300106: GO
+    21300108: Stadiums-Stadium_FlipperArena_Thumbnail
+    21300110: Stadiums-Stadium_LOCKED_Thumbnail
+    21300112: Balls-Ball_Beach_Thumbnail
+    21300114: Balls-Ball_Euro_Thumbnail
+    21300116: Balls-Ball_Orange_Thumbnail
+    21300118: Stadiums-Stadium_PoolPalace_Thumbnail
+    21300120: Balls-Ball_Standard_Thumbnail
+    21300122: Stadiums-Stadium_Competitive_Thumbnail
+    21300124: BButton_Pressed
+    21300126: XButton_Pressed
+    21300128: YButton_Pressed
+    21300130: Keyboard-K_DButton
+    21300132: Keyboard-K_SButton
+    21300134: CRO_Flag
+    21300136: IRL_Flag
+    21300138: POL_Flag
+    21300140: RUS_Flag
+    21300142: Pad - Copy
+    21300144: Ball_8Ball_Thumbnail
+    21300146: Ball_Armadillo_Thumbnail
+    21300148: Ball_Beach_Thumbnail
+    21300150: Ball_Blossom_Thumbnail
+    21300152: Ball_Candy_Thumbnail
+    21300154: Ball_Gireiro_Thumbnail
+    21300156: Ball_Luxury_Thumbnail
+    21300158: Ball_Royale_Thumbnail
+    21300160: Ball_Standard_Thumbnail
+    21300162: K_AButton
+    21300164: K_BButton
+    21300166: K_DButton
+    21300168: K_DownArrow
+    21300170: K_ESCButton
+    21300172: K_LeftArrow
+    21300174: K_RightArrow
+    21300176: K_SButton
+    21300178: K_SpaceButton
+    21300180: K_UpArrow
+    21300182: Player_Captain
+    21300184: Player_Ready
+    21300186: Stadium_CircleGarden_Thumbnail
+    21300188: Stadium_ClayStade_Thumbnail
+    21300190: Stadium_Competitive_Thumbnail
+    21300192: Stadium_FlipperArena_Thumbnail
+    21300194: Stadium_InfiniteArena_Thumbnail
+    21300196: Stadium_KonigPark_Thumbnail
+    21300198: Stadium_LOCKED_Thumbnail
+    21300200: Stadium_PoolPalace_Thumbnail
+    21300202: Ball_Brazuca_Thumbnail
+    21300204: Ball_Europass_Thumbnail
+    21300206: Ball_Jabulani_Thumbnail
+    21300208: Ball_Tango_Thumbnail
+    21300210: Ball_Teamgeist_Thumbnail
+    21300212: Ping_High
+    21300214: Ping_Low
+    21300216: Ping_Medium
+    21300218: Ball_Basketball_Thumbnail
+    21300220: Ball_Tennis_Thumbnail
+    21300222: Ball_Pinball_Thumbnail
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1667
+        width: 91
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 358
+        width: 228
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 228
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AButton
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1895
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AButton_Pressed
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1141
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1474
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Arrow_White
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1447
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_8Ball_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 444
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Armadillo_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 238
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Basketball_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 32
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Beach_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 444
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Blossom_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 788
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Brazuca_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 238
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Candy_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 32
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Europass_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 462
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Gireiro_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 788
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Jabulani_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 256
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Luxury_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 50
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Pinball_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 462
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Royale_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 788
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Standard_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 256
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Tango_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 50
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Teamgeist_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 812
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ball_Tennis_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 812
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BButton
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1831
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BButton_Pressed
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1093
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BEL_Flag
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 668
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Black_Texture
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2042
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bot
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 542
+        width: 167
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1429
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button2
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1149
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CharacterSelectionField
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1358
+        width: 668
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CheckBox
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1433
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CRO_Flag
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 668
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ENG_Flag
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 668
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FRA_Flag
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 898
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GER_Flag
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 874
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GO
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1959
+        width: 145
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HighlightBasetta
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1502
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IRL_Flag
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 778
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ITA_Flag
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 754
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: K_AButton
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1645
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: K_BButton
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1443
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: K_DButton
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1385
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: K_DownArrow
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1371
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: K_ESCButton
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1327
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: K_LeftArrow
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1313
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: K_RightArrow
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1269
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: K_SButton
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1255
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: K_SpaceButton
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1211
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: K_UpArrow
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1197
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Keyboard
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 585
+        width: 183
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Pad
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 478
+        width: 168
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PadButton
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1579
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PadButton_Base
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1581
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Phone
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 551
+        width: 183
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ping_High
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1042
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ping_Low
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 999
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ping_Medium
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 994
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_Captain
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1096
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_Ready
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1043
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PlayerColor
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1501
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POL_Flag
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 692
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: POR_Flag
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 692
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RUS_Flag
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 658
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SPA_Flag
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 634
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Stadium_CircleGarden_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1706
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Stadium_ClayStade_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1706
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Stadium_Competitive_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1362
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Stadium_FlipperArena_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1362
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Stadium_InfiniteArena_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1018
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Stadium_KonigPark_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1018
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Stadium_LOCKED_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Stadium_PoolPalace_Thumbnail
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 650
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SWE_Flag
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 572
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: White_Texture
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2034
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: XButton
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1767
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: XButton_Pressed
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1085
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: YButton
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1703
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: YButton_Pressed
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1037
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

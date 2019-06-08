@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:59267c4efefed187792eb6ea33e4ce8d:c1a25041e6cde95c2f7ba76722820d19:63a1f95b214e5b516b69083a9ae8b168$
+#
+:format=40000
+:texture=Stadium_CircleArena_Atlas.png
+:size=4096x2048
+
+AD_Garden_1;1;1911;173;136;0.5;0.5
+AD_Garden_10;176;1911;173;136;0.5;0.5
+AD_Garden_11;351;1911;173;136;0.5;0.5
+AD_Garden_12;526;1911;173;136;0.5;0.5
+AD_Garden_13;701;1911;173;136;0.5;0.5
+AD_Garden_14;876;1911;173;136;0.5;0.5
+AD_Garden_15;1051;1911;173;136;0.5;0.5
+AD_Garden_16;1226;1911;173;136;0.5;0.5
+AD_Garden_2;1401;1911;173;136;0.5;0.5
+AD_Garden_3;1576;1911;173;136;0.5;0.5
+AD_Garden_4e9;1751;1911;173;136;0.5;0.5
+AD_Garden_5;1926;1911;173;136;0.5;0.5
+AD_Garden_6;2101;1911;173;136;0.5;0.5
+AD_Garden_7;2276;1911;173;136;0.5;0.5
+AD_Garden_8;2451;1911;173;136;0.5;0.5
+Layer 14;1;395;2690;1514;0.5;0.5
+PinkLights;2693;1818;270;91;0.5;0.5
+PortaMedium;2965;1503;106;406;0.5;0.5
+PortaUnder;3073;1657;104;252;0.5;0.5

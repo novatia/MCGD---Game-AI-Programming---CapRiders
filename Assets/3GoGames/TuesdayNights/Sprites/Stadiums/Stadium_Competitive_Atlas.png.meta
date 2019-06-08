@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 46eccee2b6dcbaa4abb532020a4c0ffa
+timeCreated: 1463655289
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AD_Pro_01
+    21300002: AD_Pro_02
+    21300004: AD_Pro_03
+    21300006: AD_Pro_04
+    21300008: AD_Pro_05
+    21300010: AD_Pro_06
+    21300012: AD_Pro_07
+    21300014: AD_Pro_08
+    21300016: AD_Pro_09
+    21300018: AD_Pro_10
+    21300020: AD_Pro_10_dx
+    21300022: AD_Pro_11
+    21300024: AD_Pro_11_dx
+    21300026: AD_Pro_12
+    21300028: AD_Pro_12_dx
+    21300030: Porta
+    21300032: Stadium_Competitive_Arena
+    21300034: CompetitiveBumpers
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AD_Pro_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_02
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_03
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_04
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_05
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_06
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_07
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_08
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_09
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_10
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_10_dx
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_11
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_11_dx
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_12
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Pro_12_dx
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 4071
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CompetitiveBumpers
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3033
+        width: 2312
+        height: 1036
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Porta
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 3749
+        width: 151
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Stadium_Competitive_Arena
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1679
+        width: 2402
+        height: 1352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 758f4132a7de8fd4abc6950c2d804898
+timeCreated: 1461159153
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AD_Garden_1
+    21300002: AD_Garden_10
+    21300004: AD_Garden_11
+    21300006: AD_Garden_12
+    21300008: AD_Garden_13
+    21300010: AD_Garden_14
+    21300012: AD_Garden_15
+    21300014: AD_Garden_16
+    21300016: AD_Garden_2
+    21300018: AD_Garden_3
+    21300020: AD_Garden_4e9
+    21300022: AD_Garden_5
+    21300024: AD_Garden_6
+    21300026: AD_Garden_7
+    21300028: AD_Garden_8
+    21300030: Layer 14
+    21300032: PinkLights
+    21300034: PortaMedium
+    21300036: PortaUnder
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AD_Garden_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_12
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_13
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_14
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_15
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_16
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_2
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_3
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_4e9
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_5
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_6
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_7
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AD_Garden_8
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1911
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer 14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 395
+        width: 2690
+        height: 1514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PinkLights
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 1818
+        width: 270
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PortaMedium
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 1503
+        width: 106
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PortaUnder
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1657
+        width: 104
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

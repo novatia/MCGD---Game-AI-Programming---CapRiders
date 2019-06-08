@@ -1,0 +1,36 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2cf75fd0df2e1fcd52163ab6d8a3eaea:a5cd91019cead9c297982c996db475af:3b26df82155662f97e8764cc4734f0da$
+#
+:format=40000
+:texture=Stadium_Grass_01_Atlas.png
+:size=4096x4096
+
+Konig_AD_10;1;3950;1510;145;0.5;0.5
+Konig_AD_11_key;1513;3950;1510;145;0.5;0.5
+Konig_AD_12;1;3803;1510;145;0.5;0.5
+Konig_AD_13;1513;3803;1510;145;0.5;0.5
+Konig_AD_14;1;3656;1510;145;0.5;0.5
+Konig_AD_15;1513;3656;1510;145;0.5;0.5
+Konig_AD_16;1;3509;1510;145;0.5;0.5
+Konig_AD_17;1513;3509;1510;145;0.5;0.5
+Konig_AD_18;1;3362;1510;145;0.5;0.5
+Konig_AD_19;1513;3362;1510;145;0.5;0.5
+Konig_AD_1_key;1;3215;1510;145;0.5;0.5
+Konig_AD_2;1513;3215;1510;145;0.5;0.5
+Konig_AD_20;1;3068;1510;145;0.5;0.5
+Konig_AD_3;1513;3068;1510;145;0.5;0.5
+Konig_AD_4;1;2921;1510;145;0.5;0.5
+Konig_AD_5;1513;2921;1510;145;0.5;0.5
+Konig_AD_6;1;2774;1510;145;0.5;0.5
+Konig_AD_7;1513;2774;1510;145;0.5;0.5
+Konig_AD_8;1;2627;1510;145;0.5;0.5
+Konig_AD_9;1513;2627;1510;145;0.5;0.5
+Lights;3025;2681;270;91;0.5;0.5
+Porta;3297;2520;104;252;0.5;0.5
+PortaUnder;3403;2520;104;252;0.5;0.5
+Stadium_KonigPark_Base;1;1436;1922;1082;0.5;0.5

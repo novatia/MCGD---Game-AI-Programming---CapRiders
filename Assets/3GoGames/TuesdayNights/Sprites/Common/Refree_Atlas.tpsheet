@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ead0e1c77791aac806b0775665055a4b:7eca3658259216fdc044d792e699ac4a:8ae3edfb74945c6e208ab8690801318e$
+#
+:format=40000
+:texture=Refree_Atlas.png
+:size=128x128
+
+Refree_Black_1;1;57;34;70;0.5;0.5
+Refree_Black_2;37;56;34;71;0.5;0.5
+Refree_Black_3;73;59;40;68;0.5;0.5

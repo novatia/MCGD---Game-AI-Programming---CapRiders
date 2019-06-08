@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18dcacfdba6f5c04994b1e8cb446c4ec, type: 3}
+  m_Name: GameModesDatabase
+  m_EditorClassIdentifier: 
+  _objectReferences:
+  - {fileID: 11400000, guid: 0c0a6bc0fbb97b247b813b1d22eab956, type: 2}
+  - {fileID: 11400000, guid: f25f507de72395045a8f79e1df965d16, type: 2}
+  - {fileID: 11400000, guid: 4addeffa85a573647b05c76af4cb5010, type: 2}
+  _serializedStateKeys:
+  - m_Modes
+  _serializedStateValues:
+  - '[{"m_Id":"GM_MENU","m_Descriptor":0},{"m_Id":"GM_STANDARD","m_Descriptor":1},{"m_Id":"GM_SUBBUTEO","m_Descriptor":2}]'
+  m_Modes:
+  - m_Id: GM_MENU
+    m_Descriptor: {fileID: 11400000, guid: 0c0a6bc0fbb97b247b813b1d22eab956, type: 2}
+  - m_Id: GM_STANDARD
+    m_Descriptor: {fileID: 11400000, guid: f25f507de72395045a8f79e1df965d16, type: 2}
+  - m_Id: GM_SUBBUTEO
+    m_Descriptor: {fileID: 11400000, guid: 4addeffa85a573647b05c76af4cb5010, type: 2}

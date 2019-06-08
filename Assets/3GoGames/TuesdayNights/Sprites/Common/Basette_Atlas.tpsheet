@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:c4aa9b8f716b8efa2833f13ad7608468:af4edecab2998e4ebbcb59f71db2d880:c9778bc123f089fe11aee91d83c02318$
+#
+:format=40000
+:texture=Basette_Atlas.png
+:size=256x256
+
+BEL;1;201;54;54;0.5;0.5
+BaseRefree;57;192;62;63;0.5;0.5
+CRO;121;201;57;54;0.5;0.5
+ENG;180;201;54;54;0.5;0.5
+ESP;1;136;54;54;0.5;0.5
+FRA;57;136;54;54;0.5;0.5
+GER;113;136;54;54;0.5;0.5
+IRL;169;136;54;54;0.5;0.5
+ITA;1;80;54;54;0.5;0.5
+POL;57;80;54;54;0.5;0.5
+POR;113;80;54;54;0.5;0.5
+RUS;169;80;54;54;0.5;0.5
+SWE;1;24;54;54;0.5;0.5
+WhiteBASE;57;13;64;65;0.5;0.5

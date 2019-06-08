@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b6ee614548b6e64e802cb4c8c69311b, type: 3}
+  m_Name: Szczesny_Descriptor
+  m_EditorClassIdentifier: 
+  m_FirstName: Wojciech
+  m_LastName: Szczesny
+  m_DisplayName: Bzesny
+  m_Role: 0
+  m_Number: 1
+  m_SpecifyPrefab: 0
+  m_PrefabPath:
+    m_Path: 
+  m_Left:
+  - {fileID: 21300122, guid: ffa35ae8803ec44499a271701c946740, type: 3}
+  - {fileID: 21300126, guid: ffa35ae8803ec44499a271701c946740, type: 3}
+  - {fileID: 21300130, guid: ffa35ae8803ec44499a271701c946740, type: 3}
+  m_Right:
+  - {fileID: 21300120, guid: ffa35ae8803ec44499a271701c946740, type: 3}
+  - {fileID: 21300124, guid: ffa35ae8803ec44499a271701c946740, type: 3}
+  - {fileID: 21300128, guid: ffa35ae8803ec44499a271701c946740, type: 3}
+  m_AnimatorController: {fileID: 9100000, guid: cbd690e2d759b084090874d356af03d1,
+    type: 2}
+  m_UIIconFacingRight: {fileID: 21300120, guid: ffa35ae8803ec44499a271701c946740,
+    type: 3}
+  m_UIIconFacingLeft: {fileID: 21300122, guid: ffa35ae8803ec44499a271701c946740, type: 3}

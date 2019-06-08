@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1000010660804956
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4000010315115378}
+  - component: {fileID: 114000012423329778}
+  - component: {fileID: 2420050327935703023}
+  - component: {fileID: 114000010206127418}
+  - component: {fileID: 114000014073974840}
+  m_Layer: 0
+  m_Name: p_GM_SubbuteoMatch
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000010315115378
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010660804956}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000012423329778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010660804956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 994d154ba181cb24eaace6f84d9410bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_OwnerIndex: -1
+  m_SortOrder: 0
+  m_OfflinePlayerInputDelay: 0
+  m_InfiniteTime: 0
+  m_CelebrationDuration: 4
+  m_WaitBetweenResetAndGo: 2
+  m_CreateSupporters: 1
+  m_WaitBetweenFinalWhistleAndResults: 1.5
+  m_WaitAfterResults: 1.5
+  m_InstructionsPanelPrefab: {fileID: 114000011319358032, guid: 8a7deb5c52e13134992a430ecc051777,
+    type: 3}
+  m_CelebrationPanelPrefab: {fileID: 114000014017729734, guid: ee9d45c39d977be47ae21a4d461346e0,
+    type: 3}
+  m_FlatBackgroundPanelPrefab: {fileID: 114000013717362632, guid: 0837d9d2832fb644fadd8eba02daccf1,
+    type: 3}
+  m_SubbuteoMatchResultsPanelPrefab: {fileID: 114000012406417154, guid: 9a3a07f3eed11884c8d4579ef209ea21,
+    type: 3}
+  m_CelebrationShakeTime: 0.5
+  m_CelebrationShakeAmount: 0.15
+  m_KickOffEffect: {fileID: 11443580, guid: 991ce846b8e28304b9a48621d4285fdb, type: 3}
+  m_KickOffSfx:
+    m_AudioClip: {fileID: 8300000, guid: 88669294c77e15c4ea0f90589a68da46, type: 3}
+    m_AudioMixerGroup: {fileID: 24396682, guid: a8f18a2df89af4847b5d1860bfdfc1fd,
+      type: 2}
+    m_Volume: 1
+  m_GoalSfx:
+    m_AudioClip: {fileID: 8300000, guid: f50679e47b585274582d7d001761243d, type: 3}
+    m_AudioMixerGroup: {fileID: 24386580, guid: a8f18a2df89af4847b5d1860bfdfc1fd,
+      type: 2}
+    m_Volume: 1
+  m_GoldenGoalSfx:
+    m_AudioClip: {fileID: 8300000, guid: adae9f2691753b647842877ed5fbe255, type: 3}
+    m_AudioMixerGroup: {fileID: 24395528, guid: a8f18a2df89af4847b5d1860bfdfc1fd,
+      type: 2}
+    m_Volume: 1
+  m_FinalWhistleSfx:
+    m_AudioClip: {fileID: 8300000, guid: 88669294c77e15c4ea0f90589a68da46, type: 3}
+    m_AudioMixerGroup: {fileID: 24396682, guid: a8f18a2df89af4847b5d1860bfdfc1fd,
+      type: 2}
+    m_Volume: 1
+--- !u!114 &2420050327935703023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010660804956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7954948ec86a17b49be97123806d748b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EvenTeamAIFactoryType:
+    _classRef: tnSubbuteoMatchAIFactory, Assembly-CSharp
+  m_OddTeamAIFactoryType:
+    _classRef: tnSubbuteoMatchAIFactory, Assembly-CSharp
+--- !u!114 &114000010206127418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010660804956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd32bb1e8024e5c44b0556c90f1c9dbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_OwnerIndex: -1
+  m_SortOrder: 0
+  m_TimeToReach:
+    m_rawValue: 1073741824
+    _serializedValue: 1073741824
+  m_MinDistance:
+    m_rawValue: 2147483648
+    _serializedValue: 2147483648
+  m_MaxDistance:
+    m_rawValue: 6442450944
+    _serializedValue: 6442450944
+  m_MinReferenceSpeed:
+    m_rawValue: 8589934592
+    _serializedValue: 8589934592
+  m_DistanceThreshold:
+    m_rawValue: 4294967296
+    _serializedValue: 4294967296
+  m_MinTimeScale:
+    m_rawValue: 429496736
+    _serializedValue: 429496736
+  m_UseRaycast: 0
+  m_RaycastMask:
+    serializedVersion: 2
+    m_Bits: 0
+--- !u!114 &114000014073974840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010660804956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccec08191fdb68a4abf11ece95032fab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

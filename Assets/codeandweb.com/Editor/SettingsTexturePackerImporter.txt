@@ -1,0 +1,89 @@
+version: 2
+importPivots: 0
+tpsheetFileNames:
+- Assets/3GoGames/TuesdayNights/Sprites/Common/Basette_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Common/Common_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Common/Goal_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Common/Refree_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Credits/Atlas_Credits.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/HUD/Atlas_ScorePanel_Flags.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/HUD/Menues_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Stadiums/Stadium_CircleArena_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Stadiums/Stadium_ClayStade_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Stadiums/Stadium_Competitive_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Stadiums/Stadium_FlipperArena_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Stadiums/Stadium_Grass_01_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Stadiums/Stadium_InfiniteField_Atlas0.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Stadiums/Stadium_InfiniteField_Atlas1.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Stadiums/Stadium_PoolPalace_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Teams/BEL/BEL_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Teams/CRO/CRO_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Teams/ENG/ENG_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Teams/FRA/FRA_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Teams/GER/GER_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Teams/IRL/IRL_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Teams/ITA/ITA_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Teams/POL/POL_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Teams/POR/POR_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Teams/RUS/RUS_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Teams/SPA/SPA_Atlas.tpsheet
+- Assets/3GoGames/TuesdayNights/Sprites/Teams/SWE/SWE_Atlas.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets\3GoGames\TuesdayNights\Sprites\Common/Basette_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Common/Common_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Common/Goal_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Common/Refree_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Credits/Atlas_Credits.png
+- Assets\3GoGames\TuesdayNights\Sprites\HUD/Atlas_ScorePanel_Flags.png
+- Assets\3GoGames\TuesdayNights\Sprites\HUD/Menues_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Stadiums/Stadium_CircleArena_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Stadiums/Stadium_ClayStade_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Stadiums/Stadium_Competitive_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Stadiums/Stadium_FlipperArena_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Stadiums/Stadium_Grass_01_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Stadiums/Stadium_InfiniteField_Atlas0.png
+- Assets\3GoGames\TuesdayNights\Sprites\Stadiums/Stadium_InfiniteField_Atlas1.png
+- Assets\3GoGames\TuesdayNights\Sprites\Stadiums/Stadium_PoolPalace_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Teams\BEL/BEL_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Teams\CRO/CRO_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Teams\ENG/ENG_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Teams\FRA/FRA_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Teams\GER/GER_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Teams\IRL/IRL_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Teams\ITA/ITA_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Teams\POL/POL_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Teams\POR/POR_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Teams\RUS/RUS_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Teams\SPA/SPA_Atlas.png
+- Assets\3GoGames\TuesdayNights\Sprites\Teams\SWE/SWE_Atlas.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png

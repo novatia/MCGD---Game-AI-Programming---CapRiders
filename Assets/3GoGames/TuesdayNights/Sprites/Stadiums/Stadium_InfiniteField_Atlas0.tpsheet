@@ -1,0 +1,41 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:5bfad53881475206185ce14a519f902f:bade0fa8554b5901c6138a52e5d3c0bc:7aeb84c6e6262bfee0fb0b0bc0210e53$
+#
+:format=40000
+:texture=Stadium_InfiniteField_Atlas0.png
+:size=4096x4096
+
+AD_Infinite_01;1;3959;3550;136;0.5;0.5
+AD_Infinite_02;1;3821;3550;136;0.5;0.5
+AD_Infinite_03;1;3683;3550;136;0.5;0.5
+AD_Infinite_04;1;3545;3550;136;0.5;0.5
+AD_Infinite_05;1;3407;3550;136;0.5;0.5
+AD_Infinite_06;1;3269;3550;136;0.5;0.5
+AD_Infinite_07;1;3131;3550;136;0.5;0.5
+AD_Infinite_08;1;2993;3550;136;0.5;0.5
+AD_Infinite_09;1;2855;3550;136;0.5;0.5
+AD_Infinite_10;1;2717;3550;136;0.5;0.5
+AD_Infinite_11;1;2579;3550;136;0.5;0.5
+AD_Infinite_12;1;2441;3550;136;0.5;0.5
+AD_Infinite_13;1;2303;3550;136;0.5;0.5
+AD_Infinite_14;1;2165;3550;136;0.5;0.5
+AD_Infinite_15;1;2027;3550;136;0.5;0.5
+AD_Infinite_16;1;1889;3550;136;0.5;0.5
+AD_Infinite_17;1;1751;3550;136;0.5;0.5
+AD_Infinite_18;1;1613;3550;136;0.5;0.5
+AD_Infinite_19;1;1475;3550;136;0.5;0.5
+AD_Infinite_20;1;1337;3550;136;0.5;0.5
+AD_Infinite_21;1;1199;3536;136;0.5;0.5
+AD_Infinite_22loop;1;1061;3539;136;0.5;0.5
+AD_Infinite_23loop;1;923;3550;136;0.5;0.5
+AD_Infinite_24loop;1;785;3550;136;0.5;0.5
+AD_Infinite_25loop;1;647;3550;136;0.5;0.5
+AD_Infinite_26;1;509;3550;136;0.5;0.5
+AD_Infinite_27;1;371;3550;136;0.5;0.5
+AD_Infinite_28;1;233;3550;136;0.5;0.5
+HugeLights;3553;278;270;91;0.5;0.5
