@@ -103,7 +103,7 @@ MonoBehaviour:
   m_EvenTeamAIFactoryType:
     _classRef: tnStandardMatchAIFactory, Assembly-CSharp
   m_OddTeamAIFactoryType:
-    _classRef: tnStandardMatchAIFactory, Assembly-CSharp
+    _classRef: TestAIFactory, Assembly-CSharp
 --- !u!114 &114000012724614364
 MonoBehaviour:
   m_ObjectHideFlags: 0
