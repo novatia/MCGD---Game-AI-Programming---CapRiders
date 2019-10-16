@@ -104,6 +104,17 @@ public abstract class tnBaseAIInputFiller : tnAIInputFiller
         }
     }
 
+    protected float GetBallDistance (Transform otherPosition)
+    {
+        
+            if (self == null || ball == null)
+            {
+                return float.MaxValue;
+            }
+
+            return Vector2.Distance(new Vector2(otherPosition.position.x, otherPosition.position.y), ballPosition);
+    }
+
     protected Transform myGoal
     {
         get { return m_MyGoal; }
@@ -1642,6 +1653,86 @@ public abstract class tnBaseAIInputFiller : tnAIInputFiller
         */
 
         return 0.3f;
+    }
+
+
+
+    //MCGD 
+    protected bool GoalIsDistant()
+    {
+        bool ret = false;
+        ret = !IsBallInMyHalfSide();
+        return ret;
+    }
+
+    protected bool CanIShoot()
+    {
+        bool ret = false;
+
+        ret = Mathf.Abs(opponentGoalPosition.x - myPosition.x ) < 2*gkAreaWidth ;
+
+        return ret;
+    }
+
+    protected bool PathIsFree()
+    {
+        bool ret = false;
+        //raycast from ball position to goal position if hit opposite player return false
+        RaycastHit2D hit = Physics2D.Raycast(myPosition, opponentGoalPosition);
+
+        if (hit.collider != null)
+        {
+            ret = false;
+        }
+        else
+        {
+            ret = true;
+        }
+
+        return ret;
+    }
+
+    protected bool IHaveBall()
+    {
+        bool ret = false;
+
+        if (ballDistance < 1.0f)
+        {
+            ret = true;
+        }
+
+        return ret;
+    }
+
+    protected bool WeHaveBall()
+    {
+        bool ret = false;
+
+        foreach (Transform current_teammate in m_Teammates)
+        {
+            if (GetBallDistance(current_teammate) < 1.0f) {
+                ret = true;
+                break;
+            }
+        }
+
+        return ret;
+    }
+
+    protected bool TheyHaveBall()
+    {
+        bool ret = false;
+
+        foreach (Transform current_opponent in m_Opponents)
+        {
+            if (GetBallDistance(current_opponent) < 1.0f)
+            {
+                ret = true;
+                break;
+            }
+        }
+
+        return ret;
     }
 
     // tnInputFiller's INTERFACE

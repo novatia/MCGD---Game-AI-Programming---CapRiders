@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TuesdayNights;
-
+using System;
 
 public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
 {
@@ -38,11 +38,72 @@ public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
         bool requestDash = false;
         bool attract = false;
 
-        //DO SOMETHING
+        if ( WeHaveBall() )
+        {
+            //we have ball
+            if (IHaveBall())
+            {
+                //SELECT GOOD PATH TO GOAL
 
+                if (PathIsFree())
+                {
+                    if (CanIShoot())
+                    {
+                        //bring ball to right direction 
 
+                        //if ball is in right direction shoot
+                        requestKick = true;
+                    }
+                    else
+                    {
+                        //move along path
+                        axes = Seek(opponentGoalPosition, colliderRadius);
+                        attract = true;
+                    }
+                }
+                else
+                {
+                    //Obstacle avoidance
+                    requestKick = true;
+                }
 
+            }
+            else
+            {
+                //supporter
+                //KEEP CONSTANT DINSTANCE
+                for (int i = 0; i < teamCharactersCount;i++) {
+                    if (GetTeammateByIndex(i) != self)
+                    {
+                        axes = Seek(GetTeammateByIndex(i).gameObject.transform, colliderRadius);
+                        break;
+                    }
+                }
+            }
+        }
+        else
+        {
+            if (TheyHaveBall())
+            {
+                //they have ball
+                if (GoalIsDistant())
+                {
+                    //Goto ball
+                    axes = Seek(ballPosition, colliderRadius);
+                }
+                else
+                {
+                    //Goto to mygoal
+                    axes = Seek(myGoalPosition, colliderRadius);
+                }
+            }
+            else {
+                //NOBODY HAVE BALL
+                //SELECT GOOD PATH TO BALL
+                axes = Seek(ballPosition, colliderRadius);
+            }
 
+        }
 
         // Update action status.
         {
@@ -108,6 +169,7 @@ public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
 
         i_Data.SetButton(InputActions.s_AttractButton, attract);
     }
+
 
     // CTOR
     public mcgd201819AIInputFiller(GameObject i_Self)

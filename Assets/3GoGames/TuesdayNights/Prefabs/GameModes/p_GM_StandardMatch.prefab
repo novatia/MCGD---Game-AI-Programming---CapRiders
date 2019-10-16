@@ -101,9 +101,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EvenTeamAIFactoryType:
-    _classRef: tnStandardMatchAIFactory, Assembly-CSharp
-  m_OddTeamAIFactoryType:
     _classRef: TestAIFactory, Assembly-CSharp
+  m_OddTeamAIFactoryType:
+    _classRef: Test1AIFactory, Assembly-CSharp
 --- !u!114 &114000012724614364
 MonoBehaviour:
   m_ObjectHideFlags: 0
