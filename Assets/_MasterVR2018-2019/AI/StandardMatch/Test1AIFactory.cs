@@ -177,8 +177,21 @@ public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
         else
         {
             //DEFEND
-
-
+            if(WeHaveBall() && !IHaveBall()) //il mio compagno ha la palla
+            {
+                // a distanza fissa dalla porta e segue la palla come posizione y
+            }
+            else if(IHaveBall()) // io ho la palla
+            {
+                // "attiro" la palla
+                // mi allontano dalla porta
+                // lancio quando la palla è in posizione corretta
+            }
+            else if(TheyHaveBall()) // gli avversari hanno la palla
+            {
+                // mi avvicino alla porta
+                // cerco di predire la posizione di tiro e la intercetto
+            }
 
 
         }
