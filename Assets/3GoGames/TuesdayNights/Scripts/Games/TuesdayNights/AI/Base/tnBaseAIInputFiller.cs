@@ -115,6 +115,20 @@ public abstract class tnBaseAIInputFiller : tnAIInputFiller
             return Vector2.Distance(new Vector2(otherPosition.position.x, otherPosition.position.y), ballPosition);
     }
 
+    protected int GetMyIndex() {
+        int teamCharactersCount = m_Team.Count;
+
+        for (int index = 0; index < teamCharactersCount; ++index)
+        {
+            Transform character = m_Team[index];
+
+            if (character == self.transform)
+                return index;
+        }
+
+        return -1;
+    }
+
     protected Transform myGoal
     {
         get { return m_MyGoal; }

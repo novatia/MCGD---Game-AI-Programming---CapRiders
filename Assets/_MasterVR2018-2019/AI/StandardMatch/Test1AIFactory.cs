@@ -38,138 +38,151 @@ public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
         bool requestDash = false;
         bool attract = false;
 
-        if ( WeHaveBall() )
+        if (GetMyIndex() == 0)
         {
-            //we have ball
-            if (IHaveBall())
+            //ATTACK
+            if (WeHaveBall())
             {
-                //SELECT GOOD PATH TO GOAL
-
-                if (PathIsFree())
+                //we have ball
+                if (IHaveBall())
                 {
-                    if (CanIShoot())
-                    {
-                        //bring ball to right direction 
+                    //SELECT GOOD PATH TO GOAL
 
-                        //if ball is in right direction shoot
-                        requestKick = true;
+                    if (PathIsFree())
+                    {
+                        if (CanIShoot())
+                        {
+                            //bring ball to right direction 
+
+                            //if ball is in right direction shoot
+                            requestKick = true;
+                        }
+                        else
+                        {
+                            //move along path
+                            axes = Seek(opponentGoalPosition, colliderRadius);
+                            attract = true;
+                        }
                     }
                     else
                     {
-                        //move along path
-                        axes = Seek(opponentGoalPosition, colliderRadius);
-                        attract = true;
+                        //Obstacle avoidance
+                        requestKick = true;
+                    }
+
+                }
+                else
+                {
+                    //supporter
+                    //KEEP CONSTANT DINSTANCE
+                    for (int i = 0; i < teamCharactersCount; i++)
+                    {
+                        if (GetTeammateByIndex(i) != self)
+                        {
+                            axes = Seek(GetTeammateByIndex(i).gameObject.transform, colliderRadius);
+                            break;
+                        }
+                    }
+                }
+            }
+            else
+            {
+                if (TheyHaveBall())
+                {
+                    //they have ball
+                    if (GoalIsDistant())
+                    {
+                        //Goto ball
+                        axes = Seek(ballPosition, colliderRadius);
+                    }
+                    else
+                    {
+                        //Goto to mygoal
+                        axes = Seek(myGoalPosition, colliderRadius);
                     }
                 }
                 else
                 {
-                    //Obstacle avoidance
-                    requestKick = true;
+                    //NOBODY HAVE BALL
+                    //SELECT GOOD PATH TO BALL
+                    axes = Seek(ballPosition, colliderRadius);
                 }
 
             }
-            else
+
+            // Update action status.
             {
-                //supporter
-                //KEEP CONSTANT DINSTANCE
-                for (int i = 0; i < teamCharactersCount;i++) {
-                    if (GetTeammateByIndex(i) != self)
+                // Kick
+                if (m_KickCooldownTimer == 0f && (CheckEnergy(m_MinKickEnergy)))
+                {
+                    if (requestKick)
                     {
-                        axes = Seek(GetTeammateByIndex(i).gameObject.transform, colliderRadius);
-                        break;
+                        m_KickCooldownTimer = m_KickCooldown;
                     }
                 }
+                else
+                {
+                    requestKick = false; // Inhibit action.
+                }
+
+                // Dash
+
+                if (m_DashCooldownTimer == 0f && (CheckEnergy(m_MinDashEnergy)))
+                {
+                    if (requestDash)
+                    {
+                        m_DashCooldownTimer = m_DashCooldown;
+                    }
+                }
+                else
+                {
+                    requestDash = false; // Inhibit action.
+                }
+
+                // Tackle
+                /*
+                if (!requestKick)
+                {
+                    if (m_TackleCooldownTimer == 0f && (CheckEnergy(m_MinTackleEnergy)))
+                    {
+                        Transform nearestOpponent;
+                        if (UpdateTackle(out nearestOpponent))
+                        {
+                            requestKick = true;
+
+                            m_TackleCooldownTimer = m_TackleCooldown;
+                        }
+                    }
+                }
+                */
             }
+
+            if (m_SmoothTime > 0f)
+            {
+                axes.x = Mathf.SmoothDamp(m_Axes.x, axes.x, ref m_AxesSpeed.x, m_SmoothTime);
+                axes.y = Mathf.SmoothDamp(m_Axes.y, axes.y, ref m_AxesSpeed.y, m_SmoothTime);
+            }
+
+            m_Axes = axes;
+
+            // Fill input data.
+            i_Data.SetAxis(InputActions.s_HorizontalAxis, axes.x);
+            i_Data.SetAxis(InputActions.s_VerticalAxis, axes.y);
+
+            i_Data.SetButton(InputActions.s_PassButton, requestKick);
+            i_Data.SetButton(InputActions.s_ShotButton, requestDash);
+
+            i_Data.SetButton(InputActions.s_AttractButton, attract);
         }
         else
         {
-            if (TheyHaveBall())
-            {
-                //they have ball
-                if (GoalIsDistant())
-                {
-                    //Goto ball
-                    axes = Seek(ballPosition, colliderRadius);
-                }
-                else
-                {
-                    //Goto to mygoal
-                    axes = Seek(myGoalPosition, colliderRadius);
-                }
-            }
-            else {
-                //NOBODY HAVE BALL
-                //SELECT GOOD PATH TO BALL
-                axes = Seek(ballPosition, colliderRadius);
-            }
+            //DEFEND
+
+
+
 
         }
-
-        // Update action status.
-        {
-            // Kick
-            if (m_KickCooldownTimer == 0f && (CheckEnergy(m_MinKickEnergy)))
-            {
-                if (requestKick)
-                {
-                    m_KickCooldownTimer = m_KickCooldown;
-                }
-            }
-            else
-            {
-                requestKick = false; // Inhibit action.
-            }
-
-            // Dash
-
-            if (m_DashCooldownTimer == 0f && (CheckEnergy(m_MinDashEnergy)))
-            {
-                if (requestDash)
-                {
-                    m_DashCooldownTimer = m_DashCooldown;
-                }
-            }
-            else
-            {
-                requestDash = false; // Inhibit action.
-            }
-
-            // Tackle
-            /*
-            if (!requestKick)
-            {
-                if (m_TackleCooldownTimer == 0f && (CheckEnergy(m_MinTackleEnergy)))
-                {
-                    Transform nearestOpponent;
-                    if (UpdateTackle(out nearestOpponent))
-                    {
-                        requestKick = true;
-
-                        m_TackleCooldownTimer = m_TackleCooldown;
-                    }
-                }
-            }
-            */
-        }
-
-        if (m_SmoothTime > 0f)
-        {
-            axes.x = Mathf.SmoothDamp(m_Axes.x, axes.x, ref m_AxesSpeed.x, m_SmoothTime);
-            axes.y = Mathf.SmoothDamp(m_Axes.y, axes.y, ref m_AxesSpeed.y, m_SmoothTime);
-        }
-
-        m_Axes = axes;
-
-        // Fill input data.
-        i_Data.SetAxis(InputActions.s_HorizontalAxis, axes.x);
-        i_Data.SetAxis(InputActions.s_VerticalAxis, axes.y);
-
-        i_Data.SetButton(InputActions.s_PassButton, requestKick);
-        i_Data.SetButton(InputActions.s_ShotButton, requestDash);
-
-        i_Data.SetButton(InputActions.s_AttractButton, attract);
     }
-
 
     // CTOR
     public mcgd201819AIInputFiller(GameObject i_Self)
