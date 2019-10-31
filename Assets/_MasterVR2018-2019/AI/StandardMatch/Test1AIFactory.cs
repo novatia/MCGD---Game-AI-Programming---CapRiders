@@ -115,32 +115,39 @@ public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
         else
         {
             //DEFEND
-            if(WeHaveBall() && !IHaveBall()) //il mio compagno ha la palla
+            if (WeHaveBall() && !IHaveBall()) //il mio compagno ha la palla
             {
                 // a distanza fissa dalla porta e segue la palla come posizione y
-                Vector2 target = new Vector2(myGoalPosition.x, ballPosition.y);
+                Vector2 target = new Vector2(myGoalPosition.x - 2.0f, ballPosition.y);
                 axes = Seek(target, colliderRadius);
 
             }
-            else if(IHaveBall()) // io ho la palla
+            else if (IHaveBall()) // io ho la palla
             {
                 // "attiro" la palla
                 attract = true;
                 // mi allontano dalla porta (raggiungo compagno di squadra)
                 axes = Seek(GetTeammateByIndex(0).position, colliderRadius);
                 // lancio quando la palla è in posizione corretta
-                requestDash = true;
+                //requestDash = true;
                 requestKick = true;
             }
-            else if(TheyHaveBall()) // gli avversari hanno la palla
+            else if (TheyHaveBall()) // gli avversari hanno la palla
             {
                 // mi avvicino alla porta
-                axes = Seek(myGoalPosition, colliderRadius);
+                axes = Seek(new Vector2(myGoalPosition.x - 2.0f, myGoalPosition.y), colliderRadius);
                 // cerco di predire la posizione di tiro e la intercetto
                 axes = Interpose(ball, ball);
             }
+            else if (IsBallInMyHalfSide())
+            {
+                axes = Seek(ballPosition, colliderRadius);
+                requestKick = true;
+            }
             else
-                axes = Seek(myGoalPosition, colliderRadius);
+            {
+                axes = Seek(new Vector2(myGoalPosition.x - 2.0f, myGoalPosition.y), colliderRadius);
+            }
         }
 
         // Update action status.
@@ -254,3 +261,4 @@ public class Test1AIFactory : tnBaseStandardMatchAIFactory
         return new mcgd201819AIInputFiller(i_Character);
     }
 }
+
