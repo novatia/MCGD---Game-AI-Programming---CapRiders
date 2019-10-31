@@ -18,6 +18,8 @@ public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
     private float m_DashCooldown = 0.50f;
     private float m_TackleCooldown = 2.0f;
 
+    bool m_NextKick = false;
+    int m_NextKickRoundCount = 3;
 
     private float m_SmoothTime = 0.0f;
     private Vector2 m_Axes = Vector2.zero;
@@ -53,14 +55,38 @@ public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
                         if (CanIShoot())
                         {
                             //bring ball to right direction 
+                            if (!m_NextKick)
+                            {
 
-                            //if ball is in right direction shoot
-                            requestKick = true;
+                                Vector3 ballDirection = new Vector3(GetBallDirection(self).x, GetBallDirection(self).y,0.0f);
+                                Vector3 goalDirection = new Vector3( GetOpponentGoalDirection(self).x, GetOpponentGoalDirection(self).y,0.0f) ;
+                                
+                                axes = -Seek(Vector2.Perpendicular(goalDirection));
+
+                                Quaternion look = Quaternion.LookRotation(goalDirection, ballDirection);
+
+                                float vertical =360- look.eulerAngles.x;
+                                float horizontal =360- look.eulerAngles.y;
+                                Debug.Log("H: "+ horizontal+" V: "+ vertical);
+
+                                if (vertical < 4.0f)
+                                {
+                                    m_NextKick = true;
+                                }
+                            }
+                            else
+                            {
+                                    axes = Seek(opponentGoalPosition);
+                                    requestKick = true;
+                                    //set kick after 10ms
+                                    m_NextKick = false;
+                            }
                         }
                         else
                         {
                             //move along path
-                            axes = Seek(opponentGoalPosition, colliderRadius);
+                            axes = Seek(opponentGoalPosition);
+                            axes.x += 0.15f;
                             attract = true;
                         }
                     }
@@ -105,7 +131,8 @@ public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
                 {
                     //NOBODY HAVE BALL
                     //SELECT GOOD PATH TO BALL
-                    axes = Seek(ballPosition, colliderRadius);
+                    requestDash = true;
+                    axes = Seek(ballPosition);
                 }
 
             }

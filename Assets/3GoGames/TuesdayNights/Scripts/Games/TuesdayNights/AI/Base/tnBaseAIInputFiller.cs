@@ -1722,7 +1722,7 @@ public abstract class tnBaseAIInputFiller : tnAIInputFiller
     {
         bool ret = false;
 
-        foreach (Transform current_teammate in m_Teammates)
+        foreach (Transform current_teammate in m_Team)
         {
             if (GetBallDistance(current_teammate) < 1.0f) {
                 ret = true;
