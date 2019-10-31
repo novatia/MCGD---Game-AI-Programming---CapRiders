@@ -137,78 +137,109 @@ public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
 
             }
 
-            // Update action status.
-            {
-                // Kick
-                if (m_KickCooldownTimer == 0f && (CheckEnergy(m_MinKickEnergy)))
-                {
-                    if (requestKick)
-                    {
-                        m_KickCooldownTimer = m_KickCooldown;
-                    }
-                }
-                else
-                {
-                    requestKick = false; // Inhibit action.
-                }
-
-                // Dash
-
-                if (m_DashCooldownTimer == 0f && (CheckEnergy(m_MinDashEnergy)))
-                {
-                    if (requestDash)
-                    {
-                        m_DashCooldownTimer = m_DashCooldown;
-                    }
-                }
-                else
-                {
-                    requestDash = false; // Inhibit action.
-                }
-
-                // Tackle
-                /*
-                if (!requestKick)
-                {
-                    if (m_TackleCooldownTimer == 0f && (CheckEnergy(m_MinTackleEnergy)))
-                    {
-                        Transform nearestOpponent;
-                        if (UpdateTackle(out nearestOpponent))
-                        {
-                            requestKick = true;
-
-                            m_TackleCooldownTimer = m_TackleCooldown;
-                        }
-                    }
-                }
-                */
-            }
-
-            if (m_SmoothTime > 0f)
-            {
-                axes.x = Mathf.SmoothDamp(m_Axes.x, axes.x, ref m_AxesSpeed.x, m_SmoothTime);
-                axes.y = Mathf.SmoothDamp(m_Axes.y, axes.y, ref m_AxesSpeed.y, m_SmoothTime);
-            }
-
-            m_Axes = axes;
-
-            // Fill input data.
-            i_Data.SetAxis(InputActions.s_HorizontalAxis, axes.x);
-            i_Data.SetAxis(InputActions.s_VerticalAxis, axes.y);
-
-            i_Data.SetButton(InputActions.s_PassButton, requestKick);
-            i_Data.SetButton(InputActions.s_ShotButton, requestDash);
-
-            i_Data.SetButton(InputActions.s_AttractButton, attract);
+            
         }
         else
         {
             //DEFEND
+            if (WeHaveBall() && !IHaveBall()) //il mio compagno ha la palla
+            {
+                // a distanza fissa dalla porta e segue la palla come posizione y
+                Vector2 target = new Vector2(myGoalPosition.x - 2.0f, ballPosition.y);
+                axes = Seek(target, colliderRadius);
 
-
-
-
+            }
+            else if (IHaveBall()) // io ho la palla
+            {
+                // "attiro" la palla
+                attract = true;
+                // mi allontano dalla porta (raggiungo compagno di squadra)
+                axes = Seek(GetTeammateByIndex(0).position, colliderRadius);
+                // lancio quando la palla è in posizione corretta
+                //requestDash = true;
+                requestKick = true;
+            }
+            else if (TheyHaveBall()) // gli avversari hanno la palla
+            {
+                // mi avvicino alla porta
+                axes = Seek(new Vector2(myGoalPosition.x - 2.0f, myGoalPosition.y), colliderRadius);
+                // cerco di predire la posizione di tiro e la intercetto
+                axes = Interpose(ball, ball);
+            }
+            else if (IsBallInMyHalfSide())
+            {
+                axes = Seek(ballPosition, colliderRadius);
+                requestKick = true;
+            }
+            else
+            {
+                axes = Seek(new Vector2(myGoalPosition.x - 2.0f, myGoalPosition.y), colliderRadius);
+            }
         }
+
+        // Update action status.
+        {
+            // Kick
+            if (m_KickCooldownTimer == 0f && (CheckEnergy(m_MinKickEnergy)))
+            {
+                if (requestKick)
+                {
+                    m_KickCooldownTimer = m_KickCooldown;
+                }
+            }
+            else
+            {
+                requestKick = false; // Inhibit action.
+            }
+
+            // Dash
+
+            if (m_DashCooldownTimer == 0f && (CheckEnergy(m_MinDashEnergy)))
+            {
+                if (requestDash)
+                {
+                    m_DashCooldownTimer = m_DashCooldown;
+                }
+            }
+            else
+            {
+                requestDash = false; // Inhibit action.
+            }
+
+            // Tackle
+            /*
+            if (!requestKick)
+            {
+                if (m_TackleCooldownTimer == 0f && (CheckEnergy(m_MinTackleEnergy)))
+                {
+                    Transform nearestOpponent;
+                    if (UpdateTackle(out nearestOpponent))
+                    {
+                        requestKick = true;
+
+                        m_TackleCooldownTimer = m_TackleCooldown;
+                    }
+                }
+            }
+            */
+        }
+
+        if (m_SmoothTime > 0f)
+        {
+            axes.x = Mathf.SmoothDamp(m_Axes.x, axes.x, ref m_AxesSpeed.x, m_SmoothTime);
+            axes.y = Mathf.SmoothDamp(m_Axes.y, axes.y, ref m_AxesSpeed.y, m_SmoothTime);
+        }
+
+        m_Axes = axes;
+
+        // Fill input data.
+        i_Data.SetAxis(InputActions.s_HorizontalAxis, axes.x);
+        i_Data.SetAxis(InputActions.s_VerticalAxis, axes.y);
+
+        i_Data.SetButton(InputActions.s_PassButton, requestKick);
+        i_Data.SetButton(InputActions.s_ShotButton, requestDash);
+
+        i_Data.SetButton(InputActions.s_AttractButton, attract);
     }
 
     // CTOR
@@ -257,3 +288,4 @@ public class Test1AIFactory : tnBaseStandardMatchAIFactory
         return new mcgd201819AIInputFiller(i_Character);
     }
 }
+
