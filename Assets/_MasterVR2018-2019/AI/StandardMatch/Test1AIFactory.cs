@@ -55,9 +55,7 @@ public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
 
     public override void Fill(float i_FrameTime, tnInputData i_Data)
     {
-
         // Update timers.
-
         UpdateCooldownTimers(i_FrameTime);
 
         UpdateRecoverTimer(i_FrameTime);
@@ -132,7 +130,7 @@ public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
                     else
                     {
                         //Goto to mygoal
-                        axes = Seek(myGoalPosition, colliderRadius);
+                        Recover(myGoalPosition, out axes, out requestKick, out requestDash);
                     }
                 }
                 else
@@ -142,10 +140,7 @@ public class mcgd201819AIInputFiller : tnStandardAIInputFillerBase
                     requestDash = true;
                     axes = Seek(ballPosition);
                 }
-
             }
-
-            
         }
         else
         {
